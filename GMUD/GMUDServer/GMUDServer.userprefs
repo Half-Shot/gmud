@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GMUDServer/Game.cs">
+    <Files>
+      <File FileName="GMUDServer/Game.cs" Line="133" Column="24" />
+      <File FileName="GMUDServer/Program.cs" Line="695" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/AccessPolicyServer.cs" line="70" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketClient.cs" line="240" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketClient.cs" line="356" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketClient.cs" line="364" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketClient.cs" line="369" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="295" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="296" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="297" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="341" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="300" />
+      <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="303" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Alchemy-Websockets/src/Alchemy/Handlers/Handler.cs" line="142" offsetX="239" offsetY="1536" expression="message" liveUpdate="False" />
+    <Watch file="Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="315" offsetX="800" offsetY="3326" expression="context" liveUpdate="False" />
+    <Watch file="Alchemy-Websockets/src/Alchemy/Handlers/WebSocket/rfc6455/DataFrame.cs" line="102" offsetX="275" offsetY="1092" expression="someBytes" liveUpdate="False" />
+    <Watch file="Alchemy-Websockets/src/Alchemy/Classes/UserContext.cs" line="172" offsetX="533" offsetY="1465" expression="Context.Connection" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

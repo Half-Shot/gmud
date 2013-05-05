@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="Console.css">
+<script src="js/jquery.js"></script>
+<script src="js/PacketHandler.js"></script>
+<script src="js/Config.js"></script>
+<script src="js/UI.js"></script>
+<script src="js/Client.js"></script>
+<script>
+</script>
+</head>
+
+<body onload="">
+	<img src="http://placehold.it/700x150" id="logo">
+	<div class="leftpanel">
+		<img id="Portrait" src="images/Portrait.jpg"/>
+		<br>
+		<div class="profilevaluename">Health:</div><div class="profilevalue" id="health"></div>
+		<div class="profilevaluename">Level:</div><div class="profilevalue" id="level"></div>
+		<div class="profilevaluename">Attack Level:</div><div class="profilevalue" id="attacklvl"></div>
+		<div class="profilevaluename">Attack XP:</div><div class="profilevalue" id="attackxp"></div>
+		<div class="profilevaluename">Defence Level:</div><div class="profilevalue" id="defencelvl"></div>
+		<div class="profilevaluename">Defence XP:</div><div class="profilevalue" id="defencexp"></div>
+		<div class="profilevaluename">Magic Level:</div><div class="profilevalue" id="magiclevel"></div>
+		<div class="profilevaluename">Magic XP:</div><div class="profilevalue" id="magicxp"></div>
+		<div class="profilevaluename">Kills:</div><div class="profilevalue" id="kills"></div>
+		<div class="profilevaluename">Dungeon Level:</div><div class="profilevalue" id="dungeon"></div>
+	</div>
+	<div class="loginbox">
+		Server Details:
+		<br>
+		<input type="text" class="textbox" id="serverip" placeholder="127.0.0.1">
+		<input type="text" class="textbox" id="serverport" placeholder="2480">
+		<br>
+		Login:
+		<br>
+		<input type="text" class="textbox" id="username" placeholder="Username">
+		<input type="password" class="textbox" id="password" placeholder="Password">
+		<br>
+		<button class="button" id="loginbutton" onclick="main()">Login</button>
+	</div>
+	<div class="minimap">
+
+	</div>
+
+	<br>
+	<div id="progressbox">Not Connected</div>
+	<br>
+	
+	<div class="game">
+		<div class="console" id="consoleBox" readonly ></div>
+		<input class="coninput" id="combox" type="text" >
+		<button onclick="sendCommand()" class="consend">Send</button>
+	</div>
+
+<!-- <script src="js/Graphic.js"/>  -->
+<script>
+//Definitions
+var progressBox = document.getElementById("progressbox");
+var consoleBox = document.getElementById("consoleBox");
+consoleBox.value = "";
+</script>
+</body>
+<footer>
+By Sharpened Studios. For the Chelmsford GameJam 2013.
+</footer>
+</html>

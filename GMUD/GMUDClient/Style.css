@@ -1,0 +1,151 @@
+#logo
+{
+	position:relative;
+	left:25%;
+}
+#serverport
+{
+width:50px;
+}
+
+.game
+{
+	border:1px solid black;
+	background-color: lightgrey;
+	width: 60%;
+	height: 60%;
+	position:relative;
+	left:15%;
+}
+
+.console
+{
+	resize: none;
+	position: relative;
+	width: 100%;
+	height:92%;
+	width:98%;
+	left: 1%;
+	border:1px solid black;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	background-color: white;
+	line-height:50%;
+}
+
+.coninput
+{
+	position: relative;
+	left: 1%;
+	width:94%;
+	border:1px solid black;
+}
+.consend
+{
+	border:1px solid black;
+	position: relative;
+	width: 4%;
+}
+
+.loginbox
+{
+	position:relative;
+	left:15%;
+	background-color: lightgrey;
+	width:15%;
+	border:1px solid black;
+}
+
+.minimap
+{
+	position:fixed;
+	width:300px;
+	height:300px;
+	top:5%;
+	right:5%;
+	background-color: black;
+	border:1px solid black;
+	font-size:25%;
+	display:inline-block;
+}
+
+.textbox
+{
+style: flat;
+border: 1px solid black;
+}
+
+#progressbox
+{
+	position:relative;
+	left:15%;
+	border:1px solid black;
+	width: 15%;
+}
+
+footer
+{
+	position:relative;
+	left:35%;
+}
+
+.leftpanel
+{
+	position:fixed;
+	left:0px;
+	width:150px;
+	height:100%;
+	top: 0px;
+	background-color: lightgrey;
+	border:1px solid black;
+}
+
+#Portrait
+{
+position:relative;
+top: 20px;
+left: 35px;
+width:75px;
+height:100px;
+background-color: white;
+border:1px solid black;
+}
+
+.profilevalue
+{
+top: 40px;
+position:relative;
+border:1px solid black;
+background-color: white;
+height:20px;
+width:50px;
+display:inline-block;
+}
+
+.profilevaluename
+{
+top: 40px;
+margin: 10px;
+position:relative;
+height:20px;
+width:75px;
+display:inline-block;
+}
+
+.tile_w
+{
+color: white;
+display:inline-block;
+}
+
+.tile_f
+{
+color: gray;
+display:inline-block;
+}
+
+.tile_d
+{
+color: blue;
+display:inline-block;
+}
