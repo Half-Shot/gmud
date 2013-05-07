@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMUDServer", "GMUDServer\GMUDServer.csproj", "{373458A9-37AD-4003-A9C1-E5230C8A299E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fleck", "..\..\GitRepos\Fleck\src\Fleck\Fleck.csproj", "{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,26 +33,6 @@ Global
 		{373458A9-37AD-4003-A9C1-E5230C8A299E}.Release|x64.Build.0 = Release|x86
 		{373458A9-37AD-4003-A9C1-E5230C8A299E}.Release|x86.ActiveCfg = Release|x86
 		{373458A9-37AD-4003-A9C1-E5230C8A299E}.Release|x86.Build.0 = Release|x86
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|x64.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Debug|x86.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release_Ubuntu|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release_Ubuntu|Any CPU.Build.0 = Debug|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|x64.ActiveCfg = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|x64.Build.0 = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|x86.ActiveCfg = Release|Any CPU
-		{8B12D929-AFA9-4307-BEFF-2ED0F1070FEE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = GMUDServer\GMUDServer.csproj

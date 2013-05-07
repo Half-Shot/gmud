@@ -7,16 +7,15 @@ namespace GMUDServer
 {
     class Player : Entity
     {
-        public int id, maxhealth, health, attackxp, defencexp, magicxp, kills, attacklevel, defencelevel, magiclevel, level;
-
-        public string name;
+		public int id, maxhealth, attackxp, defencexp, magicxp, kills, attacklevel, defencelevel, magiclevel;
 		public string address;
         public bool admin;
         public bool banned;
+
         public WebSocketSession session;
         public Player()
         {
-
+			waitingToSpawn = false;
         }
 
         public Player(int id, string name)
@@ -55,9 +54,7 @@ namespace GMUDServer
                 + defencexp + "," //5
                 + magicxp + "," //6
                 + kills + "," //7
-                + position.x + "," //8
-                + position.y + "," //9
-                + position.z + "," //10
+                + position.ToString() + "," //8 //9 //10
                 + attacklevel + "," //11
                 + defencelevel + "," //12
                 + magiclevel + "," //13
@@ -66,9 +63,33 @@ namespace GMUDServer
                 + MiscMethods.BoolToInt(banned); //16
         }
 
-		public override void Spawn (int health)
+		public override void Spawn (int health, Cord pos)
 		{
-			base.Spawn (health);
+			base.Spawn (health, pos);
+			session.Send("[UPP]" + ToString());
+		}
+
+		public bool Move (Direction dir)
+		{
+			if(Program.server.MainGame.map.FindTileByDir(position,(int)dir,'.',1) == -1)
+				return false;
+
+			switch (dir) {
+			case Direction.UP:
+				position.y--;
+				break;
+			case Direction.RIGHT:
+				position.x++;
+				break;
+			case Direction.DOWN:
+				position.y++;
+				break;
+			case Direction.LEFT:
+				position.x--;
+				break;
+			}
+
+			return true;
 		}
     }
 
@@ -330,24 +351,53 @@ namespace GMUDServer
 
 	class EntityHandler
 	{
-		List<Entity> ents = new List<Entity>();
+		private List<Entity> Ents = new List<Entity>();
+		public List<Entity> ents {
+			get {
+				return Ents;
+			}
+
+		}
+
+		List<Entity> entstoadd = new List<Entity>();
+		List<Entity> entstoremove = new List<Entity>();
+
+		public void AddEnt(Entity ent)
+		{
+			entstoadd.Add(ent);
+		}
+
+		public void RemoveEnt(Entity ent)
+		{
+			entstoremove.Add(ent);
+		}
+
 		public EntityHandler()
 		{
 
 		}
 
-		public void Update()
+		public void Update ()
 		{
-			foreach (Entity ent in ents) {
-				if(ent.Spawned){
-				ent.Update();
-				ent.RunAI();
+			ents.AddRange(entstoadd);
+
+			foreach (Entity ent in entstoremove) {
+				Ents.Remove(ent);
+			}
+			entstoadd.Clear();
+			entstoremove.Clear();
+
+			for (int i = 0; i < ents.Count(); i++) {
+				if(Ents[i].Spawned){
+				Ents[i].Update();
+				Ents[i].RunAI();
 				}
-				else
+				else if(Ents[i].waitingToSpawn)
 				{
-					ent.Spawn(10);
+					Ents[i].Spawn(10);
 				}
 			}
+			System.Threading.Thread.Sleep(25);
 		}
 
 		public int Distance(Entity e_from, Entity e_to)
@@ -361,7 +411,9 @@ namespace GMUDServer
 		public Entity[] Scan(Entity input, int distance = 25)
 		{
 			List<Entity> found = new List<Entity>();
-			foreach (Entity ent in ents) {
+			foreach (Entity ent in Ents) {
+				if(ent == input)
+					continue;
 				if(Distance(input,ent) < 25)
 				{
 					found.Add(ent);
@@ -369,6 +421,18 @@ namespace GMUDServer
 			}
 
 			return found.ToArray();
+		}
+
+		public Player[] PlayerList()
+		{
+			Entity[] ents = Ents.ToArray();
+			List<Player> plrs = new List<Player>();
+			foreach (Entity ent in ents) {
+				if(ent.GetType() == typeof(Player))
+					plrs.Add((Player)ent);
+			}
+
+			return plrs.ToArray();
 		}
 	}
 
@@ -382,6 +446,7 @@ namespace GMUDServer
 		public string name;
 		public char letter;
 		public bool isinCombat;
+		public bool waitingToSpawn = true;
 		public Entity ()
 		{
 			position = new Cord(0,0,0);
@@ -397,15 +462,21 @@ namespace GMUDServer
 
 		}
 
-		public virtual void Spawn(int health)
+		public virtual void Spawn (int health, Cord pos = null)
 		{
 			this.health = health;
 			Spawned = true;
-			Room room = Program.server.MainGame.map.rooms[rand.Next(0,Program.server.MainGame.map.rooms.Count - 1)];
-			position.x = room.x;
-			position.y = room.y;
-			position.z = room.z;
+			if (pos == null) {
+				Room room = Program.server.MainGame.map.rooms [rand.Next (0, Program.server.MainGame.map.rooms.Count - 1)]; //Get a random spawn room.
+				position = new Cord(0,0,0);
+				position.x = room.x;
+				position.y = room.y;
+				position.z = room.z;
+			}
+			else
+				position = pos;
 
+			Logger.LogMsg("Spawned a " + name + " at " + position,2);
 		}
 
 		public virtual void RunAI()
@@ -429,11 +500,11 @@ namespace GMUDServer
 			quotes[1] = "Subway!";
 		}
 
-		public virtual void RunAI ()
+		public override void RunAI ()
 		{
 			if ((talktimer - DateTime.Now).Seconds > 10) {
 				talktimer = DateTime.Now;
-				foreach (Player plr  in Program.server.connected_players) {
+				foreach (Player plr  in Program.server.MainGame.entityHandler.ents) {
 					if(Program.server.MainGame.entityHandler.Distance(plr,this) < 25)
 					{
 						plr.session.Send("[SAY]" + quotes[rand.Next(0,2)]);
@@ -470,5 +541,18 @@ namespace GMUDServer
 			this.y = y;
 			this.z = z;
 		}
+
+		public override string ToString ()
+		{
+			return x + "," + y + "," + z;
+		}
+	}
+
+	enum Direction
+	{
+		UP = 0,
+		LEFT = 1,
+		DOWN = 2,
+		RIGHT = 3
 	}
 }

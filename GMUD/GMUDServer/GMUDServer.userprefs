@@ -2,9 +2,30 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GMUDServer/Game.cs">
     <Files>
-      <File FileName="GMUDServer/Game.cs" Line="133" Column="24" />
-      <File FileName="GMUDServer/Program.cs" Line="695" Column="7" />
+      <File FileName="GMUDServer/Game.cs" Line="387" Column="22" />
+      <File FileName="GMUDServer/Program.cs" Line="81" Column="3" />
+      <File FileName="GMUDServer/PacketTypes.txt" Line="4" Column="1" />
+      <File FileName="GMUDServer/PacketHandler.cs" Line="123" Column="1" />
+      <File FileName="GMUDServer/DatabaseHandler.cs" Line="152" Column="34" />
+      <File FileName="GMUDServer/MainServer.cs" Line="184" Column="8" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GMUDServer" expanded="True">
+            <Node name="Game.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>mapdata</Value>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
@@ -19,6 +40,7 @@
       <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="341" />
       <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="300" />
       <Breakpoint file="/home/marvin/GMUD/GMUDServer/Alchemy-Websockets/src/Alchemy/WebSocketServer.cs" line="303" />
+      <Breakpoint file="/home/marvin/GitRepos/gmud/GMUD/GMUDServer/GMUDServer/DatabaseHandler.cs" line="150" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>

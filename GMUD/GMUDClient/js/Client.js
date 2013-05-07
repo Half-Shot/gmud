@@ -7,30 +7,51 @@ var isLoggedIn = false;
 var playerData;
 var mapdata;
 var plr_x = 10,plr_y = 10;
+var conbox;
 function main(serverip)
 {
-	serverip = document.getElementById("serverip").value;
-	serverport = document.getElementById("serverport").value;
-	console.log('Starting Client ' + version + ' using Server IP of ' + serverip);
-	progressBox.innerHTML = "Connecting...";
-	serverIP = serverip;
-	WebSocketSetup();
+	if(validation == false){ return;}
+	if(webSocket == null || webSocket.readyState != 1){
+		serverip = document.getElementById("serverip").value;
+		serverport = document.getElementById("serverport").value;
+		console.log('Starting Client ' + version + ' using Server IP of ' + serverip);
+		progressBox.innerHTML = "Connecting...";
+		serverIP = serverip;
+		conbox = document.getElementById("consoleBox");
+		WebSocketSetup();
+	}
+	else
+	{
+		alert("You cannot have more than one login in the same window! (hint,hint) ");	
+	}
 }
 
+function validation()
+{
+	var problems = "";
+	if(document.getElementById("serverip").value == "")
+		problems += "Please type a server IP/n";
+	if(document.getElementById("serverport").value == "")
+		problems += "Please type a server port/n";
+	if(document.getElementById("username").value == "")
+		problems += "Please type a username/n";
+	if(document.getElementById("password").value == "")
+		problems += "Please type a password/n";
+	if(problems != "")
+	{
+		alert(problems);
+		return false;
+	}
+	
+	return true;
+}
 function onOpen()
 {
 	        // Web Socket is connected, send data using send()
 		//Login Process
-		if(document.getElementById("username").value == "" || document.getElementById("password").value == "")
-		{
-			alert("Please type a username and password!");
-			webSocket.close();
-			return;
-		}
 		sleep(2500);
 		LogToGameConsole('Waiting for login details.','Log');
 		webSocket.send("[ACN]" + document.getElementById("username").value + "," + document.getElementById("password").value);
-		$("#loginbutton").attr('disabled','disabled');
 		window.onbeforeunload = function() {
 		    webSocket.onclose = function () {}; // disable onclose handler first
 		    webSocket.close();
@@ -44,27 +65,31 @@ function DownloadUserData(player)
 		progressBox.innerHTML = "Connected";
 		webSocket.send("[LOD]" + playerID);
 		webSocket.send("[MAP]NeedMapData");
+		webSocket.send("[RDY]"); // The players got everything.
 }
 
 function onMsg(evt) 
 { 
 		//LogToGameConsole('New Message: ' + evt.data,'Log');
 		DefinePacket(evt.data);
-		Update();
+		
+		if(isLoggedIn)
+			Update();
+		
+		conbox.scrollTop = conbox.scrollHeight; //Scroll box down when a new message appears.
 }
 
 function onClose()
 {
 	alert("Connection closed"); 
 	progressBox.innerHTML =  "Not Connected";
-	$("#loginbutton").removeAttr("disable");
 }
 
 function onError(evt)
 {
 	if(webSocket.readyState == 0)
 	{
-	alert("Sorry, The Server Is Offline.")
+	alert("Sorry, The Server Is Offline.");
 	}
 	progressBox.innerHTML =  "Error";
 }
@@ -116,11 +141,15 @@ function sendCommand()
 
 function Update()
 {
+	if(mapdata !== "undefined"){
 	Minimap();
+	}
 	UpdatePlayerStats();
+	plr_x = playerData[8];
+	plr_y = playerData[9];
 }
 
 function LogToGameConsole(msg, tpe)
 {
-consoleBox.innerHTML += "<div class='ConsoleMsg" + tpe +"'>" + msg + "</div><br>";
+	conbox.innerHTML += "<div class='ConsoleMsg" + tpe +"'>" + msg + "</div><br>";
 }

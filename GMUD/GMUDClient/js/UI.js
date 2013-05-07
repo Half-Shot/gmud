@@ -10,12 +10,11 @@ function Minimap()
 {
 	var line = "";
 	var x = plr_x;
-	var sizemap = 50;
+	var sizemap = 10;
 	$(".minimap").empty();
 	for (var y = plr_y - sizemap; y < plr_y + sizemap; y++)
 	{
-		if( y < 0){ y = 0; }
-		if( x < 0){ x = 0; }
+		if( y < 0 || (x- sizemap) < 0){line += "<div class='tile_w'>" + mapline[i] + "</div>";}
 		var mapline = mapdata[y].substring(x - sizemap,x + sizemap);
 		for (var i=0;i<mapline.length;i++){
 			switch(mapline[i]){

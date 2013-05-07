@@ -43,9 +43,9 @@ function onMsg(evt)
 	{
 		var msg = "";
 		if(arguments[0] == "0"){
-			msg = "You win. Your being redirected to the game page."}
+			msg = "You win. Your being redirected to the game page.";}
 		else{
-			msg = "You dune goofed:"
+			msg = "You dune goofed:";
 			var length = arguments.length,
 			element = null;
 			for (var i = 0; i < length; i++) {
@@ -62,6 +62,9 @@ function onMsg(evt)
 					break;
 				case "4":
 					msg += "The account name is invalid.";
+					break;
+				case "5":
+					msg = "Coudln't create account due to server issues. Please wait while they are fixed.";
 					break;
 				}
 			

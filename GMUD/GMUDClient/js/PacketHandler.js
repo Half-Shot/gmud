@@ -19,6 +19,7 @@ function DefinePacket(msg)
 			console.log('Recieved player info for playerID' + playerID + ": " + rest);
 			playerData = arguments;
 			LogToGameConsole("Got playerdata. Enjoy your game. Type help for commands");
+			isLoggedIn = true;
 			Update();
 			break;
 		//Message from someone broadcasted
@@ -37,11 +38,9 @@ function DefinePacket(msg)
 			{
 				case "002":
 					LogToGameConsole("Couldn't find a account with that username.",'Log');
-					isLoggedIn = true;
 					break;
 				case "003":
 					LogToGameConsole("Incorrect Password.",'Log');
-					isLoggedIn = true;
 					break;
 				default:
 					DownloadUserData(rest);
