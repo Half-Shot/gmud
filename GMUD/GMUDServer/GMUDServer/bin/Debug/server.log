@@ -1,0 +1,904 @@
+[15:24]User Connected (127.0.0.1:55036)
+[15:24]Recieved from (127.0.0.1:55036)'[NEW]half-shot,gwen10,Half-Shot'
+[15:24]New user request.
+[15:24]Account couldn't be created due to reasons 34
+[15:25]Started Server - 0.0.0.0:2480
+[15:25]Loaded Database Handler.
+[15:25]Logger Writing To File [ OK ]
+[15:25]Database: Integrity [ OK ]
+[15:25]Player Loading [ OK ]
+[15:25]User Connected (127.0.0.1:55038)
+[15:25]Recieved from (127.0.0.1:55038)'[NEW]half-shot,gwen10,Half-Shot'
+[15:25]New user request.
+[15:25]Account couldn't be created due to reasons 34
+[15:25]User Connected (127.0.0.1:55039)
+[15:25]Recieved from (127.0.0.1:55039)'[NEW]half-shot,gwen10,Half-Shot'
+[15:26]Started Server - 0.0.0.0:2480
+[15:26]User Connected (127.0.0.1:55041)
+[15:26]Recieved from (127.0.0.1:55041)'[NEW]halfshot,gwen10,Half-Shot'
+[15:26]New user request.
+[15:26]Loaded Database Handler.
+[15:26]Logger Writing To File [ OK ]
+[15:26]Database: Integrity [ OK ]
+[15:26]Player Loading [ OK ]
+[15:27]User Connected (127.0.0.1:55042)
+[15:27]Recieved from (127.0.0.1:55042)'[NEW]halfshot,gwen10,Half-Shot'
+[15:27]New user request.
+[15:27]Account created
+[15:27]SQL> Failed last action.
+[15:27]User Connected (127.0.0.1:55043)
+[15:27]Recieved from (127.0.0.1:55043)'[NEW]halfshot,gwen10,Half-Shot'
+[15:28]Started Server - 0.0.0.0:2480
+[15:28]Loaded Database Handler.
+[15:28]Logger Writing To File [ OK ]
+[15:28]Database: Integrity [ OK ]
+[15:28]Player Loading [ OK ]
+[15:28]User Connected (127.0.0.1:55045)
+[15:28]Recieved from (127.0.0.1:55045)'[NEW]halfshot,gwen10,Half-Shot'
+[15:28]New user request.
+[15:29]Started Server - 0.0.0.0:2480
+[15:29]Loaded Database Handler.
+[15:29]Logger Writing To File [ OK ]
+[15:29]Database: Integrity [ OK ]
+[15:29]Player Loading [ OK ]
+[15:29]User Connected (127.0.0.1:55048)
+[15:29]Recieved from (127.0.0.1:55048)'[NEW]halfshot,gwen10,Half-Shot'
+[15:29]New user request.
+[15:29]Account created
+[15:31]SQL> Failed last action. Details:SQLite error
+table players has 13 columns but 12 values were supplied
+[15:35]User Connected (127.0.0.1:55050)
+[15:35]Recieved from (127.0.0.1:55050)'[NEW]halfshot,gwen10,Half-Shot'
+[15:35]User Connected (127.0.0.1:55051)
+[15:35]Recieved from (127.0.0.1:55051)'[NEW]halfshot,gwen10,Half-Shot'
+[15:36]Started Server - 0.0.0.0:2480
+[15:36]Loaded Database Handler.
+[15:36]Logger Writing To File [ OK ]
+[15:36]Database: Integrity [ OK ]
+[15:36]Player Loading [ OK ]
+[15:36]User Connected (127.0.0.1:55053)
+[15:36]Recieved from (127.0.0.1:55053)'[NEW]test,test123,TestDummy'
+[15:36]New user request.
+[15:36]SQL> Failed last action. Details:SQLite error
+table players has 13 columns but 11 values were supplied
+[15:36]Account creation failed. Database problems.
+[15:37]User Connected (127.0.0.1:55054)
+[15:37]Recieved from (127.0.0.1:55054)'[NEW]test,test123,TestDummy'
+[15:37]New user request.
+[15:37]SQL> Failed last action. Details:SQLite error
+table players has 13 columns but 11 values were supplied
+[15:37]Account creation failed. Database problems.
+[15:47]Started Server - 0.0.0.0:2480
+[15:47]Loaded Database Handler.
+[15:47]Logger Writing To File [ OK ]
+[15:47]Database: Integrity [ OK ]
+[15:47]Player Loading [ OK ]
+[15:47]User Connected (127.0.0.1:55091)
+[15:47]Recieved from (127.0.0.1:55091)'[NEW]test,test123,TestDummy'
+[15:47]New user request.
+[15:47]SQL> Failed last action. Details:SQLite error
+12 values for 13 columns
+[15:47]Account creation failed. Database problems.
+[15:49]Started Server - 0.0.0.0:2480
+[15:49]SQL>Creating Table 'accounts' returned 0
+[15:49]SQL>Creating Table 'players' returned 0
+[15:49]SQL> Failed last action, database not created. Destroying attempt.
+[15:49]Loaded Database Handler.
+[15:49]Logger Writing To File [ OK ]
+[15:49]Database: Integrity [ CRITICAL ]
+[15:49]Player Loading [ WARNING ]
+[15:49]Problem not critical, continuing.
+[15:49]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:50]Started Server - 0.0.0.0:2480
+[15:50]SQL>Creating Table 'accounts' returned 0
+[15:50]SQL>Creating Table 'players' returned 0
+[15:50]SQL> Failed last action, database not created. Destroying attempt.
+[15:50]Loaded Database Handler.
+[15:50]Logger Writing To File [ OK ]
+[15:50]Database: Integrity [ CRITICAL ]
+[15:50]Player Loading [ WARNING ]
+[15:50]Problem not critical, continuing.
+[15:50]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:51]Started Server - 0.0.0.0:2480
+[15:51]SQL>Creating Table 'accounts' returned 0
+[15:51]SQL>Creating Table 'players' returned 0
+[15:51]SQL> Failed last action, database not created. Destroying attempt.
+[15:51]Loaded Database Handler.
+[15:51]Logger Writing To File [ OK ]
+[15:51]Database: Integrity [ CRITICAL ]
+[15:51]Player Loading [ WARNING ]
+[15:51]Problem not critical, continuing.
+[15:51]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:51]Started Server - 0.0.0.0:2480
+[15:51]SQL>Creating Table 'accounts' returned 0
+[15:51]SQL>Creating Table 'players' returned 0
+[15:51]SQL> Failed last action, database not created. Destroying attempt.
+[15:51]Loaded Database Handler.
+[15:51]Logger Writing To File [ OK ]
+[15:51]Database: Integrity [ CRITICAL ]
+[15:51]Player Loading [ WARNING ]
+[15:51]Problem not critical, continuing.
+[15:51]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:52]Started Server - 0.0.0.0:2480
+[15:52]SQL>Creating Table 'accounts' returned 0
+[15:52]SQL>Creating Table 'players' returned 0
+[15:52]SQL> Failed last action, database not created. Destroying attempt. Exception data SQLite error
+table players has 14 columns but 12 values were supplied
+[15:52]Loaded Database Handler.
+[15:52]Logger Writing To File [ OK ]
+[15:52]Database: Integrity [ CRITICAL ]
+[15:52]Player Loading [ WARNING ]
+[15:52]Problem not critical, continuing.
+[15:52]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:53]Started Server - 0.0.0.0:2480
+[15:53]SQL>Creating Table 'accounts' returned 0
+[15:53]SQL>Creating Table 'players' returned 0
+[15:53]SQL> Failed last action, database not created. Destroying attempt. Exception data SQLite error
+table players has 14 columns but 13 values were supplied
+[15:53]Loaded Database Handler.
+[15:53]Logger Writing To File [ OK ]
+[15:53]Database: Integrity [ CRITICAL ]
+[15:53]Player Loading [ WARNING ]
+[15:53]Problem not critical, continuing.
+[15:53]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:53]Started Server - 0.0.0.0:2480
+[15:53]SQL> Failed last action, database not created. Destroying attempt. Exception data SQLite error
+AUTOINCREMENT is only allowed on an INTEGER PRIMARY KEY
+[15:53]Loaded Database Handler.
+[15:53]Logger Writing To File [ OK ]
+[15:53]Database: Integrity [ CRITICAL ]
+[15:53]Player Loading [ WARNING ]
+[15:53]Problem not critical, continuing.
+[15:53]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:53]Started Server - 0.0.0.0:2480
+[15:53]SQL>Creating Table 'accounts' returned 0
+[15:53]SQL>Creating Table 'players' returned 0
+[15:53]SQL> Failed last action, database not created. Destroying attempt. Exception data SQLite error
+table players has 14 columns but 13 values were supplied
+[15:53]Loaded Database Handler.
+[15:53]Logger Writing To File [ OK ]
+[15:53]Database: Integrity [ CRITICAL ]
+[15:53]Player Loading [ WARNING ]
+[15:53]Problem not critical, continuing.
+[15:53]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[15:54]Started Server - 0.0.0.0:2480
+[15:54]SQL>Creating Table 'accounts' returned 0
+[15:54]SQL>Creating Table 'players' returned 0
+[15:54]SQL>Creating new player 'Administrator' returned 1
+[15:54]SQL>Creating new account 'admin' returned 1
+[15:54]Loaded Database Handler.
+[15:54]Logger Writing To File [ OK ]
+[15:54]Database: Integrity [ OK ]
+[15:54]Player Loading [ OK ]
+[15:56]Started Server - 0.0.0.0:2480
+[15:56]Loaded Database Handler.
+[15:56]Logger Writing To File [ OK ]
+[15:56]Database: Integrity [ OK ]
+[15:56]Player Loading [ OK ]
+[15:56]Started Server - 0.0.0.0:2480
+[15:56]SQL>Creating Table 'accounts' returned 0
+[15:56]SQL>Creating Table 'players' returned 0
+[15:56]SQL>Creating new player 'Administrator' returned 1
+[15:56]SQL>Creating new account 'admin' returned 1
+[15:56]Loaded Database Handler.
+[15:56]Logger Writing To File [ OK ]
+[15:56]Database: Integrity [ OK ]
+[15:56]Player Loading [ OK ]
+[15:57]User Connected (127.0.0.1:55108)
+[15:57]Recieved from (127.0.0.1:55108)'[NEW]test,test123,TestDummy'
+[15:57]New user request.
+[15:57]SQL> Failed last action. Details:SQLite error
+table players has 14 columns but 13 values were supplied
+[15:57]Account creation failed. Database problems.
+[15:57]Started Server - 0.0.0.0:2480
+[15:57]Loaded Database Handler.
+[15:57]Logger Writing To File [ OK ]
+[15:57]Database: Integrity [ OK ]
+[15:57]Player Loading [ OK ]
+[15:57]User Connected (127.0.0.1:55110)
+[15:57]Recieved from (127.0.0.1:55110)'[NEW]test,test123,TestDummy'
+[15:57]New user request.
+[15:57]SQL>Creating new player 'TestDummy' returned 1
+[15:59]Started Server - 0.0.0.0:2480
+[15:59]SQL>Creating Table 'accounts' returned 0
+[15:59]SQL>Creating Table 'players' returned 0
+[15:59]SQL>Creating new player 'Administrator' returned 1
+[15:59]SQL>Creating new account 'admin' returned 1
+[15:59]Loaded Database Handler.
+[15:59]Logger Writing To File [ OK ]
+[15:59]Database: Integrity [ OK ]
+[15:59]Player Loading [ OK ]
+[15:59]User Connected (127.0.0.1:55112)
+[15:59]Recieved from (127.0.0.1:55112)'[NEW]test,test123,TestDummy'
+[15:59]New user request.
+[16:00]SQL>Creating new player 'TestDummy' returned 1
+[16:00]Started Server - 0.0.0.0:2480
+[16:00]Loaded Database Handler.
+[16:00]Logger Writing To File [ OK ]
+[16:00]Database: Integrity [ OK ]
+[16:00]Player Loading [ OK ]
+[16:00]User Connected (127.0.0.1:55114)
+[16:00]Recieved from (127.0.0.1:55114)'[NEW]test,test123,TestDummy'
+[16:00]New user request.
+[16:00]SQL>Creating new player 'TestDummy' returned 1
+[16:01]Started Server - 0.0.0.0:2480
+[16:01]Loaded Database Handler.
+[16:01]Logger Writing To File [ OK ]
+[16:01]Database: Integrity [ OK ]
+[16:01]Player Loading [ OK ]
+[16:01]User Connected (127.0.0.1:55116)
+[16:01]Recieved from (127.0.0.1:55116)'[NEW]test,test123,TestDummy'
+[16:01]New user request.
+[16:01]SQL>Creating new player 'TestDummy' returned 1
+[16:05]Started Server - 0.0.0.0:2480
+[16:05]Loaded Database Handler.
+[16:05]Logger Writing To File [ OK ]
+[16:05]Database: Integrity [ OK ]
+[16:05]Player Loading [ OK ]
+[16:06]User Connected (127.0.0.1:55121)
+[16:06]Recieved from (127.0.0.1:55121)'[NEW]TestUser,test123,TestDummy'
+[16:06]New user request.
+[16:06]SQL>Creating new player 'TestDummy' returned 1
+[16:09]Started Server - 0.0.0.0:2480
+[16:09]Loaded Database Handler.
+[16:09]Logger Writing To File [ OK ]
+[16:09]Database: Integrity [ OK ]
+[16:09]Player Loading [ OK ]
+[16:10]User Connected (127.0.0.1:55123)
+[16:10]Recieved from (127.0.0.1:55123)'[NEW]TestUser,test123,TestDummy'
+[16:10]New user request.
+[16:10]SQL>Creating new player 'TestDummy' returned 1
+[16:12]Started Server - 0.0.0.0:2480
+[16:12]Loaded Database Handler.
+[16:12]Logger Writing To File [ OK ]
+[16:12]Database: Integrity [ OK ]
+[16:12]Player Loading [ OK ]
+[16:12]User Connected (127.0.0.1:55126)
+[16:12]Recieved from (127.0.0.1:55126)'[NEW]TestUser,test123,TestDummy'
+[16:12]New user request.
+[16:12]SQL>Creating new player 'TestDummy' returned 1
+[16:14]Started Server - 0.0.0.0:2480
+[16:14]Loaded Database Handler.
+[16:14]Logger Writing To File [ OK ]
+[16:14]Database: Integrity [ OK ]
+[16:14]Player Loading [ OK ]
+[16:14]User Connected (127.0.0.1:55139)
+[16:14]Recieved from (127.0.0.1:55139)'[NEW]TestUser,test123,TestDummy'
+[16:14]New user request.
+[16:14]SQL>Creating new player 'TestDummy' returned 1
+[16:15]Started Server - 0.0.0.0:2480
+[16:15]Loaded Database Handler.
+[16:15]Logger Writing To File [ OK ]
+[16:15]Database: Integrity [ OK ]
+[16:15]Player Loading [ OK ]
+[16:15]User Connected (127.0.0.1:55141)
+[16:15]Recieved from (127.0.0.1:55141)'[NEW]TestUser,test123,TestDummy'
+[16:15]New user request.
+[16:15]SQL>Creating new player 'TestDummy' returned 1
+[16:16]Started Server - 0.0.0.0:2480
+[16:16]Loaded Database Handler.
+[16:16]Logger Writing To File [ OK ]
+[16:16]Database: Integrity [ OK ]
+[16:16]Player Loading [ OK ]
+[16:16]User Connected (127.0.0.1:55143)
+[16:16]Recieved from (127.0.0.1:55143)'[NEW]TestUser,test123,TestDummy'
+[16:17]New user request.
+[16:17]SQL>Creating new player 'TestDummy' returned 1
+[16:17]User Connected (127.0.0.1:55145)
+[16:17]Recieved from (127.0.0.1:55145)'[NEW]TestUser,test123,TestDummy'
+[16:19]Started Server - 0.0.0.0:2480
+[16:19]Loaded Database Handler.
+[16:19]Logger Writing To File [ OK ]
+[16:19]Database: Integrity [ OK ]
+[16:19]Player Loading [ OK ]
+[16:20]Started Server - 0.0.0.0:2480
+[16:20]Loaded Database Handler.
+[16:20]Logger Writing To File [ OK ]
+[16:20]Database: Integrity [ OK ]
+[16:20]Player Loading [ OK ]
+[16:20]Waiting for threads to be ready.
+[16:20]Started Server - 0.0.0.0:2480
+[16:20]Loaded Database Handler.
+[16:20]Logger Writing To File [ OK ]
+[16:20]Database: Integrity [ OK ]
+[16:20]Player Loading [ OK ]
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:20]Waiting for threads to be ready.
+[16:21]Started Server - 0.0.0.0:2480
+[16:21]Loaded Database Handler.
+[16:21]Logger Writing To File [ OK ]
+[16:21]Database: Integrity [ OK ]
+[16:21]Player Loading [ OK ]
+[16:22]Started Server - 0.0.0.0:2480
+[16:22]Loaded Database Handler.
+[16:22]Logger Writing To File [ OK ]
+[16:22]Database: Integrity [ OK ]
+[16:22]Player Loading [ OK ]
+[16:22]User Connected (127.0.0.1:55153)
+[16:22]Recieved from (127.0.0.1:55153)'[NEW]TestUser,test123,TestDummy'
+[16:22]New user request.
+[16:22]SQL>Creating new player 'TestDummy' returned 1
+[16:24]User Connected (127.0.0.1:55154)
+[16:24]Recieved from (127.0.0.1:55154)'[NEW]TestUser,test123,TestDummy'
+[16:24]New user request.
+[16:24]SQL>Creating new player 'TestDummy' returned 1
+[16:28]Started Server - 0.0.0.0:2480
+[16:28]Loaded Database Handler.
+[16:28]Logger Writing To File [ OK ]
+[16:28]Database: Integrity [ OK ]
+[16:28]Player Loading [ OK ]
+[16:29]User Connected (127.0.0.1:55157)
+[16:29]Recieved from (127.0.0.1:55157)'[NEW]TestUser,test123,TestDummy'
+[16:29]New user request.
+[16:29]SQL>Creating new player 'TestDummy' returned 1
+[16:34]Started Server - 0.0.0.0:2480
+[16:34]SQL>Creating Table 'accounts' returned 0
+[16:34]SQL>Creating Table 'players' returned 0
+[16:34]SQL>Creating new player 'Administrator' returned 1
+[16:34]SQL>Creating new account 'admin' returned 1
+[16:34]Loaded Database Handler.
+[16:34]Logger Writing To File [ OK ]
+[16:34]Database: Integrity [ OK ]
+[16:34]Player Loading [ OK ]
+[16:37]Started Server - 0.0.0.0:2480
+[16:37]Loaded Database Handler.
+[16:37]Logger Writing To File [ OK ]
+[16:37]Database: Integrity [ OK ]
+[16:37]Player Loading [ OK ]
+[16:37]Closing Server : From Console
+[16:43]Started Server - 0.0.0.0:2480
+[16:43]Loaded Database Handler.
+[16:43]Logger Writing To File [ OK ]
+[16:43]Database: Integrity [ OK ]
+[16:43]Player Loading [ OK ]
+[16:43]Closing Server : From Console
+[16:46]Started Server - 0.0.0.0:2480
+[16:46]Loaded Database Handler.
+[16:46]Logger Writing To File [ OK ]
+[16:46]Database: Integrity [ OK ]
+[16:46]Player Loading [ OK ]
+[16:46]Closing Server : From Console
+[16:46]Started Server - 0.0.0.0:2480
+[16:46]Loaded Database Handler.
+[16:46]Logger Writing To File [ OK ]
+[16:46]Database: Integrity [ OK ]
+[16:46]Player Loading [ OK ]
+[16:47]Closing Server : From Console
+[16:49]Started Server - 0.0.0.0:2480
+[16:49]Loaded Database Handler.
+[16:49]Logger Writing To File [ OK ]
+[16:49]Database: Integrity [ OK ]
+[16:49]Player Loading [ OK ]
+[16:49]Started Server - 0.0.0.0:2480
+[16:49]Loaded Database Handler.
+[16:49]Logger Writing To File [ OK ]
+[16:49]Database: Integrity [ OK ]
+[16:49]Player Loading [ OK ]
+[16:50]Started Server - 0.0.0.0:2480
+[16:50]Loaded Database Handler.
+[16:50]Logger Writing To File [ OK ]
+[16:50]Database: Integrity [ OK ]
+[16:50]Player Loading [ OK ]
+[16:51]Started Server - 0.0.0.0:2480
+[16:51]Loaded Database Handler.
+[16:51]Logger Writing To File [ OK ]
+[16:51]Database: Integrity [ OK ]
+[16:51]Player Loading [ OK ]
+[16:51]Closing Server : From Console
+[16:53]Started Server - 0.0.0.0:2480
+[16:53]Loaded Database Handler.
+[16:53]Logger Writing To File [ OK ]
+[16:53]Database: Integrity [ OK ]
+[16:53]Player Loading [ OK ]
+[16:54]Started Server - 0.0.0.0:2480
+[16:54]Loaded Database Handler.
+[16:54]Logger Writing To File [ OK ]
+[16:54]Database: Integrity [ OK ]
+[16:54]Player Loading [ OK ]
+[16:57]Started Server - 0.0.0.0:2480
+[16:57]Loaded Database Handler.
+[16:57]Logger Writing To File [ OK ]
+[16:57]Database: Integrity [ OK ]
+[16:57]Player Loading [ OK ]
+[16:57]Closing Server : From Console
+[17:05]Started Server - 0.0.0.0:2480
+[17:05]Loaded Database Handler.
+[17:05]Logger Writing To File [ OK ]
+[17:05]Database: Integrity [ OK ]
+[17:05]Player Loading [ OK ]
+[17:05]Closing Server : From Console
+[17:07]Started Server - 0.0.0.0:2480
+[17:07]Loaded Database Handler.
+[17:07]Logger Writing To File [ OK ]
+[17:07]Database: Integrity [ OK ]
+[17:07]Player Loading [ OK ]
+[17:07]Closing Server : From Console
+[17:08]Started Server - 0.0.0.0:2480
+[17:08]Loaded Database Handler.
+[17:08]Logger Writing To File [ OK ]
+[17:08]Database: Integrity [ OK ]
+[17:08]Player Loading [ OK ]
+[17:08]Closing Server : From Console
+[17:11]Started Server - 0.0.0.0:2480
+[17:11]Loaded Database Handler.
+[17:11]Logger Writing To File [ OK ]
+[17:11]Database: Integrity [ OK ]
+[17:11]Player Loading [ OK ]
+[17:15]User Connected (127.0.0.1:55243)
+[17:15]Recieved from (127.0.0.1:55243)'[NEW]TestUser,test123,TestDummy'
+[17:15]New user request.
+[17:16]User Connected (127.0.0.1:55244)
+[17:16]Recieved from (127.0.0.1:55244)'[NEW]TestUser,test123,TestDummy'
+[17:16]New user request.
+[17:16]SQL> Failed last action. Details:The database file is locked
+database is locked
+[17:16]SQL> Failed last action. Details:The database file is locked
+database is locked
+[17:17]User Connected (127.0.0.1:55245)
+[17:17]Recieved from (127.0.0.1:55245)'[NEW]TestUser,test123,TestDummy'
+[17:17]New user request.
+[17:17]SQL>Creating new player 'TestDummy' returned 1
+[17:17]User Connected (127.0.0.1:55246)
+[17:17]Recieved from (127.0.0.1:55246)'[NEW]TestUser,test123,TestDummy'
+[17:17]New user request.
+[17:17]SQL>Creating new player 'TestDummy' returned 1
+[17:18]User Connected (127.0.0.1:55247)
+[17:18]Recieved from (127.0.0.1:55247)'[NEW]TestUser,test123,TestDummy'
+[17:18]New user request.
+[17:18]SQL>Creating new player 'TestDummy' returned 1
+[17:19]Started Server - 0.0.0.0:2480
+[17:19]Loaded Database Handler.
+[17:19]Logger Writing To File [ OK ]
+[17:19]Database: Integrity [ OK ]
+[17:19]Player Loading [ OK ]
+[17:19]User Connected (127.0.0.1:55251)
+[17:19]Recieved from (127.0.0.1:55251)'[NEW]TestUser,test123,TestDummy'
+[17:19]New user request.
+[17:19]SQL>Creating new player 'TestDummy' returned 1
+[17:23]Started Server - 0.0.0.0:2480
+[17:23]Loaded Database Handler.
+[17:23]Logger Writing To File [ OK ]
+[17:23]Database: Integrity [ OK ]
+[17:23]Player Loading [ OK ]
+[17:23]User Connected (127.0.0.1:55253)
+[17:23]Recieved from (127.0.0.1:55253)'[NEW]TestUser,test123,TestDummy'
+[17:23]New user request.
+[17:24]Started Server - 0.0.0.0:2480
+[17:24]Loaded Database Handler.
+[17:24]Logger Writing To File [ OK ]
+[17:24]Database: Integrity [ OK ]
+[17:24]Player Loading [ OK ]
+[17:24]User Connected (127.0.0.1:55255)
+[17:24]Recieved from (127.0.0.1:55255)'[NEW]TestUser,test123,TestDummy'
+[17:24]New user request.
+[17:24]Started Server - 0.0.0.0:2480
+[17:24]Loaded Database Handler.
+[17:24]Logger Writing To File [ OK ]
+[17:24]Database: Integrity [ OK ]
+[17:24]Player Loading [ OK ]
+[17:24]User Connected (127.0.0.1:55258)
+[17:25]Recieved from (127.0.0.1:55258)'[NEW]TestUser,test123,TestDummy'
+[17:25]New user request.
+[17:25]Started Server - 0.0.0.0:2480
+[17:25]Loaded Database Handler.
+[17:25]Logger Writing To File [ OK ]
+[17:25]Database: Integrity [ OK ]
+[17:25]Player Loading [ OK ]
+[17:25]User Connected (127.0.0.1:55262)
+[17:25]Recieved from (127.0.0.1:55262)'[NEW]TestUser,test123,TestDummy'
+[17:26]New user request.
+[17:26]SQL>Creating new player 'TestDummy' returned 1
+[17:26]SQL>Creating Account 'TestUser' returned 1
+[17:27]Account created
+[17:27]User Connected (127.0.0.1:55263)
+[17:27]Recieved from (127.0.0.1:55263)'[ACN]TestUser,test123'
+[17:27]User requires account details, checking authentication.
+[17:27]Recieved from (127.0.0.1:55263)'[LOD]1'
+[17:27]Load User Request.
+[17:27]Recieved from (127.0.0.1:55263)'[MAP]NeedMapData'
+[17:27]Recieved from (127.0.0.1:55263)'[RDY]'
+[17:27]Recieved from (127.0.0.1:55263)'[CMD]scan'
+[17:27]Command recieved : scan
+[17:27]Recieved from (127.0.0.1:55263)'[CMD]scan'
+[17:27]Command recieved : scan
+[17:31]TestDummy disconnected from the server. Reason ClientClosing
+[17:31]User Connected (127.0.0.1:55264)
+[17:32]Recieved from (127.0.0.1:55264)'[ACN]TestUser,dfdgsdgfg'
+[17:32]User requires account details, checking authentication.
+[17:33]Started Server - 0.0.0.0:2480
+[17:33]Loaded Database Handler.
+[17:33]Logger Writing To File [ OK ]
+[17:33]Database: Integrity [ OK ]
+[17:33]Player Loading [ OK ]
+[17:34]User Connected (127.0.0.1:55268)
+[17:34]Recieved from (127.0.0.1:55268)'[ACN]TestUser,test12'
+[17:34]User requires account details, checking authentication.
+[17:37]User Connected (127.0.0.1:55270)
+[17:38]Recieved from (127.0.0.1:55270)'[ACN]TestUser,test12'
+[17:38]User requires account details, checking authentication.
+[17:38]User Connected (127.0.0.1:55272)
+[17:39]Recieved from (127.0.0.1:55272)'[ACN]TestUser,test123'
+[17:39]User requires account details, checking authentication.
+[17:39]Recieved from (127.0.0.1:55272)'[LOD]1'
+[17:39]Load User Request.
+[17:39]Recieved from (127.0.0.1:55272)'[MAP]NeedMapData'
+[17:39]Recieved from (127.0.0.1:55272)'[RDY]'
+[17:42]Recieved from (127.0.0.1:55272)'[CMD]move right'
+[17:42]Command recieved : move right
+[17:47]Started Server - 0.0.0.0:2480
+[17:47]Loaded Database Handler.
+[17:47]Logger Writing To File [ OK ]
+[17:47]Database: Integrity [ OK ]
+[17:47]Player Loading [ OK ]
+[17:47]User Connected (127.0.0.1:55277)
+[17:47]Recieved from (127.0.0.1:55277)'[ACN]TestUser,test123'
+[17:47]User requires account details, checking authentication.
+[17:48]Recieved from (127.0.0.1:55277)'[LOD]1'
+[17:49]Load User Request.
+[17:49]Started Server - 0.0.0.0:2480
+[17:49]Loaded Database Handler.
+[17:49]Logger Writing To File [ OK ]
+[17:49]Database: Integrity [ OK ]
+[17:49]Player Loading [ OK ]
+[17:49]User Connected (127.0.0.1:55280)
+[17:49]Recieved from (127.0.0.1:55280)'[ACN]TestUser,test123'
+[17:49]User requires account details, checking authentication.
+[17:49]Recieved from (127.0.0.1:55280)'[LOD]1'
+[17:51]User Connected (127.0.0.1:55283)
+[17:51]Recieved from (127.0.0.1:55283)'[ACN]TestUser,test123'
+[17:51]Started Server - 0.0.0.0:2480
+[17:51]Loaded Database Handler.
+[17:51]Logger Writing To File [ OK ]
+[17:51]Database: Integrity [ OK ]
+[17:51]Player Loading [ OK ]
+[17:51]User Connected (127.0.0.1:55285)
+[17:51]Recieved from (127.0.0.1:55285)'[ACN]TestUser,test123'
+[17:51]User requires account details, checking authentication.
+[17:51]Recieved from (127.0.0.1:55285)'[LOD]1'
+[17:51]Load User Request.
+[17:51]Recieved from (127.0.0.1:55285)'[MAP]NeedMapData'
+[17:51]Recieved from (127.0.0.1:55285)'[RDY]'
+[17:51]Spawned a  at 137,81,0
+[17:52]Started Server - 0.0.0.0:2480
+[17:52]Loaded Database Handler.
+[17:52]Logger Writing To File [ OK ]
+[17:52]Database: Integrity [ OK ]
+[17:52]Player Loading [ OK ]
+[17:59]Started Server - 0.0.0.0:2480
+[17:59]Loaded Database Handler.
+[17:59]Logger Writing To File [ OK ]
+[17:59]Database: Integrity [ OK ]
+[17:59]Player Loading [ OK ]
+[17:59]User Connected (127.0.0.1:55291)
+[17:59]Recieved from (127.0.0.1:55291)'[ACN]TestUser,test123'
+[17:59]User requires account details, checking authentication.
+[17:59]Recieved from (127.0.0.1:55291)'[LOD]1'
+[17:59]Load User Request.
+[17:59]Recieved from (127.0.0.1:55291)'[MAP]NeedMapData'
+[17:59]Recieved from (127.0.0.1:55291)'[RDY]'
+[18:00]TestDummy disconnected from the server. Reason ClientClosing
+[18:01]User Connected (127.0.0.1:55293)
+[18:01]Recieved from (127.0.0.1:55293)'[ACN]TestUser,test123'
+[18:01]User requires account details, checking authentication.
+[18:01]Recieved from (127.0.0.1:55293)'[LOD]1'
+[18:01]Load User Request.
+[18:01]Recieved from (127.0.0.1:55293)'[MAP]NeedMapData'
+[18:01]Recieved from (127.0.0.1:55293)'[RDY]'
+[18:01]Recieved from (127.0.0.1:55293)'[CMD]scan'
+[18:01]Command recieved : scan
+[18:01]TestDummy disconnected from the server. Reason ApplicationError
+[18:02]User Connected (127.0.0.1:55294)
+[18:02]Recieved from (127.0.0.1:55294)'[ACN]TestUser,test123'
+[18:02]User requires account details, checking authentication.
+[18:02]Recieved from (127.0.0.1:55294)'[LOD]1'
+[18:02]Load User Request.
+[18:02]Recieved from (127.0.0.1:55294)'[MAP]NeedMapData'
+[18:02]Recieved from (127.0.0.1:55294)'[RDY]'
+[18:02]Recieved from (127.0.0.1:55294)'[CMD]scan'
+[18:02]Command recieved : scan
+[18:02]TestDummy disconnected from the server. Reason ApplicationError
+[18:03]User Connected (127.0.0.1:55295)
+[18:03]Recieved from (127.0.0.1:55295)'[ACN]TestUser,test123'
+[18:03]User requires account details, checking authentication.
+[18:03]Recieved from (127.0.0.1:55295)'[LOD]1'
+[18:03]Load User Request.
+[18:03]Recieved from (127.0.0.1:55295)'[MAP]NeedMapData'
+[18:03]Recieved from (127.0.0.1:55295)'[RDY]'
+[18:03]Recieved from (127.0.0.1:55295)'[CMD]scan'
+[18:03]Command recieved : scan
+[18:05]Started Server - 0.0.0.0:2480
+[18:05]Loaded Database Handler.
+[18:05]Logger Writing To File [ OK ]
+[18:05]Database: Integrity [ OK ]
+[18:05]Player Loading [ OK ]
+[18:05]User Connected (127.0.0.1:55299)
+[18:06]Recieved from (127.0.0.1:55299)'[ACN]TestUser,test123'
+[18:06]User requires account details, checking authentication.
+[18:06]Recieved from (127.0.0.1:55299)'[LOD]1'
+[18:06]Load User Request.
+[18:06]Recieved from (127.0.0.1:55299)'[MAP]NeedMapData'
+[18:06]Recieved from (127.0.0.1:55299)'[RDY]'
+[18:06]Recieved from (127.0.0.1:55299)'[CMD]scan'
+[18:06]Command recieved : scan
+[18:07]TestDummy disconnected from the server. Reason ApplicationError
+[18:07]User Connected (127.0.0.1:55303)
+[18:07]Recieved from (127.0.0.1:55303)'[ACN]TestUser,test123'
+[18:07]User requires account details, checking authentication.
+[18:07]Recieved from (127.0.0.1:55303)'[LOD]1'
+[18:07]Load User Request.
+[18:07]Recieved from (127.0.0.1:55303)'[MAP]NeedMapData'
+[18:08]User Connected (127.0.0.1:55306)
+[18:09]Recieved from (127.0.0.1:55306)'[ACN]TestUser,test123'
+[18:09]User requires account details, checking authentication.
+[18:09]Recieved from (127.0.0.1:55306)'[LOD]1'
+[18:09]Load User Request.
+[18:09]Recieved from (127.0.0.1:55306)'[MAP]NeedMapData'
+[18:09]Started Server - 0.0.0.0:2480
+[18:09]Loaded Database Handler.
+[18:09]Logger Writing To File [ OK ]
+[18:09]Database: Integrity [ OK ]
+[18:09]Player Loading [ OK ]
+[18:09]User Connected (127.0.0.1:55308)
+[18:09]Recieved from (127.0.0.1:55308)'[ACN]TestUser,test123'
+[18:09]User requires account details, checking authentication.
+[18:09]Recieved from (127.0.0.1:55308)'[LOD]1'
+[18:09]Load User Request.
+[18:09]Recieved from (127.0.0.1:55308)'[MAP]NeedMapData'
+[18:09]Recieved from (127.0.0.1:55308)'[RDY]'
+[18:09]Recieved from (127.0.0.1:55308)'[CMD]move right'
+[18:09]Command recieved : move right
+[18:10]Recieved from (127.0.0.1:55308)'[CMD]move right'
+[18:10]Command recieved : move right
+[18:10]Recieved from (127.0.0.1:55308)'[CMD]move right'
+[18:10]Command recieved : move right
+[20:45]Started Server - 0.0.0.0:2480
+[20:45]Loaded Database Handler.
+[20:45]Logger Writing To File [ OK ]
+[20:45]Database: Integrity [ OK ]
+[20:45]Player Loading [ OK ]
+[20:48]User Connected (127.0.0.1:50134)
+[20:48]Recieved from (127.0.0.1:50134)'[ACN]admin,admin'
+[20:48]User requires account details, checking authentication.
+[20:48]Recieved from (127.0.0.1:50134)'[LOD]0'
+[20:48]Load User Request.
+[20:48]Recieved from (127.0.0.1:50134)'[MAP]NeedMapData'
+[20:48]Recieved from (127.0.0.1:50134)'[RDY]'
+[20:48]Administrator disconnected from the server. Reason ClientClosing
+[20:48]Started Server - 0.0.0.0:2480
+[20:48]Loaded Database Handler.
+[20:48]Logger Writing To File [ OK ]
+[20:48]Database: Integrity [ OK ]
+[20:48]Player Loading [ OK ]
+[20:49]User Connected (127.0.0.1:50139)
+[20:49]Recieved from (127.0.0.1:50139)'[ACN]admin,admin'
+[20:49]User requires account details, checking authentication.
+[20:49]Recieved from (127.0.0.1:50139)'[LOD]0'
+[20:49]Load User Request.
+[20:49]Recieved from (127.0.0.1:50139)'[MAP]NeedMapData'
+[20:49]Recieved from (127.0.0.1:50139)'[RDY]'
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]exit'
+[20:49]Command recieved : exit
+[20:49]Player Command Unrecognised
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]quit'
+[20:49]Command recieved : quit
+[20:49]Player Command Unrecognised
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]move left'
+[20:49]Command recieved : move left
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]move right'
+[20:49]Command recieved : move right
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]move right'
+[20:49]Command recieved : move right
+[20:49]Recieved from (127.0.0.1:50139)'[CMD]move right'
+[20:49]Command recieved : move right
+[20:50]Recieved from (127.0.0.1:50139)'[CMD]move right'
+[20:50]Command recieved : move right
+[20:54]Started Server - 0.0.0.0:2480
+[20:54]Loaded Database Handler.
+[20:54]Logger Writing To File [ OK ]
+[20:54]Database: Integrity [ OK ]
+[20:54]Player Loading [ OK ]
+[20:54]User Connected (127.0.0.1:50165)
+[20:54]Recieved from (127.0.0.1:50165)'[ACN]admin,admin'
+[20:54]User requires account details, checking authentication.
+[20:54]Recieved from (127.0.0.1:50165)'[LOD]0'
+[20:54]Load User Request.
+[20:54]Recieved from (127.0.0.1:50165)'[MAP]NeedMapData'
+[20:54]Recieved from (127.0.0.1:50165)'[RDY]'
+[20:57]Started Server - 0.0.0.0:2480
+[20:57]Loaded Database Handler.
+[20:57]Logger Writing To File [ OK ]
+[20:58]Database: Integrity [ OK ]
+[20:58]Started Server - 0.0.0.0:2480
+[20:58]Loaded Database Handler.
+[20:58]Logger Writing To File [ OK ]
+[21:00]Started Server - 0.0.0.0:2480
+[21:00]Loaded Database Handler.
+[21:00]Logger Writing To File [ OK ]
+[21:00]Database: Integrity [ OK ]
+[21:00]Player Loading [ OK ]
+[21:00]Spawned a Sam Gobson at 206,52,0
+[21:01]User Connected (127.0.0.1:50175)
+[21:01]Recieved from (127.0.0.1:50175)'[ACN]admin,admin'
+[21:01]User requires account details, checking authentication.
+[21:01]Recieved from (127.0.0.1:50175)'[LOD]0'
+[21:01]Load User Request.
+[21:01]Recieved from (127.0.0.1:50175)'[MAP]NeedMapData'
+[21:01]Recieved from (127.0.0.1:50175)'[RDY]'
+[21:01]Spawned a Administrator at 401,161,0
+[21:13]Closing Server : From Console
+[21:16]Started Server - 0.0.0.0:2480
+[21:16]Loaded Database Handler.
+[21:16]Logger Writing To File [ OK ]
+[21:16]Database: Integrity [ OK ]
+[21:16]Player Loading [ OK ]
+[21:16]Spawned a Sam Gobson at 283,117,0
+[21:16]User Connected (127.0.0.1:50199)
+[21:16]Recieved from (127.0.0.1:50199)'[ACN]admin,admin'
+[21:19]Started Server - 0.0.0.0:2480
+[21:19]Loaded Database Handler.
+[21:19]Logger Writing To File [ OK ]
+[21:19]Database: Integrity [ OK ]
+[21:19]Player Loading [ OK ]
+[21:19]Spawned a Sam Gobson at 99,399,0
+[21:20]User Connected (127.0.0.1:50206)
+[21:20]Recieved from (127.0.0.1:50206)'[ACN]admin,admin'
+[21:28]Started Server - 0.0.0.0:2480
+[21:28]Loaded Database Handler.
+[21:28]Logger Writing To File [ OK ]
+[21:28]Database: Integrity [ OK ]
+[21:28]Player Loading [ OK ]
+[21:28]Spawned a Sam Gobson at 69,155,0
+[21:29]User Connected (127.0.0.1:50256)
+[21:29]Recieved from (127.0.0.1:50256)'[ACN]admin,admin'
+[21:34]Started Server - 0.0.0.0:2480
+[21:34]Loaded Database Handler.
+[21:34]Logger Writing To File [ OK ]
+[21:34]Database: Integrity [ OK ]
+[21:34]Player Loading [ OK ]
+[21:34]Spawned a Sam Gobson at 281,476,0
+[21:35]User Connected (127.0.0.1:50292)
+[21:35]Recieved from (127.0.0.1:50292)'[ACN]admin,admin'
+[21:44]Started Server - 0.0.0.0:2480
+[21:44]Loaded Database Handler.
+[21:44]Logger Writing To File [ OK ]
+[21:44]Database: Integrity [ OK ]
+[21:44]Player Loading [ OK ]
+[21:44]Spawned a Sam Gobson at 136,94,0
+[21:45]User Connected (127.0.0.1:50328)
+[21:45]Recieved from (127.0.0.1:50328)'[ACN]admin,admin'
+[21:45]User requires account details, checking authentication.
+[21:45]Recieved from (127.0.0.1:50328)'[LOD]0'
+[21:45]Load User Request.
+[21:46]Recieved from (127.0.0.1:50328)'[MAP]NeedMapData'
+[21:46]Recieved from (127.0.0.1:50328)'[RDY]'
+[21:56]Started Server - 0.0.0.0:2480
+[21:56]Loaded Database Handler.
+[21:56]Logger Writing To File [ OK ]
+[21:56]Database: Integrity [ OK ]
+[21:56]Player Loading [ OK ]
+[21:56]Spawned a Sam Gobson at 209,43,0
+[21:57]Started Server - 0.0.0.0:2480
+[21:57]Loaded Database Handler.
+[21:57]Logger Writing To File [ OK ]
+[21:57]Database: Integrity [ OK ]
+[21:57]Player Loading [ OK ]
+[21:57]Spawned a Sam Gobson at 231,63,0
+[21:57]User Connected (127.0.0.1:50352)
+[21:57]Recieved from (127.0.0.1:50352)'[ACN]admin,admin'
+[21:58]Started Server - 0.0.0.0:2480
+[21:58]Loaded Database Handler.
+[21:58]Logger Writing To File [ OK ]
+[21:58]Database: Integrity [ OK ]
+[21:58]Player Loading [ OK ]
+[21:58]Spawned a Sam Gobson at 198,163,0
+[21:58]User Connected (127.0.0.1:50356)
+[21:58]Recieved from (127.0.0.1:50356)'[ACN]admin,admin'
+[21:59]Started Server - 0.0.0.0:2480
+[21:59]Loaded Database Handler.
+[21:59]Logger Writing To File [ OK ]
+[21:59]Database: Integrity [ OK ]
+[21:59]Player Loading [ OK ]
+[21:59]Spawned a Sam Gobson at 107,204,0
+[21:59]User Connected (127.0.0.1:50358)
+[21:59]Recieved from (127.0.0.1:50358)'[ACN]admin,admin'
+[21:59]User requires account details, checking authentication.
+[21:59]Recieved from (127.0.0.1:50358)'[LOD]0'
+[21:59]Load User Request.
+[21:59]Recieved from (127.0.0.1:50358)'[MAP]NeedMapData'
+[21:59]Recieved from (127.0.0.1:50358)'[RDY]'
+[22:02]Started Server - 0.0.0.0:2480
+[22:02]Loaded Database Handler.
+[22:02]Logger Writing To File [ OK ]
+[22:02]Database: Integrity [ OK ]
+[22:02]Player Loading [ OK ]
+[22:02]Spawned a Sam Gobson at 65,367,0
+[22:02]User Connected (127.0.0.1:50361)
+[22:02]Recieved from (127.0.0.1:50361)'[ACN]admin,admin'
+[22:02]User requires account details, checking authentication.
+[22:02]Recieved from (127.0.0.1:50361)'[LOD]0'
+[22:02]Load User Request.
+[22:02]Recieved from (127.0.0.1:50361)'[MAP]NeedMapData'
+[22:02]Recieved from (127.0.0.1:50361)'[RDY]'
+[22:02]Recieved from (127.0.0.1:50361)'[CMD]say hi'
+[22:03]Command recieved : say hi
+[22:05]Started Server - 0.0.0.0:2480
+[22:05]Loaded Database Handler.
+[22:05]Logger Writing To File [ OK ]
+[22:05]Database: Integrity [ OK ]
+[22:05]Player Loading [ OK ]
+[22:05]Spawned a Sam Gobson at 225,218,0
+[22:05]User Connected (127.0.0.1:50363)
+[22:06]Recieved from (127.0.0.1:50363)'[ACN]admin,admin'
+[22:06]User requires account details, checking authentication.
+[22:06]Recieved from (127.0.0.1:50363)'[LOD]0'
+[22:06]Load User Request.
+[22:07]Recieved from (127.0.0.1:50363)'[MAP]NeedMapData'
+[22:07]Recieved from (127.0.0.1:50363)'[RDY]'
+[22:07]Spawned a Administrator at 439,188,0
+[22:08]Recieved from (127.0.0.1:50363)'[CMD]say hi'
+[22:08]Command recieved : say hi
+[22:08]Recieved from (127.0.0.1:50363)'[CMD]help'
+[22:08]Command recieved : help
+[22:09]Recieved from (127.0.0.1:50363)'[CMD]use'
+[22:09]Command recieved : use
+[22:09]Recieved from (127.0.0.1:50363)'[CMD]attack'
+[22:09]Command recieved : attack
+[22:09]Recieved from (127.0.0.1:50363)'[CMD]scan'
+[22:29]Command recieved : scan
+[22:29]Started Server - 0.0.0.0:2480
+[22:29]Loaded Database Handler.
+[22:29]Logger Writing To File [ OK ]
+[22:29]Database: Integrity [ OK ]
+[22:29]Player Loading [ OK ]
+[22:29]Spawned a Sam Gobson at 351,78,0
+[22:30]User Connected (127.0.0.1:50388)
+[22:30]Recieved from (127.0.0.1:50388)'[ACN]admin,admin'
+[22:30]User requires account details, checking authentication.
+[22:30]Recieved from (127.0.0.1:50388)'[LOD]0'
+[22:30]Load User Request.
+[22:30]Recieved from (127.0.0.1:50388)'[MAP]NeedMapData'
+[22:30]Recieved from (127.0.0.1:50388)'[RDY]'
+[22:30]Spawned a Administrator at 369,249,0
+[22:30]Recieved from (127.0.0.1:50388)'[CMD]move left'
+[22:30]Command recieved : move left
+[22:30]Recieved from (127.0.0.1:50388)'[CMD]move left'
+[22:30]Command recieved : move left
+[22:30]Recieved from (127.0.0.1:50388)'[CMD]move right'
+[22:30]Command recieved : move right
+[22:30]Recieved from (127.0.0.1:50388)'[CMD]move left'
+[22:30]Command recieved : move left
+[22:30]Recieved from (127.0.0.1:50388)'[CMD]move up'
+[22:30]Command recieved : move up
+[22:31]Recieved from (127.0.0.1:50388)'[CMD]move down'
+[22:31]Command recieved : move down
+[22:43]Administrator disconnected from the server. Reason ClientClosing
+[22:43]User Connected (127.0.0.1:50431)
+[22:43]Recieved from (127.0.0.1:50431)'[ACN]admin,admin'
+[22:43]User requires account details, checking authentication.
+[22:43]Recieved from (127.0.0.1:50431)'[LOD]0'
+[22:43]Load User Request.
+[22:43]Recieved from (127.0.0.1:50431)'[MAP]NeedMapData'
+[22:43]Recieved from (127.0.0.1:50431)'[RDY]'
+[22:43]Spawned a Administrator at 435,139,0
+[22:45]Administrator disconnected from the server. Reason ClientClosing
+[22:45]Started Server - 0.0.0.0:2480
+[22:45]Loaded Database Handler.
+[22:45]Logger Writing To File [ OK ]
+[22:45]Database: Integrity [ OK ]
+[22:45]Player Loading [ OK ]
+[22:45]Spawned a Sam Gobson at 452,315,0
+[22:45]User Connected (127.0.0.1:50434)
+[22:46]Recieved from (127.0.0.1:50434)'[ACN]admin,admin'
+[22:46]User requires account details, checking authentication.
+[22:46]Recieved from (127.0.0.1:50434)'[LOD]0'
+[22:46]Load User Request.
+[22:46]Recieved from (127.0.0.1:50434)'[MAP]NeedMapData'
+[22:46]Recieved from (127.0.0.1:50434)'[RDY]'
+[22:46]Spawned a Administrator at 339,55,0
+[22:46]Administrator disconnected from the server. Reason ClientClosing

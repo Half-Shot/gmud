@@ -1,0 +1,27 @@
+//This file contains all the packet types used in the GMUD Server Client Exchange.
+
+	//Client packet types. (Client -> Server)
+PLAIN-ENGLISH-NAME PACKET-NAME DESCRIPTION ARGUMENTS 
+
+RETURN	"RET"The client has returned a ping. 
+
+REQUEST "REQ"The client has requested a ping.
+
+LOAD    "LOD"The client has recived their player id and wants to do a inital download of the data. PLAYER_ID
+
+COMMAND "CMD"A client command has been sent. This is the most common packet. COMMAND [ARGUMENTS]
+
+ACCOUNT "ACN"Authentication packet. The server recieves a username and password. USERNAME PASSWORD
+
+NEW	    "NEW"Tells the server a client has filled out a new account form. USERNAME PASSWORD PLAYERNAME
+		
+MAP     "MAP"Tells the server that the client requires a map update. 
+		
+READY   "RDY"Tells the server that the client is finished downloading all data.
+				
+	//Server packet types. (Server -> Client)
+UPDATE PLAYER 		"UPP"Sends the player an update of his entity. PLAYER
+	
+UPDATE ENTITY LIST  "UEL"Sends the player a update of all entitys. ENTITY[]
+
+UPDATE ENTITY 		"UPE"Sends a specific entity update. ENTITY

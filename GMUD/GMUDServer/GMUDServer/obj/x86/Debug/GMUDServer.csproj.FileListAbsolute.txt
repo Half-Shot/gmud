@@ -1,0 +1,13 @@
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\GMUDServer.exe.config
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\GMUDServer.exe
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\GMUDServer.pdb
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\Alchemy.dll
+D:\GameDevWorkshop\GMUDServer\GMUDServer\obj\x86\Debug\GMUDServer.csprojResolveAssemblyReference.cache
+D:\GameDevWorkshop\GMUDServer\GMUDServer\obj\x86\Debug\GMUDServer.exe
+D:\GameDevWorkshop\GMUDServer\GMUDServer\obj\x86\Debug\GMUDServer.pdb
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\x64\SQLite.Interop.dll
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\x86\SQLite.Interop.dll
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\System.Data.SQLite.dll
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\Alchemy.pdb
+D:\GameDevWorkshop\GMUDServer\GMUDServer\bin\Debug\Alchemy.config

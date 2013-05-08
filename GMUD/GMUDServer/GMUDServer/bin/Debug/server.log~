@@ -1,0 +1,3511 @@
+[21:00]Started Server - 255.255.255.255:2480
+[21:14]Started Server - 255.255.255.255:2480
+[21:14]Started Server - 255.255.255.255:2480
+[21:15]Started Server - 255.255.255.255:2480
+[21:15]Started Server - 255.255.255.255:2480
+[21:15]Started Server - 255.255.255.255:2480
+[21:16]Started Server - 255.255.255.255:2480
+[21:19]Started Server - 255.255.255.255:2480
+[21:20]Started Server - 255.255.255.255:2480
+[21:23]Started Server - 255.255.255.255:2480
+[21:23]Closing Server : From Console
+[21:32]Started Server - 255.255.255.255:2480
+[18:05]Started Server - 255.255.255.255:2480
+[18:05]Loading Database Handler.
+[18:22]Started Server - 255.255.255.255:2480
+[18:22]Loading Database Handler.
+[18:22]SQL>Creating Table 'players' returned 0
+[18:22]Logger Writing To File [ OK ]
+[18:22]Database Integrity [ OK ]
+[18:29]Started Server - 255.255.255.255:2480
+[18:29]Loading Database Handler.
+[18:29]SQL>Creating Table 'players' returned 0
+[18:31]Started Server - 255.255.255.255:2480
+[18:31]Loading Database Handler.
+[18:31]Logger Writing To File [ OK ]
+[18:31]Database Integrity [ OK ]
+[18:31]Started Server - 255.255.255.255:2480
+[18:32]Loading Database Handler.
+[18:32]Started Server - 255.255.255.255:2480
+[18:32]Loading Database Handler.
+[18:32]SQL>Creating Table 'players' returned 0
+[18:32]SQL>Creating new player 'Administrator' returned 1
+[18:32]Logger Writing To File [ OK ]
+[18:32]Database Integrity [ OK ]
+[18:35]Started Server - 255.255.255.255:2480
+[18:35]Loading Database Handler.
+[18:35]SQL>Creating Table 'players' returned 0
+[18:35]SQL>Creating new player 'Administrator' returned 1
+[18:35]Logger Writing To File [ OK ]
+[18:35]Database Integrity [ OK ]
+[18:36]Closing Server : From Console
+[18:52]Started Server - 255.255.255.255:2480
+[18:52]Loading Database Handler.
+[18:52]SQL>Creating Table 'players' returned 0
+[18:52]SQL>Creating new player 'Administrator' returned 1
+[18:52]Logger Writing To File [ OK ]
+[18:52]Database Integrity [ OK ]
+[18:53]Started Server - 255.255.255.255:2480
+[18:53]Loading Database Handler.
+[18:53]SQL>Creating Table 'players' returned 0
+[18:53]SQL>Creating new player 'Administrator' returned 1
+[18:54]Logger Writing To File [ OK ]
+[18:54]Database Integrity [ OK ]
+[18:54]Started Server - 255.255.255.255:2480
+[18:54]Loading Database Handler.
+[18:54]Logger Writing To File [ OK ]
+[18:54]Database Integrity [ OK ]
+[18:55]Started Server - 255.255.255.255:2480
+[18:55]Loading Database Handler.
+[18:55]Logger Writing To File [ OK ]
+[18:55]Database Integrity [ OK ]
+[18:55]Started Server - 255.255.255.255:2480
+[18:55]Loading Database Handler.
+[18:55]Logger Writing To File [ OK ]
+[18:55]Database Integrity [ OK ]
+[19:09]Started Server - 255.255.255.255:2480
+[19:09]Loading Database Handler.
+[19:09]Logger Writing To File [ OK ]
+[19:09]Database Integrity [ OK ]
+[19:10]Started Server - 255.255.255.255:2480
+[19:10]Loading Database Handler.
+[19:10]Logger Writing To File [ OK ]
+[19:10]Database Integrity [ OK ]
+[19:11]Started Server - 255.255.255.255:2480
+[19:11]Loading Database Handler.
+[19:11]Logger Writing To File [ OK ]
+[19:11]Database Integrity [ OK ]
+[22:40]Started Server - 255.255.255.255:2480
+[22:40]Loading Database Handler.
+[22:40]Logger Writing To File [ OK ]
+[22:40]Database: Integrity [ OK ]
+[22:44]Started Server - 255.255.255.255:2480
+[22:44]Loading Database Handler.
+[22:44]Logger Writing To File [ OK ]
+[22:44]Database: Integrity [ OK ]
+[19:33]Started Server - 255.255.255.255:2480
+[19:33]Loading Database Handler.
+[19:33]Logger Writing To File [ OK ]
+[19:33]Database: Integrity [ OK ]
+[19:37]Started Server - 255.255.255.255:2480
+[19:37]Loading Database Handler.
+[19:37]Logger Writing To File [ OK ]
+[19:37]Database: Integrity [ OK ]
+[19:37]Player Loading [ OK ]
+[19:40]Started Server - 255.255.255.255:2480
+[19:40]Loading Database Handler.
+[19:40]Logger Writing To File [ OK ]
+[19:40]Database: Integrity [ OK ]
+[19:40]Player Loading [ OK ]
+[19:40]Started Server - 255.255.255.255:2480
+[19:40]Loading Database Handler.
+[19:40]Logger Writing To File [ OK ]
+[19:40]Database: Integrity [ OK ]
+[19:40]Player Loading [ OK ]
+[17:54]Started Server - 255.255.255.255:2480
+[17:54]Loading Database Handler.
+[17:54]Logger Writing To File [ OK ]
+[17:54]Database: Integrity [ OK ]
+[17:54]Player Loading [ OK ]
+[17:55]Started Server - 127.0.0.1:2480
+[17:55]Loading Database Handler.
+[17:55]Logger Writing To File [ OK ]
+[17:55]Database: Integrity [ OK ]
+[17:55]Player Loading [ OK ]
+[17:56]Started Server - 127.0.0.1:2480
+[17:56]Loading Database Handler.
+[17:56]Logger Writing To File [ OK ]
+[17:56]Database: Integrity [ OK ]
+[17:56]Player Loading [ OK ]
+[17:56]Started Server - 127.0.0.1:2480
+[17:56]Loading Database Handler.
+[17:56]Logger Writing To File [ OK ]
+[17:56]Database: Integrity [ OK ]
+[17:56]Player Loading [ OK ]
+[17:59]Started Server - 127.0.0.1:2480
+[17:59]Loading Database Handler.
+[17:59]Logger Writing To File [ OK ]
+[17:59]Database: Integrity [ OK ]
+[17:59]Player Loading [ OK ]
+[17:59]Started Server - 127.0.0.1:2480
+[17:59]Loading Database Handler.
+[17:59]Logger Writing To File [ OK ]
+[17:59]Database: Integrity [ OK ]
+[17:59]Player Loading [ OK ]
+[18:00]Started Server - 127.0.0.1:2480
+[18:00]Loading Database Handler.
+[18:00]Logger Writing To File [ OK ]
+[18:00]Database: Integrity [ OK ]
+[18:00]Player Loading [ OK ]
+[18:11]Started Server - 127.0.0.1:2480
+[18:11]Loading Database Handler.
+[18:11]Logger Writing To File [ OK ]
+[18:11]Database: Integrity [ OK ]
+[18:11]Player Loading [ OK ]
+[18:13]Started Server - 127.0.0.1:2480
+[18:13]Loading Database Handler.
+[18:13]Logger Writing To File [ OK ]
+[18:13]Database: Integrity [ OK ]
+[18:13]Player Loading [ OK ]
+[18:15]Started Server - 127.0.0.1:2480
+[18:15]Loading Database Handler.
+[18:15]Logger Writing To File [ OK ]
+[18:15]Database: Integrity [ OK ]
+[18:15]Player Loading [ OK ]
+[18:38]Started Server - 127.0.0.1:2480
+[18:38]Loading Database Handler.
+[18:38]Logger Writing To File [ OK ]
+[18:38]Database: Integrity [ OK ]
+[18:38]Player Loading [ OK ]
+[18:40]Started Server - 127.0.0.1:2480
+[18:40]Loading Database Handler.
+[18:40]Logger Writing To File [ OK ]
+[18:40]Database: Integrity [ OK ]
+[18:40]Player Loading [ OK ]
+[18:40]Started Server - 127.0.0.1:2480
+[18:40]Loading Database Handler.
+[18:40]Logger Writing To File [ OK ]
+[18:40]Database: Integrity [ OK ]
+[18:40]Player Loading [ OK ]
+[18:40]New User Connecting (127.0.0.1:7053)
+[18:41]User Disconnected (127.0.0.1:7053)
+[18:41]New User Connecting (127.0.0.1:7107)
+[18:41]User Disconnected (127.0.0.1:7107)
+[18:43]Started Server - 127.0.0.1:2480
+[18:43]Loading Database Handler.
+[18:43]Logger Writing To File [ OK ]
+[18:43]Database: Integrity [ OK ]
+[18:43]Player Loading [ OK ]
+[18:44]New User Connecting (127.0.0.1:7231)
+[18:44]User Disconnected (127.0.0.1:7231)
+[18:46]Started Server - 127.0.0.1:2480
+[18:46]Loading Database Handler.
+[18:46]Logger Writing To File [ OK ]
+[18:46]Database: Integrity [ OK ]
+[18:46]Player Loading [ OK ]
+[18:46]New User Connecting (127.0.0.1:7390)
+[18:46]User Disconnected (127.0.0.1:7390)
+[18:54]Started Server - 127.0.0.1:2480
+[18:54]Loading Database Handler.
+[18:54]Logger Writing To File [ OK ]
+[18:54]Database: Integrity [ OK ]
+[18:54]Player Loading [ OK ]
+[18:55]New User Connecting (127.0.0.1:2632)
+[18:55]User Connected (127.0.0.1:2632)
+[18:55]Sent Data to (127.0.0.1:2632)
+[18:55]Recieved from (127.0.0.1:2632)
+[19:24]Started Server - 127.0.0.1:2480
+[19:24]Loading Database Handler.
+[19:24]Logger Writing To File [ OK ]
+[19:24]Database: Integrity [ OK ]
+[19:24]Player Loading [ OK ]
+[19:24]New User Connecting (127.0.0.1:2832)
+[19:24]User Connected (127.0.0.1:2832)
+[19:24]Recieved from (127.0.0.1:2832)''
+[19:24]Recieved from (127.0.0.1:2832)''
+[19:24]Sent Data to (127.0.0.1:2832)
+[19:24]Recieved from (127.0.0.1:2832)''
+[19:30]Started Server - 127.0.0.1:2480
+[19:30]Loading Database Handler.
+[19:30]Logger Writing To File [ OK ]
+[19:30]Database: Integrity [ OK ]
+[19:30]Player Loading [ OK ]
+[19:30]New User Connecting (127.0.0.1:3232)
+[19:31]User Connected (127.0.0.1:3232)
+[19:31]Sent Data to (127.0.0.1:3232)
+[19:31]Recieved from (127.0.0.1:3232)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:31]Recieved from (127.0.0.1:3232)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:31]Started Server - 127.0.0.1:2480
+[19:31]Loading Database Handler.
+[19:31]Logger Writing To File [ OK ]
+[19:31]Database: Integrity [ OK ]
+[19:31]Player Loading [ OK ]
+[19:31]New User Connecting (127.0.0.1:3292)
+[19:31]User Connected (127.0.0.1:3292)
+[19:31]Recieved from (127.0.0.1:3292)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:31]Recieved from (127.0.0.1:3292)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:31]Sent Data to (127.0.0.1:3292)
+[19:31]Recieved from (127.0.0.1:3292)'Message to send'
+[19:31]New User Connecting (127.0.0.1:3297)
+[19:31]User Connected (127.0.0.1:3297)
+[19:31]Recieved from (127.0.0.1:3297)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:31]Recieved from (127.0.0.1:3297)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:31]Sent Data to (127.0.0.1:3297)
+[19:31]Recieved from (127.0.0.1:3297)'Message to send'
+[19:31]New User Connecting (127.0.0.1:3298)
+[19:31]User Connected (127.0.0.1:3298)
+[19:31]Recieved from (127.0.0.1:3298)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:31]Recieved from (127.0.0.1:3298)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:31]Sent Data to (127.0.0.1:3298)
+[19:31]Recieved from (127.0.0.1:3298)'Message to send'
+[19:32]New User Connecting (127.0.0.1:3300)
+[19:32]User Connected (127.0.0.1:3300)
+[19:32]Recieved from (127.0.0.1:3300)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:32]Recieved from (127.0.0.1:3300)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:32]Sent Data to (127.0.0.1:3300)
+[19:32]Recieved from (127.0.0.1:3300)'Message to send'
+[19:45]Started Server - 127.0.0.1:2480
+[19:45]Loading Database Handler.
+[19:45]Logger Writing To File [ OK ]
+[19:45]Database: Integrity [ OK ]
+[19:45]Player Loading [ OK ]
+[19:46]New User Connecting (127.0.0.1:4287)
+[19:46]User Connected (127.0.0.1:4287)
+[19:46]Recieved from (127.0.0.1:4287)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:46]Recieved from (127.0.0.1:4287)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:46]Sent Data to (127.0.0.1:4287)
+[19:46]Recieved from (127.0.0.1:4287)'[LOD]0'
+[19:46]Load User Request.
+[19:46]Load User Request.
+[19:46]Sent Data to (127.0.0.1:4287)
+[19:48]New User Connecting (127.0.0.1:4448)
+[19:48]User Connected (127.0.0.1:4448)
+[19:48]Recieved from (127.0.0.1:4448)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:48]Recieved from (127.0.0.1:4448)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:48]Sent Data to (127.0.0.1:4448)
+[19:48]Recieved from (127.0.0.1:4448)'[LOD]0'
+[19:48]Load User Request.
+[19:48]Sent Data to (127.0.0.1:4448)
+[19:48]New User Connecting (127.0.0.1:4450)
+[19:48]User Connected (127.0.0.1:4450)
+[19:48]Recieved from (127.0.0.1:4450)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:48]Recieved from (127.0.0.1:4450)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:48]Sent Data to (127.0.0.1:4450)
+[19:48]Recieved from (127.0.0.1:4450)'[LOD]0'
+[19:48]Load User Request.
+[19:48]Sent Data to (127.0.0.1:4450)
+[19:49]User Disconnected (127.0.0.1:4287)
+[19:49]User Disconnected (127.0.0.1:4448)
+[19:50]New User Connecting (127.0.0.1:4547)
+[19:50]User Connected (127.0.0.1:4547)
+[19:50]Sent Data to (127.0.0.1:4547)
+[19:51]Started Server - 127.0.0.1:2480
+[19:51]Loading Database Handler.
+[19:51]Logger Writing To File [ OK ]
+[19:51]Database: Integrity [ OK ]
+[19:51]Player Loading [ OK ]
+[19:51]New User Connecting (127.0.0.1:4567)
+[19:51]User Connected (127.0.0.1:4567)
+[19:51]Sent Data to (127.0.0.1:4567)
+[19:51]Recieved from (127.0.0.1:4567)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:51]Recieved from (127.0.0.1:4567)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:51]Recieved from (127.0.0.1:4567)'[LOD]0'
+[19:51]Load User Request.
+[19:51]Sent Data to (127.0.0.1:4567)
+[19:52]User Disconnected (127.0.0.1:4567)
+[19:52]New User Connecting (127.0.0.1:4675)
+[19:52]User Connected (127.0.0.1:4675)
+[19:52]Recieved from (127.0.0.1:4675)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:52]Recieved from (127.0.0.1:4675)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:52]Sent Data to (127.0.0.1:4675)
+[19:52]Recieved from (127.0.0.1:4675)'[LOD]0'
+[19:52]Load User Request.
+[19:52]Sent Data to (127.0.0.1:4675)
+[19:52]New User Connecting (127.0.0.1:4691)
+[19:52]User Connected (127.0.0.1:4691)
+[19:52]Recieved from (127.0.0.1:4691)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:52]Recieved from (127.0.0.1:4691)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:52]Recieved from (127.0.0.1:4691)'[LOD]0'
+[19:52]Load User Request.
+[19:52]Sent Data to (127.0.0.1:4691)
+[19:52]Started Server - 127.0.0.1:2480
+[19:52]Loading Database Handler.
+[19:52]Logger Writing To File [ OK ]
+[19:52]Database: Integrity [ OK ]
+[19:52]Player Loading [ OK ]
+[19:52]New User Connecting (127.0.0.1:4698)
+[19:52]User Connected (127.0.0.1:4698)
+[19:52]Recieved from (127.0.0.1:4698)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:52]Recieved from (127.0.0.1:4698)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:52]Sent Data to (127.0.0.1:4698)
+[19:52]Recieved from (127.0.0.1:4698)'[LOD]0'
+[19:52]Load User Request.
+[19:52]Sent Data to (127.0.0.1:4698)
+[19:53]New User Connecting (127.0.0.1:4717)
+[19:53]User Connected (127.0.0.1:4717)
+[19:53]Recieved from (127.0.0.1:4717)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:53]Recieved from (127.0.0.1:4717)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:53]Sent Data to (127.0.0.1:4717)
+[19:53]Recieved from (127.0.0.1:4717)'[LOD]0'
+[19:53]Load User Request.
+[19:53]Sent Data to (127.0.0.1:4717)
+[19:53]User Disconnected (127.0.0.1:4698)
+[19:53]New User Connecting (127.0.0.1:4744)
+[19:53]User Connected (127.0.0.1:4744)
+[19:53]Recieved from (127.0.0.1:4744)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:53]Recieved from (127.0.0.1:4744)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:53]Sent Data to (127.0.0.1:4744)
+[19:53]Recieved from (127.0.0.1:4744)'[LOD]0'
+[19:53]Load User Request.
+[19:53]Sent Data to (127.0.0.1:4744)
+[19:53]New User Connecting (127.0.0.1:4759)
+[19:53]User Connected (127.0.0.1:4759)
+[19:53]Recieved from (127.0.0.1:4759)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:53]Recieved from (127.0.0.1:4759)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:53]Sent Data to (127.0.0.1:4759)
+[19:53]Recieved from (127.0.0.1:4759)'[LOD]0'
+[19:53]Load User Request.
+[19:53]Sent Data to (127.0.0.1:4759)
+[19:53]User Disconnected (127.0.0.1:4717)
+[19:54]New User Connecting (127.0.0.1:4761)
+[19:54]User Connected (127.0.0.1:4761)
+[19:54]Recieved from (127.0.0.1:4761)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:54]Recieved from (127.0.0.1:4761)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:54]Sent Data to (127.0.0.1:4761)
+[19:54]Recieved from (127.0.0.1:4761)'[LOD]0'
+[19:54]Load User Request.
+[19:54]Sent Data to (127.0.0.1:4761)
+[19:54]User Disconnected (127.0.0.1:4744)
+[19:54]User Disconnected (127.0.0.1:4759)
+[19:55]New User Connecting (127.0.0.1:4816)
+[19:55]User Connected (127.0.0.1:4816)
+[19:55]Recieved from (127.0.0.1:4816)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:55]Recieved from (127.0.0.1:4816)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:55]Sent Data to (127.0.0.1:4816)
+[19:55]Recieved from (127.0.0.1:4816)'[LOD]0'
+[19:55]Load User Request.
+[19:55]Sent Data to (127.0.0.1:4816)
+[19:55]User Disconnected (127.0.0.1:4761)
+[19:55]New User Connecting (127.0.0.1:4834)
+[19:55]User Connected (127.0.0.1:4834)
+[19:55]Recieved from (127.0.0.1:4834)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:55]Recieved from (127.0.0.1:4834)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:55]Sent Data to (127.0.0.1:4834)
+[19:55]Recieved from (127.0.0.1:4834)'[LOD]0'
+[19:55]Load User Request.
+[19:55]Sent Data to (127.0.0.1:4834)
+[19:55]New User Connecting (127.0.0.1:4837)
+[19:55]User Connected (127.0.0.1:4837)
+[19:55]Recieved from (127.0.0.1:4837)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:55]Recieved from (127.0.0.1:4837)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:55]Sent Data to (127.0.0.1:4837)
+[19:55]Recieved from (127.0.0.1:4837)'[LOD]0'
+[19:55]Load User Request.
+[19:55]Sent Data to (127.0.0.1:4837)
+[19:55]User Disconnected (127.0.0.1:4816)
+[19:55]New User Connecting (127.0.0.1:4856)
+[19:55]User Connected (127.0.0.1:4856)
+[19:55]Recieved from (127.0.0.1:4856)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:55]Recieved from (127.0.0.1:4856)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:55]Sent Data to (127.0.0.1:4856)
+[19:55]Recieved from (127.0.0.1:4856)'[LOD]0'
+[19:55]Load User Request.
+[19:55]Sent Data to (127.0.0.1:4856)
+[19:55]New User Connecting (127.0.0.1:4858)
+[19:55]User Connected (127.0.0.1:4858)
+[19:55]Recieved from (127.0.0.1:4858)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:55]Recieved from (127.0.0.1:4858)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:55]Sent Data to (127.0.0.1:4858)
+[19:55]Recieved from (127.0.0.1:4858)'[LOD]0'
+[19:55]Load User Request.
+[19:55]Sent Data to (127.0.0.1:4858)
+[19:55]User Disconnected (127.0.0.1:4834)
+[19:56]User Disconnected (127.0.0.1:4837)
+[19:56]User Disconnected (127.0.0.1:4856)
+[19:59]New User Connecting (127.0.0.1:5097)
+[19:59]User Connected (127.0.0.1:5097)
+[19:59]Recieved from (127.0.0.1:5097)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:59]Recieved from (127.0.0.1:5097)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:59]Sent Data to (127.0.0.1:5097)
+[19:59]Recieved from (127.0.0.1:5097)'[LOD]0'
+[19:59]Load User Request.
+[19:59]Sent Data to (127.0.0.1:5097)
+[20:00]User Disconnected (127.0.0.1:4858)
+[20:05]Started Server - 127.0.0.1:2480
+[20:05]Loading Database Handler.
+[20:05]Logger Writing To File [ OK ]
+[20:05]Database: Integrity [ OK ]
+[20:05]Player Loading [ OK ]
+[20:06]New User Connecting (127.0.0.1:5510)
+[20:06]User Connected (127.0.0.1:5510)
+[20:06]Recieved from (127.0.0.1:5510)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:06]Recieved from (127.0.0.1:5510)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:06]Sent Data to (127.0.0.1:5510)
+[20:06]Recieved from (127.0.0.1:5510)'[LOD]0'
+[20:06]Load User Request.
+[20:06]Sent Data to (127.0.0.1:5510)
+[20:06]New User Connecting (127.0.0.1:5518)
+[20:06]User Connected (127.0.0.1:5518)
+[20:06]Sent Data to (127.0.0.1:5518)
+[20:10]Started Server - 127.0.0.1:2480
+[20:10]Loading Database Handler.
+[20:10]Logger Writing To File [ OK ]
+[20:10]Database: Integrity [ OK ]
+[20:10]Player Loading [ OK ]
+[20:10]New User Connecting (127.0.0.1:5755)
+[20:10]User Connected (127.0.0.1:5755)
+[20:10]Sent Data to (127.0.0.1:5755)
+[20:10]Recieved from (127.0.0.1:5755)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:10]Recieved from (127.0.0.1:5755)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:10]Recieved from (127.0.0.1:5755)'[LOD]0'
+[20:10]Load User Request.
+[20:10]Sent Data to (127.0.0.1:5755)
+[20:10]Sent Data to (127.0.0.1:5755)
+[20:10]New User Connecting (127.0.0.1:5789)
+[20:10]User Connected (127.0.0.1:5789)
+[20:10]Recieved from (127.0.0.1:5789)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:10]Sent Data to (127.0.0.1:5789)
+[20:10]Recieved from (127.0.0.1:5789)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:10]Recieved from (127.0.0.1:5789)'[LOD]0'
+[20:10]Load User Request.
+[20:10]Sent Data to (127.0.0.1:5789)
+[20:10]Sent Data to (127.0.0.1:5789)
+[20:11]User Disconnected (127.0.0.1:5755)
+[20:11]New User Connecting (127.0.0.1:5824)
+[20:11]User Connected (127.0.0.1:5824)
+[20:11]Recieved from (127.0.0.1:5824)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:11]Recieved from (127.0.0.1:5824)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:11]Sent Data to (127.0.0.1:5824)
+[20:11]Recieved from (127.0.0.1:5824)'[LOD]0'
+[20:11]Load User Request.
+[20:11]Sent Data to (127.0.0.1:5824)
+[20:11]User Disconnected (127.0.0.1:5789)
+[20:11]New User Connecting (127.0.0.1:5862)
+[20:11]User Connected (127.0.0.1:5862)
+[20:11]Recieved from (127.0.0.1:5862)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:11]Recieved from (127.0.0.1:5862)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:11]Sent Data to (127.0.0.1:5862)
+[20:11]Recieved from (127.0.0.1:5862)'[LOD]0'
+[20:11]Load User Request.
+[20:11]Sent Data to (127.0.0.1:5862)
+[20:12]User Disconnected (127.0.0.1:5824)
+[20:12]New User Connecting (127.0.0.1:5884)
+[20:12]User Connected (127.0.0.1:5884)
+[20:12]Recieved from (127.0.0.1:5884)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:12]Recieved from (127.0.0.1:5884)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:12]Sent Data to (127.0.0.1:5884)
+[20:12]Recieved from (127.0.0.1:5884)'[LOD]0'
+[20:12]Load User Request.
+[20:12]Sent Data to (127.0.0.1:5884)
+[20:12]User Disconnected (127.0.0.1:5862)
+[20:12]User Disconnected (127.0.0.1:5884)
+[20:13]New User Connecting (127.0.0.1:5958)
+[20:13]User Connected (127.0.0.1:5958)
+[20:13]Recieved from (127.0.0.1:5958)'[LOD]0'
+[20:13]Load User Request.
+[20:13]Sent Data to (127.0.0.1:5958)
+[20:15]Started Server - 127.0.0.1:2480
+[20:15]Loading Database Handler.
+[20:15]Logger Writing To File [ OK ]
+[20:15]Database: Integrity [ OK ]
+[20:15]Player Loading [ OK ]
+[20:15]New User Connecting (127.0.0.1:6095)
+[20:15]User Connected (127.0.0.1:6095)
+[20:15]Sent Data to (127.0.0.1:6095)
+[20:15]Recieved from (127.0.0.1:6095)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:15]Recieved from (127.0.0.1:6095)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:15]Recieved from (127.0.0.1:6095)'[LOD]0'
+[20:15]Load User Request.
+[20:15]Sent Data to (127.0.0.1:6095)
+[20:15]Sent Data to (127.0.0.1:6095)
+[20:16]New User Connecting (127.0.0.1:6157)
+[20:16]User Connected (127.0.0.1:6157)
+[20:16]Recieved from (127.0.0.1:6157)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:16]Recieved from (127.0.0.1:6157)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:16]Recieved from (127.0.0.1:6157)'[LOD]0'
+[20:16]Load User Request.
+[20:16]Sent Data to (127.0.0.1:6157)
+[20:16]Started Server - 127.0.0.1:2480
+[20:16]Loading Database Handler.
+[20:16]Logger Writing To File [ OK ]
+[20:16]Database: Integrity [ OK ]
+[20:16]Player Loading [ OK ]
+[20:16]New User Connecting (127.0.0.1:6180)
+[20:16]User Connected (127.0.0.1:6180)
+[20:16]Sent Data to (127.0.0.1:6180)
+[20:16]Recieved from (127.0.0.1:6180)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:16]Recieved from (127.0.0.1:6180)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:16]Recieved from (127.0.0.1:6180)'[LOD]0'
+[20:16]Load User Request.
+[20:16]Sent Data to (127.0.0.1:6180)
+[20:16]Sent Data to (127.0.0.1:6180)
+[20:18]New User Connecting (127.0.0.1:6347)
+[20:18]User Connected (127.0.0.1:6347)
+[20:18]Recieved from (127.0.0.1:6347)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:18]Sent Data to (127.0.0.1:6347)
+[20:18]Recieved from (127.0.0.1:6347)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:18]Recieved from (127.0.0.1:6347)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Sent Data to (127.0.0.1:6347)
+[20:18]New User Connecting (127.0.0.1:6357)
+[20:18]User Connected (127.0.0.1:6357)
+[20:18]Recieved from (127.0.0.1:6357)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:18]Recieved from (127.0.0.1:6357)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:18]Recieved from (127.0.0.1:6357)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Sent Data to (127.0.0.1:6357)
+[20:18]Started Server - 127.0.0.1:2480
+[20:18]Loading Database Handler.
+[20:18]Logger Writing To File [ OK ]
+[20:18]Database: Integrity [ OK ]
+[20:18]Player Loading [ OK ]
+[20:18]New User Connecting (127.0.0.1:6366)
+[20:18]User Connected (127.0.0.1:6366)
+[20:18]Sent Data to (127.0.0.1:6366)
+[20:18]Recieved from (127.0.0.1:6366)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:18]Recieved from (127.0.0.1:6366)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:18]Recieved from (127.0.0.1:6366)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Sent Data to (127.0.0.1:6366)
+[20:18]Sent Data to (127.0.0.1:6366)
+[20:18]Sent Data to (127.0.0.1:6366)
+[20:19]Started Server - 127.0.0.1:2480
+[20:19]Loading Database Handler.
+[20:19]Logger Writing To File [ OK ]
+[20:19]Database: Integrity [ OK ]
+[20:19]Player Loading [ OK ]
+[20:20]New User Connecting (127.0.0.1:6441)
+[20:20]User Connected (127.0.0.1:6441)
+[20:20]Sent Data to (127.0.0.1:6441)
+[20:20]Recieved from (127.0.0.1:6441)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:20]Recieved from (127.0.0.1:6441)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:20]Recieved from (127.0.0.1:6441)'[LOD]0'
+[20:20]Load User Request.
+[20:20]Sent Data to (127.0.0.1:6441)
+[20:20]Sent Data to (127.0.0.1:6441)
+[20:20]Sent Data to (127.0.0.1:6441)
+[20:25]Started Server - 127.0.0.1:2480
+[20:25]Loading Database Handler.
+[20:25]Logger Writing To File [ OK ]
+[20:25]Database: Integrity [ OK ]
+[20:25]Player Loading [ OK ]
+[20:27]Started Server - 127.0.0.1:2480
+[20:27]Loading Database Handler.
+[20:27]Logger Writing To File [ OK ]
+[20:27]Database: Integrity [ OK ]
+[20:27]Player Loading [ OK ]
+[20:27]New User Connecting (127.0.0.1:6827)
+[20:27]User Connected (127.0.0.1:6827)
+[20:27]Sent Data to (127.0.0.1:6827)
+[20:27]Recieved from (127.0.0.1:6827)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:27]Recieved from (127.0.0.1:6827)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:27]Recieved from (127.0.0.1:6827)'[LOD]0'
+[20:27]Load User Request.
+[20:27]Sent Data to (127.0.0.1:6827)
+[20:27]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:29]Sent Data to (127.0.0.1:6827)
+[20:30]Sent Data to (127.0.0.1:6827)
+[20:30]Sent Data to (127.0.0.1:6827)
+[20:30]Sent Data to (127.0.0.1:6827)
+[20:30]Closing Server : From Console
+[18:54]Started Server - 127.0.0.1:2480
+[18:54]Loading Database Handler.
+[18:54]Logger Writing To File [ OK ]
+[18:54]Database: Integrity [ OK ]
+[18:54]Player Loading [ OK ]
+[18:58]New User Connecting (127.0.0.1:48584)
+[18:58]User Connected (127.0.0.1:48584)
+[18:58]Sent Data to (127.0.0.1:48584)
+[18:58]Recieved from (127.0.0.1:48584)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[18:58]Recieved from (127.0.0.1:48584)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[18:58]Recieved from (127.0.0.1:48584)'[LOD]0'
+[18:58]Load User Request.
+[18:58]Sent Data to (127.0.0.1:48584)
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[18:58]Recieved from (127.0.0.1:48584)'[CMD]say hello'
+[19:00]New User Connecting (127.0.0.1:48766)
+[19:00]User Connected (127.0.0.1:48766)
+[19:00]Recieved from (127.0.0.1:48766)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:00]Recieved from (127.0.0.1:48766)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[19:00]Sent Data to (127.0.0.1:48766)
+[19:00]Recieved from (127.0.0.1:48766)'[LOD]0'
+[19:00]Load User Request.
+[19:00]Sent Data to (127.0.0.1:48766)
+[19:00]User Disconnected (127.0.0.1:48584)
+[19:00]Recieved from (127.0.0.1:48766)'[CMD]say hello'
+[19:02]New User Connecting (127.0.0.1:48980)
+[19:02]User Connected (127.0.0.1:48980)
+[19:02]Sent Data to (127.0.0.1:48980)
+[19:02]Started Server - 127.0.0.1:2480
+[19:02]Loading Database Handler.
+[19:02]Logger Writing To File [ OK ]
+[19:02]Database: Integrity [ OK ]
+[19:02]Player Loading [ OK ]
+[19:02]New User Connecting (127.0.0.1:49004)
+[19:02]User Connected (127.0.0.1:49004)
+[19:02]Sent Data to (127.0.0.1:49004)
+[19:02]Recieved from (127.0.0.1:49004)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[19:02]Recieved from (127.0.0.1:49004)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[17:12]Started Server - 127.0.0.1:2480
+[17:12]Loading Database Handler.
+[17:12]SQL>Creating Table 'players' returned 0
+[17:12]SQL>Creating new player 'Administrator' returned 1
+[17:12]Logger Writing To File [ OK ]
+[17:12]Database: Integrity [ OK ]
+[17:12]Player Loading [ OK ]
+[17:13]Started Server - 127.0.0.1:2480
+[17:13]Loading Database Handler.
+[17:13]Logger Writing To File [ OK ]
+[17:13]Database: Integrity [ OK ]
+[17:13]Player Loading [ OK ]
+[17:33]Started Server - 127.0.0.1:2480
+[17:33]Loading Database Handler.
+[17:33]Logger Writing To File [ OK ]
+[17:33]Database: Integrity [ OK ]
+[17:33]Loading player failed
+[17:33]Reason: Index was outside the bounds of the array.
+[17:37]Started Server - 127.0.0.1:2480
+[17:37]Loading Database Handler.
+[17:37]Logger Writing To File [ OK ]
+[17:37]Database: Integrity [ OK ]
+[17:38]Started Server - 127.0.0.1:2480
+[17:38]Loading Database Handler.
+[17:38]SQL>Creating Table 'players' returned 0
+[17:38]SQL>Creating new player 'Administrator' returned 1
+[17:38]Logger Writing To File [ OK ]
+[17:38]Database: Integrity [ OK ]
+[17:39]Player Loading [ OK ]
+[17:39]New User Connecting (127.0.0.1:19906)
+[17:39]User Connected (127.0.0.1:19906)
+[17:39]Sent Data to (127.0.0.1:19906)
+[17:39]Recieved from (127.0.0.1:19906)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[17:39]Recieved from (127.0.0.1:19906)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[17:39]Sent Data to (127.0.0.1:19906)
+[17:40]User Disconnected (127.0.0.1:19906)
+[17:44]Started Server - 127.0.0.1:2480
+[17:44]Loading Database Handler.
+[17:44]Logger Writing To File [ OK ]
+[17:44]Database: Integrity [ OK ]
+[17:44]Player Loading [ OK ]
+[20:48]Started Server - 127.0.0.1:2480
+[20:48]Loading Database Handler.
+[20:48]Logger Writing To File [ OK ]
+[20:48]Database: Integrity [ OK ]
+[20:48]Player Loading [ OK ]
+[20:48]New User Connecting (127.0.0.1:46992)
+[20:48]User Connected (127.0.0.1:46992)
+[20:48]Sent Data to (127.0.0.1:46992)
+[20:48]Recieved from (127.0.0.1:46992)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:48]Recieved from (127.0.0.1:46992)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:49]New User Connecting (127.0.0.1:47080)
+[20:49]User Connected (127.0.0.1:47080)
+[20:49]Recieved from (127.0.0.1:47080)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[20:49]Recieved from (127.0.0.1:47080)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[20:49]Recieved from (127.0.0.1:47080)'[ACN]Will,gwen10'
+[20:49]User requires account details, checking authentication.
+[20:56]Started Server - 127.0.0.1:2480
+[20:56]Loading Database Handler.
+[20:56]SQL>Creating Table 'accounts' returned 0
+[20:56]SQL>Creating Table 'players' returned 0
+[20:56]SQL>Creating new player 'Administrator' returned 1
+[20:56]SQL> Failed last action, database not created. Destroying attempt.
+[20:59]Started Server - 127.0.0.1:2480
+[20:59]Loading Database Handler.
+[20:59]SQL>Creating Table 'accounts' returned 0
+[20:59]SQL>Creating Table 'players' returned 0
+[20:59]SQL>Creating new player 'Administrator' returned 1
+[20:59]SQL> Failed last action, database not created. Destroying attempt.
+[20:59]Logger Writing To File [ OK ]
+[20:59]Database: Integrity [ CRITICAL ]
+[21:00]Started Server - 127.0.0.1:2480
+[21:00]Loading Database Handler.
+[21:00]SQL>Creating Table 'accounts' returned 0
+[21:00]SQL>Creating Table 'players' returned 0
+[21:00]SQL>Creating new player 'Administrator' returned 1
+[21:00]SQL> Failed last action, database not created. Destroying attempt.
+[21:00]Logger Writing To File [ OK ]
+[21:00]Database: Integrity [ CRITICAL ]
+[21:00]Player Loading [ WARNING ]
+[21:00]Problem not critical, continuing.
+[21:00]Server cannot continue due to a failed check.
+[21:02]Started Server - 127.0.0.1:2480
+[21:02]Loading Database Handler.
+[21:02]SQL>Creating Table 'accounts' returned 0
+[21:02]SQL>Creating Table 'players' returned 0
+[21:02]SQL>Creating new player 'Administrator' returned 1
+[21:02]SQL> Failed last action, database not created. Destroying attempt.
+[21:02]Logger Writing To File [ OK ]
+[21:02]Database: Integrity [ CRITICAL ]
+[21:02]Player Loading [ WARNING ]
+[21:02]Problem not critical, continuing.
+[21:02]Server cannot continue due to a failed check. The Server will close in 5 seconds
+[21:02]Started Server - 127.0.0.1:2480
+[21:02]Loading Database Handler.
+[21:02]SQL>Creating Table 'accounts' returned 0
+[21:02]SQL>Creating Table 'players' returned 0
+[21:02]SQL>Creating new player 'Administrator' returned 1
+[21:02]SQL> Failed last action, database not created. Destroying attempt.
+[21:02]Logger Writing To File [ OK ]
+[21:02]Database: Integrity [ CRITICAL ]
+[21:02]Player Loading [ WARNING ]
+[21:02]Problem not critical, continuing.
+[21:02]Server cannot continue due to a failed check. The Server will close in 10 seconds
+[21:02]Started Server - 127.0.0.1:2480
+[21:02]Loading Database Handler.
+[21:02]SQL>Creating Table 'accounts' returned 0
+[21:02]SQL>Creating Table 'players' returned 0
+[21:02]SQL>Creating new player 'Administrator' returned 1
+[21:07]Started Server - 127.0.0.1:2480
+[21:07]Loading Database Handler.
+[21:07]Logger Writing To File [ OK ]
+[21:07]Database: Integrity [ OK ]
+[21:07]Player Loading [ OK ]
+[21:15]New User Connecting (127.0.0.1:51048)
+[21:15]User Connected (127.0.0.1:51048)
+[21:15]Sent Data to (127.0.0.1:51048)
+[21:15]Recieved from (127.0.0.1:51048)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:15]Recieved from (127.0.0.1:51048)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:15]New User Connecting (127.0.0.1:51057)
+[21:15]User Connected (127.0.0.1:51057)
+[21:15]Recieved from (127.0.0.1:51057)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:15]Recieved from (127.0.0.1:51057)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:15]Recieved from (127.0.0.1:51057)'[ACN]admin,admin'
+[21:15]User requires account details, checking authentication.
+[21:15]Sent Data to (127.0.0.1:51057)
+[21:18]Started Server - 127.0.0.1:2480
+[21:18]Loading Database Handler.
+[21:18]Logger Writing To File [ OK ]
+[21:18]Database: Integrity [ OK ]
+[21:18]Player Loading [ OK ]
+[21:18]New User Connecting (127.0.0.1:51389)
+[21:18]User Connected (127.0.0.1:51389)
+[21:18]Sent Data to (127.0.0.1:51389)
+[21:18]Recieved from (127.0.0.1:51389)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:18]Recieved from (127.0.0.1:51389)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:18]New User Connecting (127.0.0.1:51423)
+[21:18]User Connected (127.0.0.1:51423)
+[21:18]Recieved from (127.0.0.1:51423)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:18]Recieved from (127.0.0.1:51423)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:18]Recieved from (127.0.0.1:51423)'[ACN]admin,admin'
+[21:18]User requires account details, checking authentication.
+[21:19]Sent Data to (127.0.0.1:51423)
+[21:21]Started Server - 127.0.0.1:2480
+[21:21]Loading Database Handler.
+[21:21]Logger Writing To File [ OK ]
+[21:21]Database: Integrity [ OK ]
+[21:21]Player Loading [ OK ]
+[21:21]New User Connecting (127.0.0.1:51689)
+[21:21]User Connected (127.0.0.1:51689)
+[21:21]Sent Data to (127.0.0.1:51689)
+[21:21]Recieved from (127.0.0.1:51689)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:21]Recieved from (127.0.0.1:51689)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:21]New User Connecting (127.0.0.1:51726)
+[21:21]Sent Data to (127.0.0.1:51726)
+[21:24]Started Server - 127.0.0.1:2480
+[21:24]Loading Database Handler.
+[21:24]Logger Writing To File [ OK ]
+[21:24]Database: Integrity [ OK ]
+[21:24]Player Loading [ OK ]
+[21:24]New User Connecting (127.0.0.1:51991)
+[21:24]Sent Data to (127.0.0.1:51991)
+[21:24]User Connected (127.0.0.1:51991)
+[21:24]Recieved from (127.0.0.1:51991)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:24]Recieved from (127.0.0.1:51991)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:25]Started Server - 127.0.0.1:2480
+[21:25]Loading Database Handler.
+[21:25]Logger Writing To File [ OK ]
+[21:25]Database: Integrity [ OK ]
+[21:25]Player Loading [ OK ]
+[21:25]New User Connecting (127.0.0.1:52160)
+[21:25]Sent Data to (127.0.0.1:52160)
+[21:25]User Connected (127.0.0.1:52160)
+[21:25]Recieved from (127.0.0.1:52160)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:25]Recieved from (127.0.0.1:52160)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:25]New User Connecting (127.0.0.1:52162)
+[21:25]Sent Data to (127.0.0.1:52162)
+[21:25]User Connected (127.0.0.1:52162)
+[21:25]Recieved from (127.0.0.1:52162)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:25]Recieved from (127.0.0.1:52162)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:25]New User Connecting (127.0.0.1:52171)
+[21:25]Sent Data to (127.0.0.1:52171)
+[21:25]User Connected (127.0.0.1:52171)
+[21:25]Recieved from (127.0.0.1:52171)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:25]Recieved from (127.0.0.1:52171)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:27]User Disconnected (127.0.0.1:52160)
+[21:27]User Disconnected (127.0.0.1:52162)
+[21:27]User Disconnected (127.0.0.1:52171)
+[21:28]New User Connecting (127.0.0.1:52532)
+[21:28]Sent Data to (127.0.0.1:52532)
+[21:28]User Connected (127.0.0.1:52532)
+[21:28]Recieved from (127.0.0.1:52532)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:28]Recieved from (127.0.0.1:52532)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:28]User Disconnected (127.0.0.1:52532)
+[21:29]New User Connecting (127.0.0.1:52731)
+[21:29]Sent Data to (127.0.0.1:52731)
+[21:29]User Connected (127.0.0.1:52731)
+[21:29]Recieved from (127.0.0.1:52731)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:29]Recieved from (127.0.0.1:52731)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:30]User Disconnected (127.0.0.1:52731)
+[21:30]New User Connecting (127.0.0.1:52822)
+[21:30]Sent Data to (127.0.0.1:52822)
+[21:30]User Connected (127.0.0.1:52822)
+[21:30]Recieved from (127.0.0.1:52822)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:30]Recieved from (127.0.0.1:52822)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:31]New User Connecting (127.0.0.1:52918)
+[21:31]Sent Data to (127.0.0.1:52918)
+[21:31]User Connected (127.0.0.1:52918)
+[21:31]Recieved from (127.0.0.1:52918)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:31]Recieved from (127.0.0.1:52918)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:31]Recieved from (127.0.0.1:52918)'[ACN]admin,admin'
+[21:31]User requires account details, checking authentication.
+[21:31]Sent Data to (127.0.0.1:52918)
+[21:31]User Disconnected (127.0.0.1:52822)
+[21:33]New User Connecting (127.0.0.1:53161)
+[21:33]Sent Data to (127.0.0.1:53161)
+[21:33]User Connected (127.0.0.1:53161)
+[21:33]Recieved from (127.0.0.1:53161)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:33]Recieved from (127.0.0.1:53161)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:33]Recieved from (127.0.0.1:53161)'[ACN]admin,admin'
+[21:33]User requires account details, checking authentication.
+[21:33]Sent Data to (127.0.0.1:53161)
+[21:33]User Disconnected (127.0.0.1:52918)
+[21:33]New User Connecting (127.0.0.1:53262)
+[21:33]Sent Data to (127.0.0.1:53262)
+[21:33]User Connected (127.0.0.1:53262)
+[21:33]Recieved from (127.0.0.1:53262)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:33]Recieved from (127.0.0.1:53262)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:34]Recieved from (127.0.0.1:53262)'[ACN]admin,admin'
+[21:34]User requires account details, checking authentication.
+[21:34]Sent Data to (127.0.0.1:53262)
+[21:36]Started Server - 127.0.0.1:2480
+[21:36]Loading Database Handler.
+[21:36]Logger Writing To File [ OK ]
+[21:36]Database: Integrity [ OK ]
+[21:36]Player Loading [ OK ]
+[21:36]Closing Server : From Console
+[21:36]Started Server - 127.0.0.1:2480
+[21:36]Loading Database Handler.
+[21:36]SQL>Creating Table 'accounts' returned 0
+[21:36]SQL>Creating Table 'players' returned 0
+[21:36]SQL>Creating new player 'Administrator' returned 1
+[21:36]SQL>Creating new account 'admin' returned 1
+[21:37]Logger Writing To File [ OK ]
+[21:37]Database: Integrity [ OK ]
+[21:37]Player Loading [ OK ]
+[21:37]New User Connecting (127.0.0.1:53684)
+[21:37]Sent Data to (127.0.0.1:53684)
+[21:37]User Connected (127.0.0.1:53684)
+[21:37]Recieved from (127.0.0.1:53684)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:37]Recieved from (127.0.0.1:53684)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:37]Recieved from (127.0.0.1:53684)'[ACN]admin,admin'
+[21:37]User requires account details, checking authentication.
+[21:37]Sent Data to (127.0.0.1:53684)
+[21:38]New User Connecting (127.0.0.1:53819)
+[21:38]Sent Data to (127.0.0.1:53819)
+[21:38]User Connected (127.0.0.1:53819)
+[21:38]Recieved from (127.0.0.1:53819)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:38]Recieved from (127.0.0.1:53819)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:38]Recieved from (127.0.0.1:53819)'[ACN]admin,admin'
+[21:38]User requires account details, checking authentication.
+[21:39]Sent Data to (127.0.0.1:53819)
+[21:39]New User Connecting (127.0.0.1:53981)
+[21:39]Sent Data to (127.0.0.1:53981)
+[21:39]User Connected (127.0.0.1:53981)
+[21:39]Recieved from (127.0.0.1:53981)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:39]Recieved from (127.0.0.1:53981)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:39]Recieved from (127.0.0.1:53981)'[ACN]admin,admin'
+[21:39]User requires account details, checking authentication.
+[21:43]Started Server - 127.0.0.1:2480
+[21:43]Loading Database Handler.
+[21:43]Logger Writing To File [ OK ]
+[21:43]Database: Integrity [ OK ]
+[21:43]Player Loading [ OK ]
+[21:43]New User Connecting (127.0.0.1:54432)
+[21:43]Sent Data to (127.0.0.1:54432)
+[21:43]User Connected (127.0.0.1:54432)
+[21:43]Recieved from (127.0.0.1:54432)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:43]Recieved from (127.0.0.1:54432)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:43]Recieved from (127.0.0.1:54432)'[ACN]admin,admin'
+[21:43]User requires account details, checking authentication.
+[21:47]Recieved from (127.0.0.1:54432)'[LOD]undefined'
+[21:47]Sent Data to (127.0.0.1:54432)
+[21:47]Load User Request.
+[21:49]Started Server - 127.0.0.1:2480
+[21:49]Loading Database Handler.
+[21:49]Logger Writing To File [ OK ]
+[21:49]Database: Integrity [ OK ]
+[21:49]Player Loading [ OK ]
+[21:49]New User Connecting (127.0.0.1:55165)
+[21:49]Sent Data to (127.0.0.1:55165)
+[21:49]User Connected (127.0.0.1:55165)
+[21:49]Recieved from (127.0.0.1:55165)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:49]Recieved from (127.0.0.1:55165)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:50]Recieved from (127.0.0.1:55165)'[ACN]admin,admin'
+[21:50]User requires account details, checking authentication.
+[21:50]Sent Data to (127.0.0.1:55165)
+[21:52]Started Server - 127.0.0.1:2480
+[21:52]Loading Database Handler.
+[21:52]Logger Writing To File [ OK ]
+[21:52]Database: Integrity [ OK ]
+[21:52]Player Loading [ OK ]
+[21:52]New User Connecting (127.0.0.1:55491)
+[21:52]Sent Data to (127.0.0.1:55491)
+[21:52]User Connected (127.0.0.1:55491)
+[21:52]Recieved from (127.0.0.1:55491)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:52]Recieved from (127.0.0.1:55491)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:52]Recieved from (127.0.0.1:55491)'[ACN]admin,admin'
+[21:52]User requires account details, checking authentication.
+[21:52]Sent Data to (127.0.0.1:55491)
+[21:52]New User Connecting (127.0.0.1:55570)
+[21:52]Sent Data to (127.0.0.1:55570)
+[21:52]User Connected (127.0.0.1:55570)
+[21:52]Recieved from (127.0.0.1:55570)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:52]Recieved from (127.0.0.1:55570)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:52]New User Connecting (127.0.0.1:55586)
+[21:52]Sent Data to (127.0.0.1:55586)
+[21:52]User Connected (127.0.0.1:55586)
+[21:52]Recieved from (127.0.0.1:55586)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:52]Recieved from (127.0.0.1:55586)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:52]User Disconnected (127.0.0.1:55491)
+[21:52]User Disconnected (127.0.0.1:55570)
+[21:52]New User Connecting (127.0.0.1:55634)
+[21:52]Sent Data to (127.0.0.1:55634)
+[21:52]User Connected (127.0.0.1:55634)
+[21:52]Recieved from (127.0.0.1:55634)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:52]Recieved from (127.0.0.1:55634)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:53]New User Connecting (127.0.0.1:55680)
+[21:53]Sent Data to (127.0.0.1:55680)
+[21:53]User Connected (127.0.0.1:55680)
+[21:53]Recieved from (127.0.0.1:55680)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:53]Recieved from (127.0.0.1:55680)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:53]Recieved from (127.0.0.1:55680)'[ACN]admin,admin'
+[21:53]User requires account details, checking authentication.
+[21:53]Sent Data to (127.0.0.1:55680)
+[21:53]User Disconnected (127.0.0.1:55586)
+[21:53]User Disconnected (127.0.0.1:55634)
+[21:53]Recieved from (127.0.0.1:55680)'[LOD]0'
+[21:53]Load User Request.
+[21:53]Sent Data to (127.0.0.1:55680)
+[21:59]Started Server - 127.0.0.1:2480
+[21:59]Loading Database Handler.
+[21:59]Logger Writing To File [ OK ]
+[21:59]Database: Integrity [ OK ]
+[21:59]Player Loading [ OK ]
+[21:59]New User Connecting (127.0.0.1:56507)
+[21:59]Sent Data to (127.0.0.1:56507)
+[21:59]User Connected (127.0.0.1:56507)
+[21:59]Recieved from (127.0.0.1:56507)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[21:59]Recieved from (127.0.0.1:56507)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[21:59]Recieved from (127.0.0.1:56507)'[ACN]admin,admin'
+[21:59]User requires account details, checking authentication.
+[21:59]Recieved from (127.0.0.1:56507)'[LOD]0'
+[21:59]Sent Data to (127.0.0.1:56507)
+[21:59]Load User Request.
+[22:01]Sent Data to (127.0.0.1:56507)
+[22:01]Recieved from (127.0.0.1:56507)'[CMD]say hi'
+[22:01]Command recieved : say hi
+[22:01]Player Command Unrecognised
+[22:03]Started Server - 127.0.0.1:2480
+[22:03]Loading Database Handler.
+[22:03]Logger Writing To File [ OK ]
+[22:03]Database: Integrity [ OK ]
+[22:03]Player Loading [ OK ]
+[22:03]New User Connecting (127.0.0.1:57027)
+[22:03]Sent Data to (127.0.0.1:57027)
+[22:03]User Connected (127.0.0.1:57027)
+[22:03]Recieved from (127.0.0.1:57027)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[22:03]Recieved from (127.0.0.1:57027)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[22:03]Recieved from (127.0.0.1:57027)'[ACN]admin,admin'
+[22:03]User requires account details, checking authentication.
+[22:03]Recieved from (127.0.0.1:57027)'[LOD]0'
+[22:03]Sent Data to (127.0.0.1:57027)
+[22:03]Load User Request.
+[22:03]Sent Data to (127.0.0.1:57027)
+[22:03]Recieved from (127.0.0.1:57027)'[CMD]say hi'
+[22:03]Command recieved : say hi
+[22:04]Sent Data to (127.0.0.1:57027)
+[22:11]Started Server - 127.0.0.1:2480
+[22:11]Loading Database Handler.
+[22:11]Logger Writing To File [ OK ]
+[22:11]Database: Integrity [ OK ]
+[22:12]Player Loading [ OK ]
+[22:12]New User Connecting (127.0.0.1:58282)
+[22:12]Sent Data to (127.0.0.1:58282)
+[22:12]User Connected (127.0.0.1:58282)
+[22:12]Recieved from (127.0.0.1:58282)'laudio%2Cflashaaclow; REVERSE=0; EXCLUDECHANNEL=; AUTOPVRRUN=4; STREAMTYPE=; SINCE=; FORCE=0; SOR'
+[22:12]Recieved from (127.0.0.1:58282)'0
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websoc'
+[22:12]Recieved from (127.0.0.1:58282)'[ACN]admin,admin'
+[22:12]User requires account details, checking authentication.
+[22:12]Recieved from (127.0.0.1:58282)'[LOD]0'
+[22:12]Sent Data to (127.0.0.1:58282)
+[22:12]Load User Request.
+[22:12]Sent Data to (127.0.0.1:58282)
+[22:13]Administrator disconnected from the server.
+[19:52]Started Server - 127.0.0.1:2480
+[19:52]Loading Database Handler.
+[20:46]Started Server - 127.0.0.1:2480
+[20:46]Loading Database Handler.
+[21:15]Started Server - 127.0.0.1:2480
+[21:15]Loading Database Handler.
+[21:15]Logger Writing To File [ OK ]
+[21:15]Database: Integrity [ OK ]
+[21:16]Started Server - 127.0.0.1:2480
+[21:16]Loading Database Handler.
+[21:17]Started Server - 127.0.0.1:2480
+[21:17]Loading Database Handler.
+[21:17]Logger Writing To File [ OK ]
+[21:17]Database: Integrity [ OK ]
+[21:20]Started Server - 127.0.0.1:2480
+[21:20]Loading Database Handler.
+[21:20]Logger Writing To File [ OK ]
+[21:20]Database: Integrity [ OK ]
+[21:22]Started Server - 127.0.0.1:2480
+[21:22]Loading Database Handler.
+[21:23]Started Server - 127.0.0.1:2480
+[21:23]Loading Database Handler.
+[21:23]Started Server - 127.0.0.1:2480
+[21:23]Loading Database Handler.
+[21:25]Started Server - 127.0.0.1:2480
+[21:25]Loading Database Handler.
+[21:25]SQL>Creating Table 'accounts' returned 0
+[21:25]SQL>Creating Table 'players' returned 0
+[21:25]SQL>Creating new player 'Administrator' returned 1
+[21:25]SQL>Creating new account 'admin' returned 1
+[21:25]Logger Writing To File [ OK ]
+[21:25]Database: Integrity [ OK ]
+[21:25]Player Loading [ OK ]
+[21:26]New User Connecting (127.0.0.1:42379)
+[21:26]User Connected (127.0.0.1:42379)
+[21:26]Sent Data to (127.0.0.1:42379)
+[21:26]Recieved from (127.0.0.1:42379)'[ACN]admin,admin'
+[21:26]User requires account details, checking authentication.
+[21:26]Sent Data to (127.0.0.1:42379)
+[21:26]Recieved from (127.0.0.1:42379)'[LOD]0'
+[21:26]Load User Request.
+[21:26]Sent Data to (127.0.0.1:42379)
+[21:27]Recieved from (127.0.0.1:42379)'[CMD]say Hello'
+[21:27]Command recieved : say Hello
+[21:27]Sent Data to (127.0.0.1:42379)
+[21:27]Recieved from (127.0.0.1:42379)'[CMD]SAY wELL'
+[21:27]Command recieved : SAY wELL
+[21:27]Sent Data to (127.0.0.1:42379)
+[21:27]Sent Data to (127.0.0.1:42379)
+[21:36]Closing Server : From Console
+[21:36]Started Server - 127.0.0.1:2480
+[21:36]Loading Database Handler.
+[21:36]Logger Writing To File [ OK ]
+[21:36]Database: Integrity [ OK ]
+[21:36]Player Loading [ OK ]
+[21:41]New User Connecting (127.0.0.1:42392)
+[21:41]User Connected (127.0.0.1:42392)
+[21:41]Sent Data to (127.0.0.1:42392)
+[21:41]Recieved from (127.0.0.1:42392)'[ACN]admin,admin'
+[21:41]User requires account details, checking authentication.
+[21:41]Sent Data to (127.0.0.1:42392)
+[21:41]Recieved from (127.0.0.1:42392)'[LOD]0'
+[21:41]Load User Request.
+[21:41]Sent Data to (127.0.0.1:42392)
+[22:42]Started Server - 127.0.0.1:2480
+[22:42]Loading Database Handler.
+[22:42]Logger Writing To File [ OK ]
+[22:42]Database: Integrity [ OK ]
+[22:42]Player Loading [ OK ]
+[22:42]New User Connecting (127.0.0.1:42637)
+[22:42]User Connected (127.0.0.1:42637)
+[22:42]Sent Data to (127.0.0.1:42637)
+[22:42]Recieved from (127.0.0.1:42637)'[ACN]admin,admin'
+[22:42]User requires account details, checking authentication.
+[22:42]Sent Data to (127.0.0.1:42637)
+[22:42]Recieved from (127.0.0.1:42637)'[LOD]0'
+[22:42]Load User Request.
+[22:42]Sent Data to (127.0.0.1:42637)
+[22:42]Sent Data to (127.0.0.1:42637)
+[16:50]Started Server - 127.0.0.1:2480
+[16:50]Loading Database Handler.
+[16:50]Logger Writing To File [ OK ]
+[16:50]Database: Integrity [ OK ]
+[16:50]Player Loading [ OK ]
+[16:50]Started Server - 127.0.0.1:2480
+[16:50]Loading Database Handler.
+[16:50]Logger Writing To File [ OK ]
+[16:50]Database: Integrity [ OK ]
+[16:50]Player Loading [ OK ]
+[16:51]New User Connecting (127.0.0.1:44058)
+[16:52]User Connected (127.0.0.1:44058)
+[16:52]Sent Data to (127.0.0.1:44058)
+[16:52]Recieved from (127.0.0.1:44058)'[ACN]admin,admin'
+[16:52]User requires account details, checking authentication.
+[16:52]Sent Data to (127.0.0.1:44058)
+[16:52]Recieved from (127.0.0.1:44058)'[LOD]0'
+[16:52]Load User Request.
+[16:52]Sent Data to (127.0.0.1:44058)
+[16:52]Recieved from (127.0.0.1:44058)'[CMD]say hi'
+[16:52]Command recieved : say hi
+[16:52]Sent Data to (127.0.0.1:44058)
+[18:08]Started Server - 127.0.0.1:2480
+[18:08]Loading Database Handler.
+[18:08]Logger Writing To File [ OK ]
+[18:08]Database: Integrity [ OK ]
+[18:08]Player Loading [ OK ]
+[18:09]Started Server - 127.0.0.1:2480
+[18:09]Loading Database Handler.
+[18:09]Logger Writing To File [ OK ]
+[18:09]Database: Integrity [ OK ]
+[18:09]Player Loading [ OK ]
+[18:11]New User Connecting (127.0.0.1:44577)
+[18:11]User Connected (127.0.0.1:44577)
+[18:11]Sent Data to (127.0.0.1:44577)
+[18:11]Recieved from (127.0.0.1:44577)'[ACN]admin,wesfsdfdf'
+[18:11]User requires account details, checking authentication.
+[18:11]Sent Data to (127.0.0.1:44577)
+[18:11]New User Connecting (127.0.0.1:44580)
+[18:11]User Connected (127.0.0.1:44580)
+[18:11]Sent Data to (127.0.0.1:44580)
+[18:11]Recieved from (127.0.0.1:44580)'[ACN]adminfddf,admin'
+[18:11]User requires account details, checking authentication.
+[18:11]Sent Data to (127.0.0.1:44580)
+[18:11]New User Connecting (127.0.0.1:44581)
+[18:11]User Connected (127.0.0.1:44581)
+[18:11]Sent Data to (127.0.0.1:44581)
+[18:11]Recieved from (127.0.0.1:44581)'[ACN]admin,admin'
+[18:11]User requires account details, checking authentication.
+[18:11]Sent Data to (127.0.0.1:44581)
+[18:11]Recieved from (127.0.0.1:44581)'[LOD]0'
+[18:11]Load User Request.
+[18:11]Sent Data to (127.0.0.1:44581)
+[18:12]Recieved from (127.0.0.1:44581)'[CMD]say Hello'
+[18:12]Command recieved : say Hello
+[18:12]Sent Data to (127.0.0.1:44577)
+[18:12]Sent Data to (127.0.0.1:44580)
+[18:12]Sent Data to (127.0.0.1:44581)
+[18:23]New User Connecting (127.0.0.1:44674)
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:23]User Connected (127.0.0.1:44674)
+[18:23]Recieved from (127.0.0.1:44674)'[ACN]admin,admin'
+[18:23]User requires account details, checking authentication.
+[18:23]Recieved from (127.0.0.1:44674)'[LOD]0'
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:23]Load User Request.
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:23]Recieved from (127.0.0.1:44674)'[CMD]gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg'
+[18:23]Command recieved : gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+[18:23]Player Command Unrecognised
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:23]Recieved from (127.0.0.1:44674)'[CMD]admin'
+[18:23]Command recieved : admin
+[18:23]Player Command Unrecognised
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:23]Recieved from (127.0.0.1:44674)'[CMD]say Hi'
+[18:23]Command recieved : say Hi
+[18:23]Sent Data to (127.0.0.1:44580)
+[18:23]Sent Data to (127.0.0.1:44577)
+[18:23]Sent Data to (127.0.0.1:44581)
+[18:23]Sent Data to (127.0.0.1:44674)
+[18:24]Sent Data to (127.0.0.1:44674)
+[18:24]Started Server - 127.0.0.1:2480
+[18:24]Loading Database Handler.
+[18:24]Logger Writing To File [ OK ]
+[18:24]Database: Integrity [ OK ]
+[18:24]Player Loading [ OK ]
+[18:24]New User Connecting (127.0.0.1:44683)
+[18:24]User Connected (127.0.0.1:44683)
+[18:24]Sent Data to (127.0.0.1:44683)
+[18:24]Recieved from (127.0.0.1:44683)'[ACN]admin,admin'
+[18:24]User requires account details, checking authentication.
+[18:24]Sent Data to (127.0.0.1:44683)
+[18:24]Recieved from (127.0.0.1:44683)'[LOD]0'
+[18:24]Load User Request.
+[18:24]Sent Data to (127.0.0.1:44683)
+[18:25]Recieved from (127.0.0.1:44683)'[CMD]say hii'
+[18:25]Command recieved : say hii
+[18:25]Sent Data to (127.0.0.1:44683)
+[18:25]Recieved from (127.0.0.1:44683)'[CMD]admininistrator'
+[18:25]Command recieved : admininistrator
+[18:25]Player Command Unrecognised
+[18:25]Sent Data to (127.0.0.1:44683)
+[18:25]Recieved from (127.0.0.1:44683)'[CMD]nom'
+[18:25]Command recieved : nom
+[18:25]Player Command Unrecognised
+[18:25]Sent Data to (127.0.0.1:44683)
+[18:25]Recieved from (127.0.0.1:44683)'[CMD]wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww'
+[18:25]Command recieved : wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[18:25]Player Command Unrecognised
+[18:25]Sent Data to (127.0.0.1:44683)
+[18:25]Sent Data to (127.0.0.1:44683)
+[18:25]Started Server - 127.0.0.1:2480
+[18:25]Loading Database Handler.
+[18:25]Logger Writing To File [ OK ]
+[18:25]Database: Integrity [ OK ]
+[18:25]Player Loading [ OK ]
+[18:25]New User Connecting (127.0.0.1:44686)
+[18:25]User Connected (127.0.0.1:44686)
+[18:25]Sent Data to (127.0.0.1:44686)
+[18:26]Recieved from (127.0.0.1:44686)'[ACN]admin,admin'
+[18:26]User requires account details, checking authentication.
+[18:26]Sent Data to (127.0.0.1:44686)
+[18:26]Recieved from (127.0.0.1:44686)'[LOD]0'
+[18:26]Load User Request.
+[18:26]Sent Data to (127.0.0.1:44686)
+[18:26]Recieved from (127.0.0.1:44686)'[CMD]say Nomnomnomnomnom'
+[18:26]Command recieved : say Nomnomnomnomnom
+[18:26]Sent Data to (127.0.0.1:44686)
+[18:26]Recieved from (127.0.0.1:44686)'[CMD]Hi'
+[18:26]Command recieved : Hi
+[18:26]Player Command Unrecognised
+[18:26]Sent Data to (127.0.0.1:44686)
+[18:30]New User Connecting (127.0.0.1:44712)
+[18:30]Sent Data to (127.0.0.1:44712)
+[18:30]User Connected (127.0.0.1:44712)
+[18:30]Recieved from (127.0.0.1:44712)'[ACN]admin,admin'
+[18:30]User requires account details, checking authentication.
+[18:30]Recieved from (127.0.0.1:44712)'[LOD]0'
+[18:30]Sent Data to (127.0.0.1:44712)
+[18:30]Load User Request.
+[18:30]Sent Data to (127.0.0.1:44712)
+[18:30]Recieved from (127.0.0.1:44712)'[CMD]say Helloworld'
+[18:30]Command recieved : say Helloworld
+[18:30]Sent Data to (127.0.0.1:44712)
+[18:30]Sent Data to (127.0.0.1:44686)
+[18:31]Recieved from (127.0.0.1:44712)'[CMD]say Game'
+[18:31]Command recieved : say Game
+[18:31]Sent Data to (127.0.0.1:44712)
+[18:31]Sent Data to (127.0.0.1:44686)
+[18:31]Recieved from (127.0.0.1:44712)'[CMD]say Gaming Like A Bo$$'
+[18:31]Command recieved : say Gaming Like A Bo$$
+[18:31]Sent Data to (127.0.0.1:44712)
+[18:31]Sent Data to (127.0.0.1:44686)
+[18:33]Recieved from (127.0.0.1:44712)'[CMD]say HelloGame'
+[18:33]Command recieved : say HelloGame
+[18:33]Sent Data to (127.0.0.1:44712)
+[18:33]Sent Data to (127.0.0.1:44686)
+[18:34]Sent Data to (127.0.0.1:44712)
+[18:36]Started Server - 127.0.0.1:2480
+[18:36]Loading Database Handler.
+[18:36]Logger Writing To File [ OK ]
+[18:36]Database: Integrity [ OK ]
+[18:36]Player Loading [ OK ]
+[18:36]New User Connecting (127.0.0.1:44829)
+[18:36]User Connected (127.0.0.1:44829)
+[18:36]Sent Data to (127.0.0.1:44829)
+[18:36]Recieved from (127.0.0.1:44829)'[ACN]admin,admin'
+[18:36]User requires account details, checking authentication.
+[18:36]Sent Data to (127.0.0.1:44829)
+[18:36]Recieved from (127.0.0.1:44829)'[LOD]0'
+[18:36]Load User Request.
+[18:36]Sent Data to (127.0.0.1:44829)
+[19:06]Sent Data to (127.0.0.1:44829)
+[19:06]Started Server - 127.0.0.1:2480
+[19:06]Loading Database Handler.
+[19:06]Logger Writing To File [ OK ]
+[19:06]Database: Integrity [ OK ]
+[19:06]Player Loading [ OK ]
+[19:06]New User Connecting (127.0.0.1:45049)
+[19:07]User Connected (127.0.0.1:45049)
+[19:07]Sent Data to (127.0.0.1:45049)
+[19:07]Recieved from (127.0.0.1:45049)'[ACN]admin,admin'
+[19:07]User requires account details, checking authentication.
+[19:07]Sent Data to (127.0.0.1:45049)
+[19:07]Recieved from (127.0.0.1:45049)'[LOD]0'
+[19:07]Load User Request.
+[19:07]Sent Data to (127.0.0.1:45049)
+[19:07]Sent Data to (127.0.0.1:45049)
+[19:08]Started Server - 127.0.0.1:2480
+[19:08]Loading Database Handler.
+[19:08]Logger Writing To File [ OK ]
+[19:08]Database: Integrity [ OK ]
+[19:08]Player Loading [ OK ]
+[19:08]New User Connecting (127.0.0.1:45089)
+[19:09]User Connected (127.0.0.1:45089)
+[19:09]Sent Data to (127.0.0.1:45089)
+[19:09]Recieved from (127.0.0.1:45089)'[ACN]admin,admin'
+[19:09]User requires account details, checking authentication.
+[19:09]Sent Data to (127.0.0.1:45089)
+[19:09]Recieved from (127.0.0.1:45089)'[LOD]0'
+[19:09]Load User Request.
+[19:09]Sent Data to (127.0.0.1:45089)
+[19:59]Started Server - 127.0.0.1:2480
+[19:59]Loading Database Handler.
+[19:59]Logger Writing To File [ OK ]
+[19:59]Database: Integrity [ OK ]
+[19:59]Player Loading [ OK ]
+[19:59]Started Server - 127.0.0.1:2480
+[19:59]Loading Database Handler.
+[19:59]Logger Writing To File [ OK ]
+[19:59]Database: Integrity [ OK ]
+[19:59]Player Loading [ OK ]
+[20:02]Started Server - 255.255.255.255:2480
+[20:02]Loading Database Handler.
+[20:02]Logger Writing To File [ OK ]
+[20:02]Database: Integrity [ OK ]
+[20:02]Player Loading [ OK ]
+[20:02]Closing Server : From Console
+[20:02]Started Server - 255.255.255.255:2480
+[20:02]Loading Database Handler.
+[20:02]Logger Writing To File [ OK ]
+[20:02]Database: Integrity [ OK ]
+[20:02]Player Loading [ OK ]
+[20:03]Closing Server : From Console
+[20:03]Started Server - 0.0.0.0:2480
+[20:03]Loading Database Handler.
+[20:03]Logger Writing To File [ OK ]
+[20:03]Database: Integrity [ OK ]
+[20:03]Player Loading [ OK ]
+[20:03]New User Connecting (127.0.0.1:45888)
+[20:03]User Connected (127.0.0.1:45888)
+[20:03]Sent Data to (127.0.0.1:45888)
+[20:03]Recieved from (127.0.0.1:45888)'[ACN]admin,admin'
+[20:03]User requires account details, checking authentication.
+[20:03]Sent Data to (127.0.0.1:45888)
+[20:03]Recieved from (127.0.0.1:45888)'[LOD]0'
+[20:03]Load User Request.
+[20:04]Started Server - 0.0.0.0:2480
+[20:04]Loading Database Handler.
+[20:04]Logger Writing To File [ OK ]
+[20:04]Database: Integrity [ OK ]
+[20:04]Player Loading [ OK ]
+[20:04]New User Connecting (127.0.0.1:45890)
+[20:04]User Connected (127.0.0.1:45890)
+[20:04]Sent Data to (127.0.0.1:45890)
+[20:04]Recieved from (127.0.0.1:45890)'[ACN]admin,admin'
+[20:04]User requires account details, checking authentication.
+[20:04]Sent Data to (127.0.0.1:45890)
+[20:04]Recieved from (127.0.0.1:45890)'[LOD]0'
+[20:04]Load User Request.
+[20:05]Started Server - 0.0.0.0:2480
+[20:05]Loading Database Handler.
+[20:05]Logger Writing To File [ OK ]
+[20:05]Database: Integrity [ OK ]
+[20:05]Player Loading [ OK ]
+[20:05]Closing Server : From Console
+[20:06]Started Server - 0.0.0.0:2480
+[20:06]Loading Database Handler.
+[20:06]Logger Writing To File [ OK ]
+[20:06]Database: Integrity [ OK ]
+[20:06]Player Loading [ OK ]
+[20:06]Closing Server : From Console
+[20:06]Started Server - 0.0.0.0:2480
+[20:06]Loading Database Handler.
+[20:06]Logger Writing To File [ OK ]
+[20:06]Database: Integrity [ OK ]
+[20:06]Player Loading [ OK ]
+[20:07]New User Connecting (127.0.0.1:45904)
+[20:07]User Connected (127.0.0.1:45904)
+[20:07]Sent Data to (127.0.0.1:45904)
+[20:07]Recieved from (127.0.0.1:45904)'[ACN]admin,admin'
+[20:07]User requires account details, checking authentication.
+[20:07]Sent Data to (127.0.0.1:45904)
+[20:07]Recieved from (127.0.0.1:45904)'[LOD]0'
+[20:07]Load User Request.
+[20:09]Started Server - 0.0.0.0:2480
+[20:09]Loading Database Handler.
+[20:09]Logger Writing To File [ OK ]
+[20:09]Database: Integrity [ OK ]
+[20:09]Player Loading [ OK ]
+[20:09]New User Connecting (127.0.0.1:45905)
+[20:09]User Connected (127.0.0.1:45905)
+[20:09]Sent Data to (127.0.0.1:45905)
+[20:10]Recieved from (127.0.0.1:45905)'[ACN]admin,admin'
+[20:10]User requires account details, checking authentication.
+[20:10]Sent Data to (127.0.0.1:45905)
+[20:10]Recieved from (127.0.0.1:45905)'[LOD]0'
+[20:10]Load User Request.
+[20:10]Sent Data to (127.0.0.1:45905)
+[20:10]Recieved from (127.0.0.1:45905)'[CMD]say Hello'
+[20:10]Command recieved : say Hello
+[20:10]Sent Data to (127.0.0.1:45905)
+[20:15]New User Connecting (10.10.20.35:57144)
+[20:15]User Connected (10.10.20.35:57144)
+[20:15]Sent Data to (10.10.20.35:57144)
+[20:15]Recieved from (10.10.20.35:57144)'[ACN]admin,admin'
+[20:15]User requires account details, checking authentication.
+[20:15]Sent Data to (10.10.20.35:57144)
+[20:15]Recieved from (10.10.20.35:57144)'[LOD]0'
+[20:15]Load User Request.
+[20:15]Sent Data to (10.10.20.35:57144)
+[20:16]Recieved from (127.0.0.1:45905)'[CMD]say Moi'
+[20:16]Command recieved : say Moi
+[20:16]Sent Data to (127.0.0.1:45905)
+[20:16]Sent Data to (10.10.20.35:57144)
+[20:16]Recieved from (127.0.0.1:45905)'[CMD] say Hoi'
+[20:16]Command recieved :  say Hoi
+[20:16]Player Command Unrecognised
+[20:16]Sent Data to (127.0.0.1:45905)
+[20:16]Recieved from (127.0.0.1:45905)'[CMD]say Hello'
+[20:16]Command recieved : say Hello
+[20:16]Sent Data to (127.0.0.1:45905)
+[20:16]Sent Data to (10.10.20.35:57144)
+[20:16]Recieved from (10.10.20.35:57144)'[CMD]say Hello'
+[20:16]Command recieved : say Hello
+[20:16]Sent Data to (127.0.0.1:45905)
+[20:16]Sent Data to (10.10.20.35:57144)
+[20:16]Recieved from (127.0.0.1:45905)'[CMD]say Yo'
+[20:16]Command recieved : say Yo
+[20:16]Sent Data to (127.0.0.1:45905)
+[20:16]Sent Data to (10.10.20.35:57144)
+[20:16]Recieved from (10.10.20.35:57144)'[CMD]poo77474745'
+[20:16]Command recieved : poo77474745
+[20:16]Player Command Unrecognised
+[20:16]Sent Data to (10.10.20.35:57144)
+[20:17]Recieved from (10.10.20.35:57144)'[CMD]say Will is gay'
+[20:17]Command recieved : say Will is gay
+[20:17]Sent Data to (127.0.0.1:45905)
+[20:17]Sent Data to (10.10.20.35:57144)
+[20:17]Recieved from (127.0.0.1:45905)'[CMD]say Delete That Message'
+[20:17]Command recieved : say Delete That Message
+[20:17]Sent Data to (127.0.0.1:45905)
+[20:17]Sent Data to (10.10.20.35:57144)
+[20:17]Recieved from (10.10.20.35:57144)'[CMD]say No :('
+[20:17]Command recieved : say No :(
+[20:17]Sent Data to (127.0.0.1:45905)
+[20:17]Sent Data to (10.10.20.35:57144)
+[20:18]Sent Data to (127.0.0.1:45905)
+[20:18]Sent Data to (10.10.20.35:57144)
+[20:18]New User Connecting (10.10.20.38:50917)
+[20:18]User Connected (10.10.20.38:50917)
+[20:18]Sent Data to (10.10.20.38:50917)
+[20:18]Recieved from (10.10.20.38:50917)'[ACN]admin,admin'
+[20:18]User requires account details, checking authentication.
+[20:18]Sent Data to (10.10.20.38:50917)
+[20:18]Recieved from (10.10.20.38:50917)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Sent Data to (10.10.20.38:50917)
+[20:18]New User Connecting (10.10.20.29:49712)
+[20:18]User Connected (10.10.20.29:49712)
+[20:18]Sent Data to (10.10.20.29:49712)
+[20:18]Recieved from (10.10.20.29:49712)'[ACN]admin,admin'
+[20:18]User requires account details, checking authentication.
+[20:18]Sent Data to (10.10.20.29:49712)
+[20:18]Recieved from (10.10.20.29:49712)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Sent Data to (10.10.20.29:49712)
+[20:18]Administrator disconnected from the server.
+[20:18]Recieved from (10.10.20.29:49712)'[CMD]say fak u phaget'
+[20:18]Command recieved : say fak u phaget
+[20:18]Sent Data to (127.0.0.1:45905)
+[20:18]Sent Data to (10.10.20.29:49712)
+[20:18]Sent Data to (10.10.20.35:57144)
+[20:19]New User Connecting (10.10.20.38:50928)
+[20:19]User Connected (10.10.20.38:50928)
+[20:19]Sent Data to (10.10.20.38:50928)
+[20:19]Recieved from (10.10.20.38:50928)'[ACN]admin,admin'
+[20:19]User requires account details, checking authentication.
+[20:19]Sent Data to (10.10.20.38:50928)
+[20:19]Recieved from (10.10.20.38:50928)'[LOD]0'
+[20:19]Load User Request.
+[20:19]Sent Data to (10.10.20.38:50928)
+[20:19]Recieved from (10.10.20.38:50928)'[CMD]say yolo yolo'
+[20:19]Command recieved : say yolo yolo
+[20:19]Sent Data to (10.10.20.29:49712)
+[20:19]Sent Data to (10.10.20.35:57144)
+[20:19]Sent Data to (10.10.20.38:50928)
+[20:19]Sent Data to (127.0.0.1:45905)
+[20:19]Recieved from (10.10.20.29:49712)'[CMD]say russ is a phag'
+[20:19]Command recieved : say russ is a phag
+[20:19]Sent Data to (127.0.0.1:45905)
+[20:19]Sent Data to (10.10.20.35:57144)
+[20:19]Sent Data to (10.10.20.38:50928)
+[20:19]Sent Data to (10.10.20.29:49712)
+[20:19]Sent Data to (10.10.20.29:49712)
+[20:20]Started Server - 0.0.0.0:2480
+[20:20]Loading Database Handler.
+[20:20]Logger Writing To File [ OK ]
+[20:20]Database: Integrity [ OK ]
+[20:20]Player Loading [ OK ]
+[10:24]Started Server - 0.0.0.0:2480
+[10:24]Loading Database Handler.
+[10:24]Logger Writing To File [ OK ]
+[10:24]Database: Integrity [ OK ]
+[10:24]Player Loading [ OK ]
+[10:24]Started Server - 0.0.0.0:2480
+[10:24]Loading Database Handler.
+[10:24]Logger Writing To File [ OK ]
+[10:24]Database: Integrity [ OK ]
+[10:24]Player Loading [ OK ]
+[10:24]New User Connecting (192.168.0.9:39488)
+[10:24]User Connected (192.168.0.9:39488)
+[10:24]Sent Data to (192.168.0.9:39488)
+[10:24]Recieved from (192.168.0.9:39488)'[ACN]admin,admin'
+[10:24]User requires account details, checking authentication.
+[10:24]Sent Data to (192.168.0.9:39488)
+[10:24]Recieved from (192.168.0.9:39488)'[LOD]0'
+[10:24]Load User Request.
+[10:24]Sent Data to (192.168.0.9:39488)
+[12:29]Started Server - 0.0.0.0:2480
+[12:29]Loading Database Handler.
+[12:29]Logger Writing To File [ OK ]
+[12:29]Database: Integrity [ OK ]
+[12:29]Player Loading [ OK ]
+[12:29]Started Server - 0.0.0.0:2480
+[12:29]Loading Database Handler.
+[12:29]Logger Writing To File [ OK ]
+[12:29]Database: Integrity [ OK ]
+[12:29]Player Loading [ OK ]
+[12:29]New User Connecting (10.10.20.35:62028)
+[12:29]User Connected (10.10.20.35:62028)
+[12:29]Sent Data to (10.10.20.35:62028)
+[12:29]Recieved from (10.10.20.35:62028)'[ACN]admin,admin'
+[12:29]User requires account details, checking authentication.
+[12:29]Sent Data to (10.10.20.35:62028)
+[12:29]Recieved from (10.10.20.35:62028)'[LOD]0'
+[12:29]Load User Request.
+[12:29]Sent Data to (10.10.20.35:62028)
+[12:29]Recieved from (10.10.20.35:62028)'[CMD]yfsddsdfsdd'
+[12:29]Command recieved : yfsddsdfsdd
+[12:29]Player Command Unrecognised
+[12:29]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]sd'
+[12:30]Command recieved : sd
+[12:30]Player Command Unrecognised
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say cocks'
+[12:30]Command recieved : say cocks
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]New User Connecting (10.10.20.29:49731)
+[12:30]User Connected (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]New User Connecting (127.0.0.1:54028)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.29:49731)'[ACN]admin,admin'
+[12:30]User Connected (127.0.0.1:54028)
+[12:30]User requires account details, checking authentication.
+[12:30]Recieved from (10.10.20.29:49731)'[LOD]0'
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Load User Request.
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Recieved from (127.0.0.1:54028)'[ACN]admin,admin'
+[12:30]User requires account details, checking authentication.
+[12:30]Recieved from (127.0.0.1:54028)'[LOD]0'
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Load User Request.
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say dinosaur'
+[12:30]Command recieved : say dinosaur
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (127.0.0.1:54028)'[CMD]dinosaur'
+[12:30]Command recieved : dinosaur
+[12:30]Player Command Unrecognised
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]New User Connecting (10.10.20.28:50187)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]User Connected (10.10.20.28:50187)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say cocks'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Command recieved : say cocks
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.28:50187)'[ACN]admin,admin'
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]User requires account details, checking authentication.
+[12:30]Recieved from (10.10.20.28:50187)'[LOD]0'
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Load User Request.
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Recieved from (127.0.0.1:54028)'[CMD]say dinosaur'
+[12:30]Command recieved : say dinosaur
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say cocks'
+[12:30]Command recieved : say cocks
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say cocks'
+[12:30]Command recieved : say cocks
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.35:62028)'[CMD]say cocks'
+[12:30]Command recieved : say cocks
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Recieved from (127.0.0.1:54028)'[CMD]say I love'
+[12:30]Command recieved : say I love
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Recieved from (10.10.20.29:49731)'[CMD]say penis'
+[12:30]Command recieved : say penis
+[12:30]Sent Data to (10.10.20.35:62028)
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:30]Sent Data to (127.0.0.1:54028)
+[12:30]Sent Data to (10.10.20.28:50187)
+[12:30]Recieved from (10.10.20.28:50187)'[CMD]say yo'
+[12:30]Command recieved : say yo
+[12:30]Sent Data to (10.10.20.29:49731)
+[12:56]Started Server - 0.0.0.0:2480
+[12:56]Loading Database Handler.
+[12:56]Logger Writing To File [ OK ]
+[12:56]Database: Integrity [ OK ]
+[12:56]Player Loading [ OK ]
+[12:56]New User Connecting (127.0.0.1:54091)
+[12:56]User Connected (127.0.0.1:54091)
+[12:56]New User Connecting (127.0.0.1:54094)
+[12:56]Sent Data to (127.0.0.1:54091)
+[12:56]Started Server - 0.0.0.0:2480
+[12:56]Loading Database Handler.
+[12:56]Logger Writing To File [ OK ]
+[12:56]Database: Integrity [ OK ]
+[12:56]Player Loading [ OK ]
+[12:56]New User Connecting (127.0.0.1:54097)
+[12:56]User Connected (127.0.0.1:54097)
+[12:56]Sent Data to (127.0.0.1:54097)
+[12:57]Sent Data to (127.0.0.1:54097)
+[12:57]Started Server - 0.0.0.0:2480
+[12:57]Loading Database Handler.
+[12:57]Logger Writing To File [ OK ]
+[12:57]Database: Integrity [ OK ]
+[12:57]Player Loading [ OK ]
+[12:57]New User Connecting (127.0.0.1:54101)
+[12:57]User Connected (127.0.0.1:54101)
+[12:57]Sent Data to (127.0.0.1:54101)
+[12:58]Started Server - 0.0.0.0:2480
+[12:58]Loading Database Handler.
+[12:58]Logger Writing To File [ OK ]
+[12:58]Database: Integrity [ OK ]
+[12:58]Player Loading [ OK ]
+[12:58]New User Connecting (127.0.0.1:54110)
+[12:58]User Connected (127.0.0.1:54110)
+[12:58]Sent Data to (127.0.0.1:54110)
+[12:58]New User Connecting (127.0.0.1:54111)
+[12:58]User Connected (127.0.0.1:54111)
+[12:58]Sent Data to (127.0.0.1:54111)
+[12:58]New User Connecting (127.0.0.1:54112)
+[12:58]User Connected (127.0.0.1:54112)
+[12:58]Sent Data to (127.0.0.1:54112)
+[12:59]Started Server - 0.0.0.0:2480
+[12:59]Loading Database Handler.
+[12:59]Logger Writing To File [ OK ]
+[12:59]Database: Integrity [ OK ]
+[12:59]Player Loading [ OK ]
+[12:59]New User Connecting (127.0.0.1:54117)
+[12:59]User Connected (127.0.0.1:54117)
+[12:59]Sent Data to (127.0.0.1:54117)
+[12:59]Sent Data to (127.0.0.1:54117)
+[13:01]Started Server - 0.0.0.0:2480
+[13:01]Loading Database Handler.
+[13:01]Logger Writing To File [ OK ]
+[13:01]Database: Integrity [ OK ]
+[13:01]Player Loading [ OK ]
+[13:01]New User Connecting (127.0.0.1:54120)
+[13:01]User Connected (127.0.0.1:54120)
+[13:01]Sent Data to (127.0.0.1:54120)
+[13:01]Sent Data to (127.0.0.1:54120)
+[13:01]Started Server - 0.0.0.0:2480
+[13:01]Loading Database Handler.
+[13:01]Logger Writing To File [ OK ]
+[13:01]Database: Integrity [ OK ]
+[13:01]Player Loading [ OK ]
+[13:01]New User Connecting (127.0.0.1:54123)
+[13:02]User Connected (127.0.0.1:54123)
+[13:02]Sent Data to (127.0.0.1:54123)
+[13:03]Sent Data to (127.0.0.1:54123)
+[13:08]Started Server - 0.0.0.0:2480
+[13:08]Loading Database Handler.
+[13:08]Logger Writing To File [ OK ]
+[13:08]Database: Integrity [ OK ]
+[13:08]Player Loading [ OK ]
+[13:08]New User Connecting (127.0.0.1:54133)
+[13:08]User Connected (127.0.0.1:54133)
+[13:08]Sent Data to (127.0.0.1:54133)
+[13:09]Sent Data to (127.0.0.1:54133)
+[13:09]Started Server - 0.0.0.0:2480
+[13:09]Loading Database Handler.
+[13:09]Logger Writing To File [ OK ]
+[13:09]Database: Integrity [ OK ]
+[13:09]Player Loading [ OK ]
+[13:09]New User Connecting (127.0.0.1:54135)
+[13:09]User Connected (127.0.0.1:54135)
+[13:09]Sent Data to (127.0.0.1:54135)
+[13:13]New User Connecting (127.0.0.1:54136)
+[13:13]User Connected (127.0.0.1:54136)
+[13:13]Sent Data to (127.0.0.1:54136)
+[13:23]Sent Data to (127.0.0.1:54136)
+[13:23]Started Server - 0.0.0.0:2480
+[13:23]Loading Database Handler.
+[13:23]Logger Writing To File [ OK ]
+[13:23]Database: Integrity [ OK ]
+[13:23]Player Loading [ OK ]
+[13:23]New User Connecting (127.0.0.1:54142)
+[13:23]User Connected (127.0.0.1:54142)
+[13:23]Sent Data to (127.0.0.1:54142)
+[14:16]Started Server - 0.0.0.0:2480
+[14:16]Loading Database Handler.
+[14:16]Logger Writing To File [ OK ]
+[14:16]Database: Integrity [ OK ]
+[14:16]Player Loading [ OK ]
+[14:17]Started Server - 0.0.0.0:2480
+[14:17]Loading Database Handler.
+[14:17]Logger Writing To File [ OK ]
+[14:17]Database: Integrity [ OK ]
+[14:17]Player Loading [ OK ]
+[14:18]Started Server - 0.0.0.0:2480
+[14:18]Loading Database Handler.
+[14:18]Logger Writing To File [ OK ]
+[14:18]Database: Integrity [ OK ]
+[14:18]Player Loading [ OK ]
+[14:20]Started Server - 0.0.0.0:2480
+[14:20]Loading Database Handler.
+[14:20]Logger Writing To File [ OK ]
+[14:20]Database: Integrity [ OK ]
+[14:20]Player Loading [ OK ]
+[14:21]Started Server - 0.0.0.0:2480
+[14:21]Loading Database Handler.
+[14:21]Logger Writing To File [ OK ]
+[14:21]Database: Integrity [ OK ]
+[14:21]Player Loading [ OK ]
+[14:26]Started Server - 0.0.0.0:2480
+[14:26]Loading Database Handler.
+[14:26]Logger Writing To File [ OK ]
+[14:26]Database: Integrity [ OK ]
+[14:26]Player Loading [ OK ]
+[14:26]New User Connecting (127.0.0.1:54526)
+[14:26]User Connected (127.0.0.1:54526)
+[14:26]Sent Data to (127.0.0.1:54526)
+[14:26]New User Connecting (127.0.0.1:54529)
+[14:26]User Connected (127.0.0.1:54529)
+[14:26]Sent Data to (127.0.0.1:54529)
+[14:32]New User Connecting (127.0.0.1:54566)
+[14:32]Started Server - 0.0.0.0:2480
+[14:32]Loading Database Handler.
+[14:32]Logger Writing To File [ OK ]
+[14:32]Database: Integrity [ OK ]
+[14:32]Player Loading [ OK ]
+[14:32]New User Connecting (127.0.0.1:54574)
+[14:32]User Connected (127.0.0.1:54574)
+[14:32]Sent Data to (127.0.0.1:54574)
+[14:32]Recieved from (127.0.0.1:54574)'[NEW]2480,2480,2480'
+[14:32]New user request.
+[14:32]Sent Data to (127.0.0.1:54574)
+[14:33]New User Connecting (127.0.0.1:54575)
+[14:33]User Connected (127.0.0.1:54575)
+[14:33]Sent Data to (127.0.0.1:54575)
+[14:33]Recieved from (127.0.0.1:54575)'[NEW]2480,2480,2480'
+[14:34]New user request.
+[14:34]Sent Data to (127.0.0.1:54575)
+[14:34]New User Connecting (127.0.0.1:54576)
+[14:34]User Connected (127.0.0.1:54576)
+[14:34]Sent Data to (127.0.0.1:54576)
+[14:34]Recieved from (127.0.0.1:54576)'[NEW]2480,2480,2480'
+[14:34]New user request.
+[14:34]Sent Data to (127.0.0.1:54576)
+[14:35]Sent Data to (127.0.0.1:54575)
+[14:35]Started Server - 0.0.0.0:2480
+[14:35]Loading Database Handler.
+[14:35]Logger Writing To File [ OK ]
+[14:35]Database: Integrity [ OK ]
+[14:35]Player Loading [ OK ]
+[14:35]New User Connecting (127.0.0.1:54582)
+[14:35]User Connected (127.0.0.1:54582)
+[14:35]Sent Data to (127.0.0.1:54582)
+[14:35]Recieved from (127.0.0.1:54582)'[NEW]nom,wasfdf,fdfddsf'
+[14:35]New user request.
+[14:35]Sent Data to (127.0.0.1:54582)
+[14:59]Started Server - 0.0.0.0:2480
+[14:59]Loading Database Handler.
+[14:59]Logger Writing To File [ OK ]
+[14:59]Database: Integrity [ OK ]
+[14:59]Player Loading [ OK ]
+[14:59]New User Connecting (127.0.0.1:54663)
+[14:59]User Connected (127.0.0.1:54663)
+[14:59]Sent Data to (127.0.0.1:54663)
+[14:59]Recieved from (127.0.0.1:54663)'[ACN]admin,admin'
+[14:59]User requires account details, checking authentication.
+[15:01]Sent Data to (127.0.0.1:54663)
+[15:01]Recieved from (127.0.0.1:54663)'[LOD]0'
+[15:01]Load User Request.
+[15:01]Sent Data to (127.0.0.1:54663)
+[15:01]Recieved from (127.0.0.1:54663)'[CMD]say Hi'
+[15:01]Command recieved : say Hi
+[15:01]Sent Data to (127.0.0.1:54663)
+[15:33]Started Server - 0.0.0.0:2480
+[15:33]Loading Database Handler.
+[15:33]Logger Writing To File [ OK ]
+[15:33]Database: Integrity [ OK ]
+[15:33]Player Loading [ OK ]
+[15:33]New User Connecting (127.0.0.1:54733)
+[15:33]User Connected (127.0.0.1:54733)
+[15:33]Sent Data to (127.0.0.1:54733)
+[15:33]Recieved from (127.0.0.1:54733)'[NEW]test,,'
+[15:33]New user request.
+[15:33]Sent Data to (127.0.0.1:54733)
+[15:34]Started Server - 0.0.0.0:2480
+[15:34]Loading Database Handler.
+[15:34]Logger Writing To File [ OK ]
+[15:34]Database: Integrity [ OK ]
+[15:34]Player Loading [ OK ]
+[15:34]New User Connecting (127.0.0.1:54735)
+[15:34]User Connected (127.0.0.1:54735)
+[15:34]Sent Data to (127.0.0.1:54735)
+[15:34]Recieved from (127.0.0.1:54735)'[NEW]test,,'
+[15:34]New user request.
+[15:36]Sent Data to (127.0.0.1:54735)
+[15:36]Sent Data to (127.0.0.1:54735)
+[15:36]Started Server - 0.0.0.0:2480
+[15:36]Loading Database Handler.
+[15:36]Logger Writing To File [ OK ]
+[15:36]Database: Integrity [ OK ]
+[15:36]Player Loading [ OK ]
+[15:37]New User Connecting (127.0.0.1:54737)
+[15:37]User Connected (127.0.0.1:54737)
+[15:37]Sent Data to (127.0.0.1:54737)
+[15:37]Recieved from (127.0.0.1:54737)'[NEW]test,,'
+[15:37]New user request.
+[15:37]Sent Data to (127.0.0.1:54737)
+[15:38]Sent Data to (127.0.0.1:54737)
+[15:38]Started Server - 0.0.0.0:2480
+[15:38]Loading Database Handler.
+[15:38]Logger Writing To File [ OK ]
+[15:38]Database: Integrity [ OK ]
+[15:38]Player Loading [ OK ]
+[15:38]New User Connecting (127.0.0.1:54740)
+[15:38]User Connected (127.0.0.1:54740)
+[15:38]Sent Data to (127.0.0.1:54740)
+[15:38]Recieved from (127.0.0.1:54740)'[NEW]admin,,'
+[15:38]New user request.
+[15:39]Started Server - 0.0.0.0:2480
+[15:39]Loading Database Handler.
+[15:39]Logger Writing To File [ OK ]
+[15:39]Database: Integrity [ OK ]
+[15:39]Player Loading [ OK ]
+[15:39]New User Connecting (127.0.0.1:54743)
+[15:39]User Connected (127.0.0.1:54743)
+[15:39]Sent Data to (127.0.0.1:54743)
+[15:39]Recieved from (127.0.0.1:54743)'[NEW]admin,,'
+[15:39]New user request.
+[15:40]Started Server - 0.0.0.0:2480
+[15:40]Loading Database Handler.
+[15:40]Logger Writing To File [ OK ]
+[15:40]Database: Integrity [ OK ]
+[15:40]Player Loading [ OK ]
+[15:40]New User Connecting (127.0.0.1:54745)
+[15:40]User Connected (127.0.0.1:54745)
+[15:40]Sent Data to (127.0.0.1:54745)
+[15:40]Recieved from (127.0.0.1:54745)'[NEW]admin,,'
+[15:40]New user request.
+[15:41]Started Server - 0.0.0.0:2480
+[15:41]Loading Database Handler.
+[15:41]Logger Writing To File [ OK ]
+[15:41]Database: Integrity [ OK ]
+[15:41]Player Loading [ OK ]
+[15:41]New User Connecting (127.0.0.1:54747)
+[15:41]User Connected (127.0.0.1:54747)
+[15:41]Sent Data to (127.0.0.1:54747)
+[15:41]Recieved from (127.0.0.1:54747)'[NEW]admin,,'
+[15:41]New user request.
+[15:42]Sent Data to (127.0.0.1:54747)
+[15:42]Sent Data to (127.0.0.1:54747)
+[15:44]Started Server - 0.0.0.0:2480
+[15:44]Loading Database Handler.
+[15:44]Logger Writing To File [ OK ]
+[15:44]Database: Integrity [ OK ]
+[15:44]Player Loading [ OK ]
+[15:44]New User Connecting (127.0.0.1:54774)
+[15:44]User Connected (127.0.0.1:54774)
+[15:44]Sent Data to (127.0.0.1:54774)
+[15:44]Recieved from (127.0.0.1:54774)'[NEW]admin,admin,'
+[15:44]New user request.
+[15:44]Sent Data to (127.0.0.1:54774)
+[15:46]Sent Data to (127.0.0.1:54774)
+[15:46]Started Server - 0.0.0.0:2480
+[15:46]Loading Database Handler.
+[15:46]Logger Writing To File [ OK ]
+[15:46]Database: Integrity [ OK ]
+[15:46]Player Loading [ OK ]
+[15:46]New User Connecting (127.0.0.1:54777)
+[15:46]User Connected (127.0.0.1:54777)
+[15:46]Sent Data to (127.0.0.1:54777)
+[15:46]Recieved from (127.0.0.1:54777)'[NEW]admin,admin,'
+[15:46]New user request.
+[15:46]Sent Data to (127.0.0.1:54777)
+[15:50]Started Server - 0.0.0.0:2480
+[15:50]Loading Database Handler.
+[15:50]Logger Writing To File [ OK ]
+[15:50]Database: Integrity [ OK ]
+[15:50]Player Loading [ OK ]
+[15:50]New User Connecting (127.0.0.1:54811)
+[15:50]User Connected (127.0.0.1:54811)
+[15:50]Sent Data to (127.0.0.1:54811)
+[15:51]Recieved from (127.0.0.1:54811)'[NEW]admin,admin,'
+[15:51]New user request.
+[15:51]Sent Data to (127.0.0.1:54811)
+[16:08]Sent Data to (127.0.0.1:54811)
+[16:08]Started Server - 0.0.0.0:2480
+[16:08]Loading Database Handler.
+[16:08]Logger Writing To File [ OK ]
+[16:08]Database: Integrity [ OK ]
+[16:08]Player Loading [ OK ]
+[16:10]New User Connecting (127.0.0.1:54826)
+[16:11]User Connected (127.0.0.1:54826)
+[16:11]Sent Data to (127.0.0.1:54826)
+[16:11]New User Connecting (127.0.0.1:54827)
+[16:11]User Connected (127.0.0.1:54827)
+[16:11]Sent Data to (127.0.0.1:54827)
+[16:11]Recieved from (127.0.0.1:54827)'[ACN]admin,admin'
+[16:11]User requires account details, checking authentication.
+[16:11]Sent Data to (127.0.0.1:54827)
+[16:11]Recieved from (127.0.0.1:54827)'[LOD]0'
+[16:11]Load User Request.
+[16:11]Sent Data to (127.0.0.1:54827)
+[16:16]Started Server - 0.0.0.0:2480
+[16:16]Loading Database Handler.
+[16:16]Logger Writing To File [ OK ]
+[16:16]Database: Integrity [ OK ]
+[16:16]Player Loading [ OK ]
+[16:16]New User Connecting (127.0.0.1:54831)
+[16:16]User Connected (127.0.0.1:54831)
+[16:16]Sent Data to (127.0.0.1:54831)
+[16:16]Recieved from (127.0.0.1:54831)'[ACN]admin,admin'
+[16:16]User requires account details, checking authentication.
+[16:16]Sent Data to (127.0.0.1:54831)
+[16:16]Recieved from (127.0.0.1:54831)'[LOD]0'
+[16:16]Load User Request.
+[16:16]Sent Data to (127.0.0.1:54831)
+[16:20]Recieved from (127.0.0.1:54831)'[CMD]exit'
+[16:20]Command recieved : exit
+[16:20]Player Command Unrecognised
+[16:20]Sent Data to (127.0.0.1:54831)
+[16:26]Sent Data to (127.0.0.1:54831)
+[16:27]Started Server - 0.0.0.0:2480
+[16:27]Loading Database Handler.
+[16:27]Logger Writing To File [ OK ]
+[16:27]Database: Integrity [ OK ]
+[16:27]Player Loading [ OK ]
+[16:27]New User Connecting (127.0.0.1:54902)
+[16:28]User Connected (127.0.0.1:54902)
+[16:28]New User Connecting (127.0.0.1:54903)
+[16:28]Sent Data to (127.0.0.1:54902)
+[16:28]User Connected (127.0.0.1:54903)
+[16:28]Started Server - 0.0.0.0:2480
+[16:28]Loading Database Handler.
+[16:28]Logger Writing To File [ OK ]
+[16:28]Database: Integrity [ OK ]
+[16:28]Player Loading [ OK ]
+[16:28]New User Connecting (127.0.0.1:54905)
+[16:28]User Connected (127.0.0.1:54905)
+[16:28]Sent Data to (127.0.0.1:54905)
+[16:28]Recieved from (127.0.0.1:54905)'Rock it with HTML5 WebSocket'
+[16:28]Sent Data to (127.0.0.1:54905)
+[16:29]Started Server - 0.0.0.0:2480
+[16:29]Loading Database Handler.
+[16:29]Logger Writing To File [ OK ]
+[16:29]Database: Integrity [ OK ]
+[16:29]Player Loading [ OK ]
+[16:29]New User Connecting (127.0.0.1:54908)
+[16:29]User Connected (127.0.0.1:54908)
+[16:30]Sent Data to (127.0.0.1:54908)
+[16:30]Recieved from (127.0.0.1:54908)'[ACN]admin,admin'
+[16:30]User requires account details, checking authentication.
+[16:30]Sent Data to (127.0.0.1:54908)
+[16:34]Sent Data to (127.0.0.1:54908)
+[16:36]Started Server - 0.0.0.0:2480
+[16:36]Loading Database Handler.
+[16:36]Logger Writing To File [ OK ]
+[16:36]Database: Integrity [ OK ]
+[16:36]Player Loading [ OK ]
+[16:37]New User Connecting (127.0.0.1:54915)
+[16:37]User Connected (127.0.0.1:54915)
+[16:37]Sent Data to (127.0.0.1:54915)
+[16:37]New User Connecting (127.0.0.1:54916)
+[16:38]User Connected (127.0.0.1:54916)
+[16:38]Sent Data to (127.0.0.1:54916)
+[16:38]Recieved from (127.0.0.1:54916)'[ACN]admin,admin'
+[16:38]User requires account details, checking authentication.
+[16:38]Sent Data to (127.0.0.1:54916)
+[16:41]Started Server - 0.0.0.0:2480
+[16:41]Loading Database Handler.
+[16:41]Logger Writing To File [ OK ]
+[16:41]Database: Integrity [ OK ]
+[16:41]Player Loading [ OK ]
+[16:41]New User Connecting (127.0.0.1:54920)
+[16:42]Sent Data to (127.0.0.1:54920)
+[16:42]User Connected (127.0.0.1:54920)
+[16:42]New User Connecting (127.0.0.1:54921)
+[16:42]Sent Data to (127.0.0.1:54921)
+[16:42]User Connected (127.0.0.1:54921)
+[16:44]Recieved from (127.0.0.1:54921)'[NEW]admin,admin,'
+[16:44]New user request.
+[16:44]Sent Data to (127.0.0.1:54921)
+[16:46]Sent Data to (127.0.0.1:54921)
+[16:47]Started Server - 0.0.0.0:2480
+[16:47]Loading Database Handler.
+[16:47]Logger Writing To File [ OK ]
+[16:47]Database: Integrity [ OK ]
+[16:47]Player Loading [ OK ]
+[16:47]New User Connecting (127.0.0.1:54925)
+[16:48]User Connected (127.0.0.1:54925)
+[16:48]Sent Data to (127.0.0.1:54925)
+[16:48]Recieved from (127.0.0.1:54925)'[NEW]admin,admin,'
+[16:48]New user request.
+[16:48]Sent Data to (127.0.0.1:54925)
+[16:50]Sent Data to (127.0.0.1:54925)
+[16:50]Started Server - 0.0.0.0:2480
+[16:50]Loading Database Handler.
+[16:50]Logger Writing To File [ OK ]
+[16:50]Database: Integrity [ OK ]
+[16:50]Player Loading [ OK ]
+[16:51]New User Connecting (127.0.0.1:54929)
+[16:51]User Connected (127.0.0.1:54929)
+[16:51]Sent Data to (127.0.0.1:54929)
+[16:51]New User Connecting (127.0.0.1:54930)
+[16:51]User Connected (127.0.0.1:54930)
+[16:51]Sent Data to (127.0.0.1:54930)
+[16:51]Recieved from (127.0.0.1:54930)'[NEW]admin,admin,'
+[16:51]New user request.
+[16:51]Sent Data to (127.0.0.1:54930)
+[16:51]Started Server - 0.0.0.0:2480
+[16:51]Loading Database Handler.
+[16:51]Logger Writing To File [ OK ]
+[16:51]Database: Integrity [ OK ]
+[16:51]Player Loading [ OK ]
+[16:51]New User Connecting (127.0.0.1:54933)
+[16:51]User Connected (127.0.0.1:54933)
+[16:51]Sent Data to (127.0.0.1:54933)
+[16:51]Recieved from (127.0.0.1:54933)'[NEW]admin,admin,'
+[16:51]New user request.
+[16:51]Sent Data to (127.0.0.1:54933)
+[16:52]Started Server - 0.0.0.0:2480
+[16:52]Loading Database Handler.
+[16:52]Logger Writing To File [ OK ]
+[16:52]Database: Integrity [ OK ]
+[16:52]Player Loading [ OK ]
+[16:53]New User Connecting (127.0.0.1:54935)
+[16:53]User Connected (127.0.0.1:54935)
+[16:53]Sent Data to (127.0.0.1:54935)
+[16:55]Recieved from (127.0.0.1:54935)'[NEW]admin,admin,'
+[16:55]New user request.
+[16:55]Sent Data to (127.0.0.1:54935)
+[17:04]Sent Data to (127.0.0.1:54935)
+[17:05]Started Server - 0.0.0.0:2480
+[17:05]Loading Database Handler.
+[17:05]Logger Writing To File [ OK ]
+[17:05]Database: Integrity [ OK ]
+[17:05]Player Loading [ OK ]
+[17:05]New User Connecting (127.0.0.1:54939)
+[17:05]User Connected (127.0.0.1:54939)
+[17:05]Sent Data to (127.0.0.1:54939)
+[17:05]Recieved from (127.0.0.1:54939)'[NEW]admin,admin,'
+[17:05]New user request.
+[17:05]Sent Data to (127.0.0.1:54939)
+[17:08]Sent Data to (127.0.0.1:54939)
+[17:09]Started Server - 0.0.0.0:2480
+[17:09]Loading Database Handler.
+[17:09]Logger Writing To File [ OK ]
+[17:09]Database: Integrity [ OK ]
+[17:09]Player Loading [ OK ]
+[17:09]New User Connecting (127.0.0.1:54941)
+[17:09]User Connected (127.0.0.1:54941)
+[17:09]Sent Data to (127.0.0.1:54941)
+[17:09]Recieved from (127.0.0.1:54941)'[NEW]admin,admin,'
+[17:09]New user request.
+[17:09]Sent Data to (127.0.0.1:54941)
+[17:10]Started Server - 0.0.0.0:2480
+[17:10]Loading Database Handler.
+[17:10]Logger Writing To File [ OK ]
+[17:10]Database: Integrity [ OK ]
+[17:10]Player Loading [ OK ]
+[17:10]New User Connecting (127.0.0.1:54943)
+[17:11]User Connected (127.0.0.1:54943)
+[17:11]Sent Data to (127.0.0.1:54943)
+[17:11]Recieved from (127.0.0.1:54943)'[NEW]admin,admin,'
+[17:11]New user request.
+[17:11]Sent Data to (127.0.0.1:54943)
+[17:19]Started Server - 0.0.0.0:2480
+[17:19]Loading Database Handler.
+[17:19]Logger Writing To File [ OK ]
+[17:19]Database: Integrity [ OK ]
+[17:19]Player Loading [ OK ]
+[17:19]New User Connecting (127.0.0.1:54945)
+[17:20]User Connected (127.0.0.1:54945)
+[17:20]Sent Data to (127.0.0.1:54945)
+[17:20]Recieved from (127.0.0.1:54945)'[NEW]admin,admin,'
+[17:20]New user request.
+[17:20]Sent Data to (127.0.0.1:54945)
+[17:20]Sent Data to (127.0.0.1:54945)
+[17:20]Started Server - 0.0.0.0:2480
+[17:20]Loading Database Handler.
+[17:20]Logger Writing To File [ OK ]
+[17:20]Database: Integrity [ OK ]
+[17:20]Player Loading [ OK ]
+[17:20]New User Connecting (127.0.0.1:54947)
+[17:20]User Connected (127.0.0.1:54947)
+[17:20]Sent Data to (127.0.0.1:54947)
+[17:20]Recieved from (127.0.0.1:54947)'[NEW]admin,admin,'
+[17:20]New user request.
+[17:20]Sent Data to (127.0.0.1:54947)
+[17:22]Started Server - 0.0.0.0:2480
+[17:22]Loading Database Handler.
+[17:22]Logger Writing To File [ OK ]
+[17:22]Database: Integrity [ OK ]
+[17:22]Player Loading [ OK ]
+[17:22]New User Connecting (127.0.0.1:54949)
+[17:22]User Connected (127.0.0.1:54949)
+[17:22]Sent Data to (127.0.0.1:54949)
+[17:22]Recieved from (127.0.0.1:54949)'[NEW]admin,admin,'
+[17:22]New user request.
+[17:22]Sent Data to (127.0.0.1:54949)
+[17:23]Sent Data to (127.0.0.1:54949)
+[17:23]Started Server - 0.0.0.0:2480
+[17:23]Loading Database Handler.
+[17:23]Logger Writing To File [ OK ]
+[17:23]Database: Integrity [ OK ]
+[17:23]Player Loading [ OK ]
+[17:23]New User Connecting (127.0.0.1:54951)
+[17:23]User Connected (127.0.0.1:54951)
+[17:23]Sent Data to (127.0.0.1:54951)
+[17:23]Recieved from (127.0.0.1:54951)'[NEW]admin,admin,'
+[17:23]New user request.
+[17:23]Sent Data to (127.0.0.1:54951)
+[17:24]Sent Data to (127.0.0.1:54951)
+[17:24]Started Server - 0.0.0.0:2480
+[17:24]Loading Database Handler.
+[17:24]Logger Writing To File [ OK ]
+[17:24]Database: Integrity [ OK ]
+[17:24]Player Loading [ OK ]
+[17:24]New User Connecting (127.0.0.1:54954)
+[17:24]User Connected (127.0.0.1:54954)
+[17:24]Sent Data to (127.0.0.1:54954)
+[17:24]Recieved from (127.0.0.1:54954)'[NEW]admin,admin,'
+[17:24]New user request.
+[17:25]Sent Data to (127.0.0.1:54954)
+[17:26]Sent Data to (127.0.0.1:54954)
+[17:26]Started Server - 0.0.0.0:2480
+[17:26]Loading Database Handler.
+[17:26]Logger Writing To File [ OK ]
+[17:26]Database: Integrity [ OK ]
+[17:26]Player Loading [ OK ]
+[17:42]New User Connecting (127.0.0.1:55087)
+[17:42]User Connected (127.0.0.1:55087)
+[17:42]Sent Data to (127.0.0.1:55087)
+[17:42]New User Connecting (127.0.0.1:55088)
+[17:42]Sent Data to (127.0.0.1:55088)
+[17:42]User Connected (127.0.0.1:55088)
+[17:42]Recieved from (127.0.0.1:55088)'[NEW]admin,,'
+[17:42]New user request.
+[17:42]Sent Data to (127.0.0.1:55088)
+[17:43]Started Server - 0.0.0.0:2480
+[17:43]Loading Database Handler.
+[17:43]Logger Writing To File [ OK ]
+[17:43]Database: Integrity [ OK ]
+[17:43]Player Loading [ OK ]
+[17:43]New User Connecting (127.0.0.1:55091)
+[17:43]User Connected (127.0.0.1:55091)
+[17:43]Sent Data to (127.0.0.1:55091)
+[17:43]Recieved from (127.0.0.1:55091)'[NEW]admin,,'
+[17:43]New user request.
+[17:43]Sent Data to (127.0.0.1:55091)
+[17:44]Sent Data to (127.0.0.1:55091)
+[17:45]Started Server - 0.0.0.0:2480
+[17:45]Loading Database Handler.
+[17:45]Logger Writing To File [ OK ]
+[17:45]Database: Integrity [ OK ]
+[17:45]Player Loading [ OK ]
+[17:45]New User Connecting (127.0.0.1:55093)
+[17:45]User Connected (127.0.0.1:55093)
+[17:45]Sent Data to (127.0.0.1:55093)
+[17:45]Recieved from (127.0.0.1:55093)'[NEW]admin,,'
+[17:45]New user request.
+[17:45]Sent Data to (127.0.0.1:55093)
+[17:46]Sent Data to (127.0.0.1:55093)
+[17:47]Started Server - 0.0.0.0:2480
+[17:47]Loading Database Handler.
+[17:47]Logger Writing To File [ OK ]
+[17:47]Database: Integrity [ OK ]
+[17:47]Player Loading [ OK ]
+[17:47]New User Connecting (127.0.0.1:55095)
+[17:47]Sent Data to (127.0.0.1:55095)
+[17:47]User Connected (127.0.0.1:55095)
+[17:47]Recieved from (127.0.0.1:55095)'[NEW]admin,,'
+[17:47]New user request.
+[17:49]Sent Data to (127.0.0.1:55095)
+[17:49]Started Server - 0.0.0.0:2480
+[17:49]Loading Database Handler.
+[17:49]Logger Writing To File [ OK ]
+[17:49]Database: Integrity [ OK ]
+[17:49]Player Loading [ OK ]
+[17:50]New User Connecting (127.0.0.1:55264)
+[17:59]Started Server - 0.0.0.0:2480
+[17:59]Loading Database Handler.
+[17:59]Logger Writing To File [ OK ]
+[17:59]Database: Integrity [ OK ]
+[17:59]Player Loading [ OK ]
+[17:59]New User Connecting (127.0.0.1:55265)
+[17:59]User Connected (127.0.0.1:55265)
+[17:59]Sent Data to (127.0.0.1:55265)
+[17:59]Recieved from (127.0.0.1:55265)'[NEW]admin,,'
+[17:59]New user request.
+[17:59]Sent Data to (127.0.0.1:55265)
+[17:59]Sent Data to (127.0.0.1:55265)
+[18:01]Started Server - 0.0.0.0:2480
+[18:01]Loading Database Handler.
+[18:01]Logger Writing To File [ OK ]
+[18:01]Database: Integrity [ OK ]
+[18:01]Player Loading [ OK ]
+[18:01]Started Server - 0.0.0.0:2480
+[18:01]Loading Database Handler.
+[18:01]Logger Writing To File [ OK ]
+[18:01]Database: Integrity [ OK ]
+[18:01]Player Loading [ OK ]
+[18:01]New User Connecting (127.0.0.1:55269)
+[18:02]User Connected (127.0.0.1:55269)
+[18:02]Sent Data to (127.0.0.1:55269)
+[18:02]Recieved from (127.0.0.1:55269)'[NEW]admin,,'
+[18:02]New user request.
+[18:02]Sent Data to (127.0.0.1:55269)
+[18:03]Started Server - 0.0.0.0:2480
+[18:03]Loading Database Handler.
+[18:03]Logger Writing To File [ OK ]
+[18:03]Database: Integrity [ OK ]
+[18:03]Player Loading [ OK ]
+[18:03]New User Connecting (127.0.0.1:55273)
+[18:03]New User Connecting (127.0.0.1:55274)
+[18:04]Started Server - 0.0.0.0:2480
+[18:04]Loading Database Handler.
+[18:04]Logger Writing To File [ OK ]
+[18:04]Database: Integrity [ OK ]
+[18:04]Player Loading [ OK ]
+[18:04]New User Connecting (127.0.0.1:55277)
+[18:05]User Connected (127.0.0.1:55277)
+[18:05]Sent Data to (127.0.0.1:55277)
+[18:06]Started Server - 0.0.0.0:2480
+[18:06]Loading Database Handler.
+[18:06]Logger Writing To File [ OK ]
+[18:06]Database: Integrity [ OK ]
+[18:06]Player Loading [ OK ]
+[18:09]New User Connecting (127.0.0.1:55279)
+[18:09]User Connected (127.0.0.1:55279)
+[18:09]Recieved from (127.0.0.1:55279)'[NEW]admin,,'
+[18:09]Sent Data to (127.0.0.1:55279)
+[18:09]New user request.
+[18:09]Sent Data to (127.0.0.1:55279)
+[18:10]Started Server - 0.0.0.0:2480
+[18:10]Loading Database Handler.
+[18:10]Logger Writing To File [ OK ]
+[18:10]Database: Integrity [ OK ]
+[18:10]Player Loading [ OK ]
+[18:10]New User Connecting (127.0.0.1:55282)
+[18:10]User Connected (127.0.0.1:55282)
+[18:10]Recieved from (127.0.0.1:55282)'[NEW]admin,,'
+[18:10]Sent Data to (127.0.0.1:55282)
+[18:10]New user request.
+[18:10]Sent Data to (127.0.0.1:55282)
+[18:19]Sent Data to (127.0.0.1:55282)
+[18:19]Started Server - 0.0.0.0:2480
+[18:19]Loading Database Handler.
+[18:19]Logger Writing To File [ OK ]
+[18:19]Database: Integrity [ OK ]
+[18:19]Player Loading [ OK ]
+[18:19]New User Connecting (127.0.0.1:55286)
+[18:19]User Connected (127.0.0.1:55286)
+[18:19]Sent Data to (127.0.0.1:55286)
+[18:19]Recieved from (127.0.0.1:55286)'[NEW]admin,,'
+[18:19]New user request.
+[18:19]Sent Data to (127.0.0.1:55286)
+[18:20]Started Server - 0.0.0.0:2480
+[18:20]Loading Database Handler.
+[18:20]Logger Writing To File [ OK ]
+[18:20]Database: Integrity [ OK ]
+[18:20]Player Loading [ OK ]
+[18:20]New User Connecting (127.0.0.1:55288)
+[18:20]User Connected (127.0.0.1:55288)
+[18:20]Sent Data to (127.0.0.1:55288)
+[18:20]Recieved from (127.0.0.1:55288)'[NEW]admin,,'
+[18:20]New user request.
+[18:20]Sent Data to (127.0.0.1:55288)
+[18:21]Started Server - 0.0.0.0:2480
+[18:21]Loading Database Handler.
+[18:21]Logger Writing To File [ OK ]
+[18:21]Database: Integrity [ OK ]
+[18:21]Player Loading [ OK ]
+[18:21]New User Connecting (127.0.0.1:55290)
+[18:22]User Connected (127.0.0.1:55290)
+[18:22]Sent Data to (127.0.0.1:55290)
+[18:22]New User Connecting (127.0.0.1:55291)
+[18:22]Sent Data to (127.0.0.1:55291)
+[18:22]User Connected (127.0.0.1:55291)
+[18:22]Recieved from (127.0.0.1:55291)'[NEW]admin,,'
+[18:22]New user request.
+[18:23]Sent Data to (127.0.0.1:55291)
+[18:23]Sent Data to (127.0.0.1:55291)
+[18:27]Started Server - 0.0.0.0:2480
+[18:27]Loading Database Handler.
+[18:27]Logger Writing To File [ OK ]
+[18:27]Database: Integrity [ OK ]
+[18:27]Player Loading [ OK ]
+[18:27]New User Connecting (127.0.0.1:55293)
+[18:27]User Connected (127.0.0.1:55293)
+[18:28]Recieved from (127.0.0.1:55293)'[NEW]admin,,'
+[18:28]Sent Data to (127.0.0.1:55293)
+[18:28]New user request.
+[18:28]Sent Data to (127.0.0.1:55293)
+[20:12]Started Server - 0.0.0.0:2480
+[20:12]Loading Database Handler.
+[20:12]Logger Writing To File [ OK ]
+[20:12]Database: Integrity [ OK ]
+[20:12]Player Loading [ OK ]
+[20:13]Started Server - 0.0.0.0:2480
+[20:13]Loading Database Handler.
+[20:13]Logger Writing To File [ OK ]
+[20:13]Database: Integrity [ OK ]
+[20:13]Player Loading [ OK ]
+[20:13]New User Connecting (127.0.0.1:55340)
+[20:13]User Connected (127.0.0.1:55340)
+[20:13]Sent Data to (127.0.0.1:55340)
+[20:13]Recieved from (127.0.0.1:55340)'[NEW]test,test,The TestAccount'
+[20:13]New user request.
+[20:13]Sent Data to (127.0.0.1:55340)
+[22:45]Started Server - 0.0.0.0:2480
+[22:45]Loading Database Handler.
+[22:45]Logger Writing To File [ OK ]
+[22:45]Database: Integrity [ OK ]
+[22:45]Player Loading [ OK ]
+[22:48]Started Server - 0.0.0.0:2480
+[22:48]Loading Database Handler.
+[22:48]Logger Writing To File [ OK ]
+[22:48]Database: Integrity [ OK ]
+[22:48]Player Loading [ OK ]
+[22:49]Started Server - 0.0.0.0:2480
+[22:49]Loading Database Handler.
+[22:49]Logger Writing To File [ OK ]
+[22:49]Database: Integrity [ OK ]
+[22:49]Player Loading [ OK ]
+[23:23]Started Server - 0.0.0.0:2480
+[23:23]Loading Database Handler.
+[23:23]Logger Writing To File [ OK ]
+[23:23]Database: Integrity [ OK ]
+[23:23]Player Loading [ OK ]
+[23:24]User Connected (127.0.0.1:55962)
+[23:26]Recieved from (127.0.0.1:55963)'[ACN]admin,admij'
+[23:28]Started Server - 0.0.0.0:2480
+[23:28]Loading Database Handler.
+[23:28]Logger Writing To File [ OK ]
+[23:28]Database: Integrity [ OK ]
+[23:28]Player Loading [ OK ]
+[23:28]Recieved from (127.0.0.1:55967)'[ACN]admin,admij'
+[23:28]User Connected (127.0.0.1:55967)
+[23:28]User requires account details, checking authentication.
+[23:29]Started Server - 0.0.0.0:2480
+[23:29]Loading Database Handler.
+[23:29]Logger Writing To File [ OK ]
+[23:29]Database: Integrity [ OK ]
+[23:29]Player Loading [ OK ]
+[23:29]Recieved from (127.0.0.1:55969)'[ACN]admin,admij'
+[23:29]User Connected (127.0.0.1:55969)
+[23:29]User requires account details, checking authentication.
+[23:31]Started Server - 0.0.0.0:2480
+[23:31]Loading Database Handler.
+[23:31]Logger Writing To File [ OK ]
+[23:31]Database: Integrity [ OK ]
+[23:31]Player Loading [ OK ]
+[23:32]Recieved from (127.0.0.1:55971)'[ACN]admin,admij'
+[23:32]User Connected (127.0.0.1:55971)
+[23:32]User requires account details, checking authentication.
+[23:35]Started Server - 0.0.0.0:2480
+[23:35]Loading Database Handler.
+[23:35]Logger Writing To File [ OK ]
+[23:35]Database: Integrity [ OK ]
+[23:35]Player Loading [ OK ]
+[23:36]Recieved from (127.0.0.1:55982)'[ACN]admin,admin'
+[23:36]User Connected (127.0.0.1:55982)
+[23:36]User requires account details, checking authentication.
+[23:45]Recieved from (127.0.0.1:56160)'Rock it with HTML5 WebSocket'
+[23:45]User Connected (127.0.0.1:56160)
+[23:45]User Connected (127.0.0.1:56161)
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:45]Recieved from (127.0.0.1:56161)'Rock it with HTML5 WebSocket'
+[23:46]Recieved from (127.0.0.1:56161)'[LOD]0'
+[23:46]Load User Request.
+[23:46]Recieved from (127.0.0.1:56161)'[ACC]0'
+[23:46]Recieved from (127.0.0.1:56161)'[ACN]'
+[23:46]User requires account details, checking authentication.
+[23:46]Administrator disconnected from the server. Reason ApplicationError
+[23:47]User Connected (127.0.0.1:56163)
+[23:47]Recieved from (127.0.0.1:56163)'[ACN]'
+[23:47]User requires account details, checking authentication.
+[23:47]User Connected (127.0.0.1:56164)
+[23:47]Recieved from (127.0.0.1:56164)'[ACN]admin,admin'
+[23:47]User requires account details, checking authentication.
+[23:47]Started Server - 0.0.0.0:2480
+[23:47]Loading Database Handler.
+[23:47]Logger Writing To File [ OK ]
+[23:47]Database: Integrity [ OK ]
+[23:47]Player Loading [ OK ]
+[23:47]User Connected (127.0.0.1:56166)
+[23:47]Recieved from (127.0.0.1:56166)'[ACN]admin,admin'
+[23:47]User requires account details, checking authentication.
+[23:49]User Connected (127.0.0.1:56214)
+[23:49]Recieved from (127.0.0.1:56214)'[ACN]admin,admin'
+[23:49]User requires account details, checking authentication.
+[23:50]Closing Server : From Console
+[23:50]Started Server - 0.0.0.0:2480
+[23:50]Loading Database Handler.
+[23:50]Logger Writing To File [ OK ]
+[23:50]Database: Integrity [ OK ]
+[23:50]Player Loading [ OK ]
+[23:51]User Connected (127.0.0.1:56283)
+[23:51]Recieved from (127.0.0.1:56283)'[ACN]admin,admin'
+[23:51]User requires account details, checking authentication.
+[23:52]User Connected (127.0.0.1:56292)
+[23:52]Recieved from (127.0.0.1:56292)'[ACN]admin,admin'
+[23:52]User requires account details, checking authentication.
+[23:52]Recieved from (127.0.0.1:56292)'[LOD]0'
+[23:52]Load User Request.
+[00:15]Started Server - 0.0.0.0:2480
+[00:15]Loading Database Handler.
+[00:15]Logger Writing To File [ OK ]
+[00:15]Database: Integrity [ OK ]
+[00:15]Player Loading [ OK ]
+[00:16]Started Server - 0.0.0.0:2480
+[00:16]Loading Database Handler.
+[00:16]Logger Writing To File [ OK ]
+[00:16]Database: Integrity [ OK ]
+[00:16]Player Loading [ OK ]
+[00:26]Started Server - 0.0.0.0:2480
+[00:26]Loading Database Handler.
+[00:26]Logger Writing To File [ OK ]
+[00:26]Database: Integrity [ OK ]
+[00:26]Player Loading [ OK ]
+[00:35]Started Server - 0.0.0.0:2480
+[00:35]Loading Database Handler.
+[00:35]Logger Writing To File [ OK ]
+[00:35]Database: Integrity [ OK ]
+[00:35]Player Loading [ OK ]
+[00:35]Closing Server : From Console
+[00:35]Started Server - 0.0.0.0:2480
+[00:35]Loading Database Handler.
+[00:35]Logger Writing To File [ OK ]
+[00:35]Database: Integrity [ OK ]
+[00:35]Player Loading [ OK ]
+[00:48]Started Server - 0.0.0.0:2480
+[00:48]Loading Database Handler.
+[00:48]Logger Writing To File [ OK ]
+[00:48]Database: Integrity [ OK ]
+[00:48]Player Loading [ OK ]
+[00:50]Started Server - 0.0.0.0:2480
+[00:50]Loading Database Handler.
+[00:50]Logger Writing To File [ OK ]
+[00:50]Database: Integrity [ OK ]
+[00:50]Player Loading [ OK ]
+[00:51]Started Server - 0.0.0.0:2480
+[00:51]Loading Database Handler.
+[00:51]Logger Writing To File [ OK ]
+[00:51]Database: Integrity [ OK ]
+[00:51]Player Loading [ OK ]
+[00:52]Started Server - 0.0.0.0:2480
+[00:52]Loading Database Handler.
+[00:52]Logger Writing To File [ OK ]
+[00:52]Database: Integrity [ OK ]
+[00:52]Player Loading [ OK ]
+[09:02]Started Server - 0.0.0.0:2480
+[09:02]Loading Database Handler.
+[09:02]Logger Writing To File [ OK ]
+[09:02]Database: Integrity [ OK ]
+[09:02]Player Loading [ OK ]
+[09:05]Started Server - 0.0.0.0:2480
+[09:05]Loading Database Handler.
+[09:05]Logger Writing To File [ OK ]
+[09:05]Database: Integrity [ OK ]
+[09:05]Player Loading [ OK ]
+[09:08]Started Server - 0.0.0.0:2480
+[09:08]Loading Database Handler.
+[09:08]Logger Writing To File [ OK ]
+[09:08]Database: Integrity [ OK ]
+[09:08]Player Loading [ OK ]
+[09:59]Started Server - 0.0.0.0:2480
+[09:59]Loading Database Handler.
+[09:59]Logger Writing To File [ OK ]
+[09:59]Database: Integrity [ OK ]
+[09:59]Player Loading [ OK ]
+[10:01]Started Server - 0.0.0.0:2480
+[10:01]Loading Database Handler.
+[10:01]Logger Writing To File [ OK ]
+[10:01]Database: Integrity [ OK ]
+[10:01]Player Loading [ OK ]
+[10:04]Started Server - 0.0.0.0:2480
+[10:04]Loading Database Handler.
+[10:04]Logger Writing To File [ OK ]
+[10:04]Database: Integrity [ OK ]
+[10:04]Player Loading [ OK ]
+[10:05]Started Server - 0.0.0.0:2480
+[10:05]Loading Database Handler.
+[10:05]Logger Writing To File [ OK ]
+[10:05]Database: Integrity [ OK ]
+[10:05]Player Loading [ OK ]
+[10:05]Started Server - 0.0.0.0:2480
+[10:05]Loading Database Handler.
+[10:05]Logger Writing To File [ OK ]
+[10:05]Database: Integrity [ OK ]
+[10:05]Player Loading [ OK ]
+[10:08]Started Server - 0.0.0.0:2480
+[10:08]Loading Database Handler.
+[10:08]Logger Writing To File [ OK ]
+[10:08]Database: Integrity [ OK ]
+[10:08]Player Loading [ OK ]
+[10:13]Started Server - 0.0.0.0:2480
+[10:13]Loading Database Handler.
+[10:13]Logger Writing To File [ OK ]
+[10:13]Database: Integrity [ OK ]
+[10:13]Player Loading [ OK ]
+[10:13]Started Server - 0.0.0.0:2480
+[10:13]Loading Database Handler.
+[10:13]Logger Writing To File [ OK ]
+[10:13]Database: Integrity [ OK ]
+[10:13]Player Loading [ OK ]
+[10:22]Started Server - 0.0.0.0:2480
+[10:22]Loading Database Handler.
+[10:22]Logger Writing To File [ OK ]
+[10:22]Database: Integrity [ OK ]
+[10:22]Player Loading [ OK ]
+[10:23]Started Server - 0.0.0.0:2480
+[10:23]Loading Database Handler.
+[10:23]Logger Writing To File [ OK ]
+[10:23]Database: Integrity [ OK ]
+[10:23]Player Loading [ OK ]
+[10:24]Started Server - 0.0.0.0:2480
+[10:24]Loading Database Handler.
+[10:24]Logger Writing To File [ OK ]
+[10:24]Database: Integrity [ OK ]
+[10:24]Player Loading [ OK ]
+[10:26]Started Server - 0.0.0.0:2480
+[10:26]Loading Database Handler.
+[10:26]Logger Writing To File [ OK ]
+[10:26]Database: Integrity [ OK ]
+[10:26]Player Loading [ OK ]
+[10:40]Started Server - 0.0.0.0:2480
+[10:40]Loading Database Handler.
+[10:40]Logger Writing To File [ OK ]
+[10:40]Database: Integrity [ OK ]
+[10:40]Player Loading [ OK ]
+[10:41]Started Server - 0.0.0.0:2480
+[10:41]Loading Database Handler.
+[10:41]Logger Writing To File [ OK ]
+[10:41]Database: Integrity [ OK ]
+[10:41]Player Loading [ OK ]
+[10:45]Started Server - 0.0.0.0:2480
+[10:45]Loading Database Handler.
+[10:45]Logger Writing To File [ OK ]
+[10:45]Database: Integrity [ OK ]
+[10:45]Player Loading [ OK ]
+[11:05]Started Server - 0.0.0.0:2480
+[11:05]Loading Database Handler.
+[11:05]Logger Writing To File [ OK ]
+[11:05]Database: Integrity [ OK ]
+[11:05]Player Loading [ OK ]
+[11:16]Started Server - 0.0.0.0:2480
+[11:16]Loading Database Handler.
+[11:16]Logger Writing To File [ OK ]
+[11:16]Database: Integrity [ OK ]
+[11:16]Player Loading [ OK ]
+[11:17]Started Server - 0.0.0.0:2480
+[11:17]Loading Database Handler.
+[11:17]Logger Writing To File [ OK ]
+[11:17]Database: Integrity [ OK ]
+[11:17]Player Loading [ OK ]
+[11:31]Started Server - 0.0.0.0:2480
+[11:31]Loading Database Handler.
+[11:31]Logger Writing To File [ OK ]
+[11:31]Database: Integrity [ OK ]
+[11:31]Player Loading [ OK ]
+[11:32]Started Server - 0.0.0.0:2480
+[11:32]Loading Database Handler.
+[11:32]Logger Writing To File [ OK ]
+[11:32]Database: Integrity [ OK ]
+[11:32]Player Loading [ OK ]
+[11:38]Started Server - 0.0.0.0:2480
+[11:38]Loading Database Handler.
+[11:38]Logger Writing To File [ OK ]
+[11:38]Database: Integrity [ OK ]
+[11:38]Player Loading [ OK ]
+[11:41]Started Server - 0.0.0.0:2480
+[11:41]Loading Database Handler.
+[11:41]Logger Writing To File [ OK ]
+[11:41]Database: Integrity [ OK ]
+[11:41]Player Loading [ OK ]
+[12:07]Started Server - 0.0.0.0:2480
+[12:07]Loading Database Handler.
+[12:07]Logger Writing To File [ OK ]
+[12:07]Database: Integrity [ OK ]
+[12:07]Player Loading [ OK ]
+[12:07]User Connected (127.0.0.1:57844)
+[12:07]Recieved from (127.0.0.1:57844)'[ACN]admin,admin'
+[12:07]User requires account details, checking authentication.
+[12:07]Recieved from (127.0.0.1:57844)'[LOD]0'
+[12:07]Load User Request.
+[12:07]Recieved from (127.0.0.1:57844)'[MAP]NeedMapData'
+[12:13]Started Server - 0.0.0.0:2480
+[12:13]Loading Database Handler.
+[12:13]Logger Writing To File [ OK ]
+[12:13]Database: Integrity [ OK ]
+[12:13]Player Loading [ OK ]
+[12:13]User Connected (127.0.0.1:57851)
+[12:13]Recieved from (127.0.0.1:57851)'[ACN]admin,admin'
+[12:13]User requires account details, checking authentication.
+[12:13]Recieved from (127.0.0.1:57851)'[LOD]0'
+[12:13]Load User Request.
+[12:13]Recieved from (127.0.0.1:57851)'[MAP]NeedMapData'
+[12:17]User Connected (127.0.0.1:57886)
+[12:17]Recieved from (127.0.0.1:57886)'[ACN]admin,admin'
+[12:17]User requires account details, checking authentication.
+[12:17]Recieved from (127.0.0.1:57886)'[LOD]0'
+[12:17]Load User Request.
+[12:17]Recieved from (127.0.0.1:57886)'[MAP]NeedMapData'
+[12:17]Administrator disconnected from the server. Reason ClientClosing
+[12:17]Administrator disconnected from the server. Reason ClientClosing
+[12:17]User Connected (127.0.0.1:57894)
+[12:17]Recieved from (127.0.0.1:57894)'[ACN]admin,admin'
+[12:17]User requires account details, checking authentication.
+[12:17]Recieved from (127.0.0.1:57894)'[LOD]0'
+[12:17]Load User Request.
+[12:17]Recieved from (127.0.0.1:57894)'[MAP]NeedMapData'
+[12:23]Administrator disconnected from the server. Reason ClientClosing
+[12:34]Started Server - 0.0.0.0:2480
+[12:34]Loading Database Handler.
+[12:34]Logger Writing To File [ OK ]
+[12:34]Database: Integrity [ OK ]
+[12:34]Player Loading [ OK ]
+[12:35]User Connected (127.0.0.1:58098)
+[12:35]Recieved from (127.0.0.1:58098)'[ACN]admin,admin'
+[12:35]User requires account details, checking authentication.
+[12:35]Recieved from (127.0.0.1:58098)'[LOD]0'
+[12:35]Load User Request.
+[12:35]Recieved from (127.0.0.1:58098)'[MAP]NeedMapData'
+[12:36]Administrator disconnected from the server. Reason ClientClosing
+[12:36]User Connected (127.0.0.1:58112)
+[12:37]Recieved from (127.0.0.1:58112)'[ACN]admin,admin'
+[12:37]User requires account details, checking authentication.
+[12:37]Recieved from (127.0.0.1:58112)'[LOD]0'
+[12:37]Load User Request.
+[12:37]Recieved from (127.0.0.1:58112)'[MAP]NeedMapData'
+[12:37]Administrator disconnected from the server. Reason ClientClosing
+[12:37]User Connected (127.0.0.1:58121)
+[12:37]Recieved from (127.0.0.1:58121)'[ACN]admin,admin'
+[12:37]User requires account details, checking authentication.
+[12:37]Recieved from (127.0.0.1:58121)'[LOD]0'
+[12:37]Load User Request.
+[12:37]Recieved from (127.0.0.1:58121)'[MAP]NeedMapData'
+[12:38]Administrator disconnected from the server. Reason ClientClosing
+[12:39]User Connected (127.0.0.1:58183)
+[12:39]Recieved from (127.0.0.1:58183)'[ACN]admin,admin'
+[12:39]User requires account details, checking authentication.
+[12:39]Recieved from (127.0.0.1:58183)'[LOD]0'
+[12:39]Load User Request.
+[12:39]Recieved from (127.0.0.1:58183)'[MAP]NeedMapData'
+[12:39]Administrator disconnected from the server. Reason ClientClosing
+[12:39]User Connected (127.0.0.1:58190)
+[12:39]Recieved from (127.0.0.1:58190)'[ACN]admin,admin'
+[12:39]User requires account details, checking authentication.
+[12:39]Recieved from (127.0.0.1:58190)'[LOD]0'
+[12:39]Load User Request.
+[12:39]Recieved from (127.0.0.1:58190)'[MAP]NeedMapData'
+[12:39]Administrator disconnected from the server. Reason ClientClosing
+[12:40]User Connected (127.0.0.1:58197)
+[12:40]Recieved from (127.0.0.1:58197)'[ACN]admin,admin'
+[12:40]User requires account details, checking authentication.
+[12:40]Recieved from (127.0.0.1:58197)'[LOD]0'
+[12:40]Load User Request.
+[12:40]Recieved from (127.0.0.1:58197)'[MAP]NeedMapData'
+[12:48]Administrator disconnected from the server. Reason ClientClosing
+[12:48]User Connected (127.0.0.1:58325)
+[12:48]Recieved from (127.0.0.1:58325)'[ACN]admin,admin'
+[12:48]User requires account details, checking authentication.
+[12:48]Recieved from (127.0.0.1:58325)'[LOD]0'
+[12:48]Load User Request.
+[12:48]Recieved from (127.0.0.1:58325)'[MAP]NeedMapData'
+[12:49]Administrator disconnected from the server. Reason ClientClosing
+[12:49]User Connected (127.0.0.1:58334)
+[12:49]Recieved from (127.0.0.1:58334)'[ACN]admin,admin'
+[12:49]User requires account details, checking authentication.
+[12:49]Recieved from (127.0.0.1:58334)'[LOD]0'
+[12:49]Load User Request.
+[12:49]Recieved from (127.0.0.1:58334)'[MAP]NeedMapData'
+[12:49]Administrator disconnected from the server. Reason ClientClosing
+[12:52]User Connected (127.0.0.1:58350)
+[12:52]Recieved from (127.0.0.1:58350)'[ACN]admin,admin'
+[12:52]User requires account details, checking authentication.
+[12:52]Recieved from (127.0.0.1:58350)'[LOD]0'
+[12:52]Load User Request.
+[12:52]Recieved from (127.0.0.1:58350)'[MAP]NeedMapData'
+[13:00]Administrator disconnected from the server. Reason ClientClosing
+[13:05]User Connected (127.0.0.1:58454)
+[13:05]Recieved from (127.0.0.1:58454)'[ACN]admin,admin'
+[13:05]User requires account details, checking authentication.
+[13:05]Recieved from (127.0.0.1:58454)'[LOD]0'
+[13:05]Load User Request.
+[13:05]Recieved from (127.0.0.1:58454)'[MAP]NeedMapData'
+[13:06]Administrator disconnected from the server. Reason ClientClosing
+[13:06]User Connected (127.0.0.1:58461)
+[13:06]Recieved from (127.0.0.1:58461)'[ACN]admin,admin'
+[13:06]User requires account details, checking authentication.
+[13:06]Recieved from (127.0.0.1:58461)'[LOD]0'
+[13:06]Load User Request.
+[13:06]Recieved from (127.0.0.1:58461)'[MAP]NeedMapData'
+[13:07]Administrator disconnected from the server. Reason ClientClosing
+[13:07]User Connected (127.0.0.1:58467)
+[13:07]Recieved from (127.0.0.1:58467)'[ACN]admin,admin'
+[13:07]User requires account details, checking authentication.
+[13:07]Recieved from (127.0.0.1:58467)'[LOD]0'
+[13:07]Load User Request.
+[13:07]Recieved from (127.0.0.1:58467)'[MAP]NeedMapData'
+[13:10]Administrator disconnected from the server. Reason ClientClosing
+[13:10]User Connected (127.0.0.1:58498)
+[13:10]Recieved from (127.0.0.1:58498)'[ACN]admin,admin'
+[13:10]User requires account details, checking authentication.
+[13:10]Recieved from (127.0.0.1:58498)'[LOD]0'
+[13:10]Load User Request.
+[13:10]Recieved from (127.0.0.1:58498)'[MAP]NeedMapData'
+[13:11]Administrator disconnected from the server. Reason ClientClosing
+[13:11]User Connected (127.0.0.1:58506)
+[13:12]Recieved from (127.0.0.1:58506)'[ACN]admin,admin'
+[13:12]User requires account details, checking authentication.
+[13:12]Recieved from (127.0.0.1:58506)'[LOD]0'
+[13:12]Load User Request.
+[13:12]Recieved from (127.0.0.1:58506)'[MAP]NeedMapData'
+[13:13]Administrator disconnected from the server. Reason ClientClosing
+[13:13]User Connected (127.0.0.1:58517)
+[13:13]Recieved from (127.0.0.1:58517)'[ACN]admin,admin'
+[13:13]User requires account details, checking authentication.
+[13:13]Recieved from (127.0.0.1:58517)'[LOD]0'
+[13:13]Load User Request.
+[13:13]Recieved from (127.0.0.1:58517)'[MAP]NeedMapData'
+[13:15]Administrator disconnected from the server. Reason ClientClosing
+[13:15]User Connected (127.0.0.1:58522)
+[13:15]Recieved from (127.0.0.1:58522)'[ACN]admin,admin'
+[13:15]User requires account details, checking authentication.
+[13:15]Recieved from (127.0.0.1:58522)'[LOD]0'
+[13:15]Load User Request.
+[13:15]Recieved from (127.0.0.1:58522)'[MAP]NeedMapData'
+[13:16]Administrator disconnected from the server. Reason ClientClosing
+[13:16]User Connected (127.0.0.1:58530)
+[13:16]Recieved from (127.0.0.1:58530)'[ACN]admin,admin'
+[13:16]User requires account details, checking authentication.
+[13:16]Recieved from (127.0.0.1:58530)'[LOD]0'
+[13:16]Load User Request.
+[13:16]Recieved from (127.0.0.1:58530)'[MAP]NeedMapData'
+[13:17]Administrator disconnected from the server. Reason ClientClosing
+[13:17]User Connected (127.0.0.1:58539)
+[13:17]Recieved from (127.0.0.1:58539)'[ACN]admin,admin'
+[13:17]User requires account details, checking authentication.
+[13:17]Recieved from (127.0.0.1:58539)'[LOD]0'
+[13:17]Load User Request.
+[13:17]Recieved from (127.0.0.1:58539)'[MAP]NeedMapData'
+[13:17]Administrator disconnected from the server. Reason ClientClosing
+[13:18]User Connected (127.0.0.1:58547)
+[13:18]Recieved from (127.0.0.1:58547)'[ACN]admin,admin'
+[13:18]User requires account details, checking authentication.
+[13:18]Recieved from (127.0.0.1:58547)'[LOD]0'
+[13:18]Load User Request.
+[13:18]Recieved from (127.0.0.1:58547)'[MAP]NeedMapData'
+[13:20]User Connected (127.0.0.1:58550)
+[13:20]Recieved from (127.0.0.1:58550)'[ACN]admin,admin'
+[13:20]User requires account details, checking authentication.
+[13:20]Recieved from (127.0.0.1:58550)'[LOD]0'
+[13:20]Load User Request.
+[13:20]Recieved from (127.0.0.1:58550)'[MAP]NeedMapData'
+[13:22]Administrator disconnected from the server. Reason ClientClosing
+[13:22]Administrator disconnected from the server. Reason ClientClosing
+[13:22]User Connected (127.0.0.1:58561)
+[13:22]User Connected (127.0.0.1:58562)
+[13:22]Recieved from (127.0.0.1:58562)'[ACN]admin,admin'
+[13:22]User requires account details, checking authentication.
+[13:22]Recieved from (127.0.0.1:58562)'[LOD]0'
+[13:22]Load User Request.
+[13:22]Recieved from (127.0.0.1:58562)'[MAP]NeedMapData'
+[13:23]Administrator disconnected from the server. Reason ClientClosing
+[13:23]User Connected (127.0.0.1:58571)
+[13:23]Recieved from (127.0.0.1:58571)'[ACN]admin,admin'
+[13:23]User requires account details, checking authentication.
+[13:23]Recieved from (127.0.0.1:58571)'[LOD]0'
+[13:23]Load User Request.
+[13:23]Recieved from (127.0.0.1:58571)'[MAP]NeedMapData'
+[13:25]Administrator disconnected from the server. Reason ClientClosing
+[13:25]User Connected (127.0.0.1:58578)
+[13:25]Recieved from (127.0.0.1:58578)'[ACN]admin,admin'
+[13:25]User requires account details, checking authentication.
+[13:25]Recieved from (127.0.0.1:58578)'[LOD]0'
+[13:25]Load User Request.
+[13:25]Recieved from (127.0.0.1:58578)'[MAP]NeedMapData'
+[13:26]Administrator disconnected from the server. Reason ClientClosing
+[13:26]User Connected (127.0.0.1:58586)
+[13:26]Recieved from (127.0.0.1:58586)'[ACN]admin,admin'
+[13:26]User requires account details, checking authentication.
+[13:26]Recieved from (127.0.0.1:58586)'[LOD]0'
+[13:26]Load User Request.
+[13:26]Recieved from (127.0.0.1:58586)'[MAP]NeedMapData'
+[13:26]Administrator disconnected from the server. Reason ClientClosing
+[13:26]User Connected (127.0.0.1:58593)
+[13:26]Recieved from (127.0.0.1:58593)'[ACN]admin,admin'
+[13:26]User requires account details, checking authentication.
+[13:27]Recieved from (127.0.0.1:58593)'[LOD]0'
+[13:27]Load User Request.
+[13:27]Recieved from (127.0.0.1:58593)'[MAP]NeedMapData'
+[13:27]Administrator disconnected from the server. Reason ClientClosing
+[13:27]User Connected (127.0.0.1:58600)
+[13:27]Recieved from (127.0.0.1:58600)'[ACN]admin,admin'
+[13:27]User requires account details, checking authentication.
+[13:27]Recieved from (127.0.0.1:58600)'[LOD]0'
+[13:27]Load User Request.
+[13:27]Recieved from (127.0.0.1:58600)'[MAP]NeedMapData'
+[13:29]Administrator disconnected from the server. Reason ClientClosing
+[13:29]User Connected (127.0.0.1:58636)
+[13:29]Recieved from (127.0.0.1:58636)'[ACN]admin,admin'
+[13:29]User requires account details, checking authentication.
+[13:29]Recieved from (127.0.0.1:58636)'[LOD]0'
+[13:29]Load User Request.
+[13:29]Recieved from (127.0.0.1:58636)'[MAP]NeedMapData'
+[13:32]Administrator disconnected from the server. Reason ClientClosing
+[13:33]User Connected (127.0.0.1:58668)
+[13:33]Recieved from (127.0.0.1:58668)'[ACN]admin,admin'
+[13:33]User requires account details, checking authentication.
+[13:33]Recieved from (127.0.0.1:58668)'[LOD]0'
+[13:33]Load User Request.
+[13:33]Recieved from (127.0.0.1:58668)'[MAP]NeedMapData'
+[13:34]Administrator disconnected from the server. Reason ClientClosing
+[13:34]User Connected (127.0.0.1:58677)
+[13:34]Recieved from (127.0.0.1:58677)'[ACN]admin,admin'
+[13:34]User requires account details, checking authentication.
+[13:34]Recieved from (127.0.0.1:58677)'[LOD]0'
+[13:34]Load User Request.
+[13:34]Recieved from (127.0.0.1:58677)'[MAP]NeedMapData'
+[13:35]User Connected (127.0.0.1:58678)
+[13:35]Administrator disconnected from the server. Reason ClientClosing
+[13:35]Recieved from (127.0.0.1:58678)'[ACN]admin,admin'
+[13:35]User requires account details, checking authentication.
+[13:35]User Connected (127.0.0.1:58687)
+[13:35]User Connected (127.0.0.1:58688)
+[13:35]Recieved from (127.0.0.1:58688)'[ACN]admin,admin'
+[13:35]User requires account details, checking authentication.
+[13:35]Recieved from (127.0.0.1:58688)'[LOD]0'
+[13:35]Load User Request.
+[13:35]Recieved from (127.0.0.1:58688)'[MAP]NeedMapData'
+[13:36]Administrator disconnected from the server. Reason ClientClosing
+[13:36]User Connected (127.0.0.1:58694)
+[13:36]Recieved from (127.0.0.1:58694)'[ACN]admin,admin'
+[13:36]User requires account details, checking authentication.
+[13:36]Recieved from (127.0.0.1:58694)'[LOD]0'
+[13:36]Load User Request.
+[13:36]Recieved from (127.0.0.1:58694)'[MAP]NeedMapData'
+[13:37]Administrator disconnected from the server. Reason ClientClosing
+[13:37]User Connected (127.0.0.1:58701)
+[13:37]Recieved from (127.0.0.1:58701)'[ACN]admin,admin'
+[13:37]User requires account details, checking authentication.
+[13:37]Recieved from (127.0.0.1:58701)'[LOD]0'
+[13:37]Load User Request.
+[13:37]Recieved from (127.0.0.1:58701)'[MAP]NeedMapData'
+[13:38]Administrator disconnected from the server. Reason ClientClosing
+[13:38]User Connected (127.0.0.1:58708)
+[13:38]Recieved from (127.0.0.1:58708)'[ACN]admin,admin'
+[13:38]User requires account details, checking authentication.
+[13:38]Recieved from (127.0.0.1:58708)'[LOD]0'
+[13:38]Load User Request.
+[13:38]Recieved from (127.0.0.1:58708)'[MAP]NeedMapData'
+[13:39]Administrator disconnected from the server. Reason ClientClosing
+[13:39]User Connected (127.0.0.1:58717)
+[13:39]Recieved from (127.0.0.1:58717)'[ACN]admin,admin'
+[13:39]User requires account details, checking authentication.
+[13:39]Recieved from (127.0.0.1:58717)'[LOD]0'
+[13:39]Load User Request.
+[13:39]Recieved from (127.0.0.1:58717)'[MAP]NeedMapData'
+[13:43]User Connected (127.0.0.1:58745)
+[13:43]Recieved from (127.0.0.1:58745)'[ACN]admin,admin'
+[13:43]User requires account details, checking authentication.
+[13:43]Recieved from (127.0.0.1:58745)'[LOD]0'
+[13:43]Load User Request.
+[13:43]Recieved from (127.0.0.1:58745)'[MAP]NeedMapData'
+[13:46]Administrator disconnected from the server. Reason ClientClosing
+[13:46]Administrator disconnected from the server. Reason ClientClosing
+[13:46]User Connected (127.0.0.1:58756)
+[13:46]Recieved from (127.0.0.1:58756)'[ACN]admin,admin'
+[13:46]User requires account details, checking authentication.
+[13:46]Recieved from (127.0.0.1:58756)'[LOD]0'
+[13:46]Load User Request.
+[13:46]Recieved from (127.0.0.1:58756)'[MAP]NeedMapData'
+[13:47]Administrator disconnected from the server. Reason ClientClosing
+[13:47]User Connected (127.0.0.1:58764)
+[13:47]Recieved from (127.0.0.1:58764)'[ACN]admin,admin'
+[13:47]User requires account details, checking authentication.
+[13:47]Recieved from (127.0.0.1:58764)'[LOD]0'
+[13:47]Load User Request.
+[13:47]Recieved from (127.0.0.1:58764)'[MAP]NeedMapData'
+[13:48]Recieved from (127.0.0.1:58764)'[CMD]move down'
+[13:48]Command recieved : move down
+[14:37]Started Server - 0.0.0.0:2480
+[14:37]Loading Database Handler.
+[14:37]Logger Writing To File [ OK ]
+[14:37]Database: Integrity [ OK ]
+[14:37]Player Loading [ OK ]
+[14:50]User Connected (127.0.0.1:58878)
+[14:50]Recieved from (127.0.0.1:58878)'[ACN]admin,admin'
+[14:50]User requires account details, checking authentication.
+[14:50]Recieved from (127.0.0.1:58878)'[LOD]0'
+[14:50]Load User Request.
+[14:50]Recieved from (127.0.0.1:58878)'[MAP]NeedMapData'
+[14:51]Administrator disconnected from the server. Reason ClientClosing
+[14:51]User Connected (127.0.0.1:58884)
+[14:51]Recieved from (127.0.0.1:58884)'[ACN]admin,admin'
+[14:51]User requires account details, checking authentication.
+[14:51]Recieved from (127.0.0.1:58884)'[LOD]0'
+[14:51]Load User Request.
+[14:51]Recieved from (127.0.0.1:58884)'[MAP]NeedMapData'
+[14:52]Administrator disconnected from the server. Reason ClientClosing
+[15:06]User Connected (127.0.0.1:59013)
+[15:06]Recieved from (127.0.0.1:59013)'[ACN]admin,admin'
+[15:06]User requires account details, checking authentication.
+[15:06]Recieved from (127.0.0.1:59013)'[LOD]0'
+[15:06]Load User Request.
+[15:06]Recieved from (127.0.0.1:59013)'[MAP]NeedMapData'
+[15:15]Recieved from (127.0.0.1:59013)'[CMD]help'
+[15:15]Command recieved : help
+[15:15]Recieved from (127.0.0.1:59013)'[CMD]sfdsdfdf'
+[15:15]Command recieved : sfdsdfdf
+[15:15]Player Command Unrecognised
+[15:15]Recieved from (127.0.0.1:59013)'[CMD]dfdsfdf'
+[15:15]Command recieved : dfdsfdf
+[15:15]Player Command Unrecognised
+[15:15]Recieved from (127.0.0.1:59013)'[CMD]dfsdfsfdsfd'
+[15:15]Command recieved : dfsdfsfdsfd
+[15:15]Player Command Unrecognised
+[15:15]Administrator disconnected from the server. Reason ClientClosing
+[15:15]User Connected (127.0.0.1:59027)
+[15:16]Recieved from (127.0.0.1:59027)'[ACN]admin,admin'
+[15:16]User requires account details, checking authentication.
+[15:16]Recieved from (127.0.0.1:59027)'[LOD]0'
+[15:16]Load User Request.
+[15:16]Recieved from (127.0.0.1:59027)'[MAP]NeedMapData'
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]Lol'
+[15:16]Command recieved : Lol
+[15:16]Player Command Unrecognised
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]xdfdd'
+[15:16]Command recieved : xdfdd
+[15:16]Player Command Unrecognised
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]dfdfsdf'
+[15:16]Command recieved : dfdfsdf
+[15:16]Player Command Unrecognised
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]sfdsdfsdf'
+[15:16]Command recieved : sfdsdfsdf
+[15:16]Player Command Unrecognised
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]dfsdfsdfsfd'
+[15:16]Command recieved : dfsdfsdfsfd
+[15:16]Player Command Unrecognised
+[15:16]Recieved from (127.0.0.1:59027)'[CMD]fddsffdssdf'
+[15:16]Command recieved : fddsffdssdf
+[15:16]Player Command Unrecognised
+[15:17]Administrator disconnected from the server. Reason ClientClosing
+[15:17]User Connected (127.0.0.1:59060)
+[15:17]Recieved from (127.0.0.1:59060)'[ACN]admin,admin'
+[15:17]User requires account details, checking authentication.
+[15:17]Recieved from (127.0.0.1:59060)'[LOD]0'
+[15:17]Load User Request.
+[15:17]Recieved from (127.0.0.1:59060)'[MAP]NeedMapData'
+[15:17]Recieved from (127.0.0.1:59060)'[CMD]ssfasdf'
+[15:17]Command recieved : ssfasdf
+[15:17]Player Command Unrecognised
+[15:17]Recieved from (127.0.0.1:59060)'[CMD]dfsfsddsf'
+[15:17]Command recieved : dfsfsddsf
+[15:17]Player Command Unrecognised
+[15:55]User Connected (127.0.0.1:59143)
+[15:55]Recieved from (127.0.0.1:59143)'[ACN]admin,admin'
+[15:55]User requires account details, checking authentication.
+[15:55]Recieved from (127.0.0.1:59143)'[LOD]0'
+[15:55]Load User Request.
+[15:55]Recieved from (127.0.0.1:59143)'[MAP]NeedMapData'
+[15:55]Recieved from (127.0.0.1:59143)'[CMD]help'
+[15:55]Command recieved : help
+[15:55]Recieved from (127.0.0.1:59143)'[CMD]help'
+[15:55]Command recieved : help
+[15:56]User Connected (127.0.0.1:59145)
+[15:56]Recieved from (127.0.0.1:59145)'[ACN]admin,admin'
+[15:56]User Connected (127.0.0.1:59146)
+[15:56]Recieved from (127.0.0.1:59146)'[ACN]admin,admin'
+[15:57]User Connected (127.0.0.1:59152)
+[15:57]Recieved from (127.0.0.1:59152)'[ACN]admin,admin'
+[15:57]Started Server - 0.0.0.0:2480
+[15:57]Loading Database Handler.
+[15:57]Logger Writing To File [ OK ]
+[15:57]Database: Integrity [ OK ]
+[15:57]Player Loading [ OK ]
+[15:58]Started Server - 0.0.0.0:2480
+[15:58]Loading Database Handler.
+[15:58]Logger Writing To File [ OK ]
+[15:58]Database: Integrity [ OK ]
+[15:58]Player Loading [ OK ]
+[15:58]User Connected (127.0.0.1:59156)
+[15:58]Recieved from (127.0.0.1:59156)'[ACN]admin,admin'
+[15:58]User requires account details, checking authentication.
+[15:58]Recieved from (127.0.0.1:59156)'[LOD]0'
+[15:58]Load User Request.
+[15:58]Recieved from (127.0.0.1:59156)'[MAP]NeedMapData'
+[15:58]Recieved from (127.0.0.1:59156)'[CMD]help'
+[15:58]Command recieved : help
+[15:58]Recieved from (127.0.0.1:59156)'[CMD]scan'
+[15:58]Command recieved : scan
+[15:59]Recieved from (127.0.0.1:59156)'[CMD]move left'
+[15:59]Command recieved : move left
+[16:01]Administrator disconnected from the server. Reason ClientClosing
+[16:01]User Connected (127.0.0.1:59164)
+[16:02]Recieved from (127.0.0.1:59164)'[ACN]admin,admin'
+[16:02]User requires account details, checking authentication.
+[16:02]Recieved from (127.0.0.1:59164)'[LOD]0'
+[16:02]Load User Request.
+[16:02]Recieved from (127.0.0.1:59164)'[MAP]NeedMapData'
+[16:02]User Connected (127.0.0.1:59165)
+[16:02]Recieved from (127.0.0.1:59165)'[ACN]admin,admin'
+[16:02]User requires account details, checking authentication.
+[16:02]Recieved from (127.0.0.1:59165)'[LOD]0'
+[16:02]Load User Request.
+[16:02]Recieved from (127.0.0.1:59165)'[MAP]NeedMapData'
+[16:03]Recieved from (127.0.0.1:59165)'[CMD]move left'
+[16:03]Command recieved : move left
+[16:03]Started Server - 0.0.0.0:2480
+[16:03]Loading Database Handler.
+[16:03]Logger Writing To File [ OK ]
+[16:03]Database: Integrity [ OK ]
+[16:03]Player Loading [ OK ]
+[16:03]User Connected (127.0.0.1:59167)
+[16:03]Recieved from (127.0.0.1:59167)'[ACN]admin,admin'
+[16:03]User requires account details, checking authentication.
+[16:03]Recieved from (127.0.0.1:59167)'[LOD]0'
+[16:03]Load User Request.
+[16:03]Recieved from (127.0.0.1:59167)'[MAP]NeedMapData'
+[16:03]Recieved from (127.0.0.1:59167)'[CMD]move left'
+[16:03]Command recieved : move left
+[16:03]Recieved from (127.0.0.1:59167)'[CMD]move right'
+[16:03]Command recieved : move right
+[16:03]Recieved from (127.0.0.1:59167)'[CMD]move right'
+[16:03]Command recieved : move right
+[16:03]Recieved from (127.0.0.1:59167)'[CMD]scan'
+[16:03]Command recieved : scan
+[16:12]Recieved from (127.0.0.1:59167)'[CMD]move down'
+[16:12]Command recieved : move down
+[16:12]Recieved from (127.0.0.1:59167)'[CMD]move down'
+[16:12]Command recieved : move down
+[16:16]User Connected (10.10.20.35:51815)
+[16:16]Recieved from (10.10.20.35:51815)'[ACN]admin,admin'
+[16:16]User requires account details, checking authentication.
+[16:16]Recieved from (10.10.20.35:51815)'[LOD]0'
+[16:16]Load User Request.
+[16:16]Recieved from (10.10.20.35:51815)'[MAP]NeedMapData'
+[16:16]Recieved from (10.10.20.35:51815)'[CMD]say Hello, everybody!'
+[16:16]Command recieved : say Hello, everybody!
+[16:16]User Connected (10.10.20.29:51183)
+[16:16]Recieved from (10.10.20.29:51183)'[ACN]admin,admin'
+[16:16]User requires account details, checking authentication.
+[16:16]Recieved from (10.10.20.29:51183)'[LOD]0'
+[16:16]Load User Request.
+[16:16]Recieved from (10.10.20.29:51183)'[MAP]NeedMapData'
+[16:17]Recieved from (10.10.20.29:51183)'[CMD]say Hello!'
+[16:17]Command recieved : say Hello!
+[16:17]Recieved from (10.10.20.35:51815)'[CMD]say This is the waving guy '
+[16:17]Command recieved : say This is the waving guy 
+[16:17]Recieved from (10.10.20.29:51183)'[CMD]The wave is a lie'
+[16:17]Command recieved : The wave is a lie
+[16:17]Player Command Unrecognised
+[16:17]Recieved from (10.10.20.29:51183)'[CMD]say The wave is a lie'
+[16:17]Command recieved : say The wave is a lie
+[16:17]Recieved from (10.10.20.35:51815)'[CMD]move east'
+[16:17]Command recieved : move east
+[16:17]Recieved from (10.10.20.35:51815)'[CMD]move west'
+[16:17]Command recieved : move west
+[19:12]Started Server - 0.0.0.0:2480
+[19:12]Loading Database Handler.
+[19:12]Logger Writing To File [ OK ]
+[19:12]Database: Integrity [ OK ]
+[19:12]Player Loading [ OK ]
+[19:12]User Connected (127.0.0.1:59343)
+[19:12]Recieved from (127.0.0.1:59343)'[ACN]admin,admin'
+[19:12]User requires account details, checking authentication.
+[19:12]Recieved from (127.0.0.1:59343)'[LOD]0'
+[19:12]Load User Request.
+[19:12]Recieved from (127.0.0.1:59343)'[MAP]NeedMapData'
+[19:15]Administrator disconnected from the server. Reason ClientClosing
+[19:16]User Connected (127.0.0.1:59392)
+[19:16]Recieved from (127.0.0.1:59392)'[ACN]admin,admin'
+[19:16]User requires account details, checking authentication.
+[19:16]Recieved from (127.0.0.1:59392)'[LOD]0'
+[19:16]Load User Request.
+[19:16]Recieved from (127.0.0.1:59392)'[MAP]NeedMapData'
+[19:17]Recieved from (127.0.0.1:59392)'[CMD]move right'
+[19:17]Command recieved : move right
+[19:17]Recieved from (127.0.0.1:59392)'[CMD]move right'
+[19:17]Command recieved : move right
+[19:17]Recieved from (127.0.0.1:59392)'[CMD]move right'
+[19:17]Command recieved : move right
+[19:17]Recieved from (127.0.0.1:59392)'[CMD]move right'
+[19:17]Command recieved : move right
+[19:19]Administrator disconnected from the server. Reason ClientClosing
+[19:19]User Connected (127.0.0.1:59414)
+[19:19]Recieved from (127.0.0.1:59414)'[ACN]admin,admin'
+[19:19]User requires account details, checking authentication.
+[19:19]Recieved from (127.0.0.1:59414)'[LOD]0'
+[19:19]Load User Request.
+[19:19]Recieved from (127.0.0.1:59414)'[MAP]NeedMapData'
+[19:19]Recieved from (127.0.0.1:59414)'[CMD]move left'
+[19:19]Command recieved : move left
+[12:06]Started Server - 0.0.0.0:2480
+[12:06]Loading Database Handler.
+[12:06]Logger Writing To File [ OK ]
+[12:06]Database: Integrity [ OK ]
+[12:06]Player Loading [ OK ]
+[12:12]User Connected (127.0.0.1:60604)
+[12:12]Recieved from (127.0.0.1:60604)'[ACN]admin,admin'
+[12:12]User requires account details, checking authentication.
+[12:12]Recieved from (127.0.0.1:60604)'[LOD]0'
+[12:12]Load User Request.
+[12:12]Recieved from (127.0.0.1:60604)'[MAP]NeedMapData'
+[12:12]Recieved from (127.0.0.1:60604)'[RDY]'
+[12:14]Recieved from (127.0.0.1:60604)'[CMD]move left'
+[12:14]Command recieved : move left
+[12:14]Recieved from (127.0.0.1:60604)'[CMD]move left'
+[12:14]Command recieved : move left
+[12:14]Recieved from (127.0.0.1:60604)'[CMD]move right'
+[12:14]Command recieved : move right
+[12:14]Recieved from (127.0.0.1:60604)'[CMD]move right'
+[12:14]Command recieved : move right
+[12:14]Recieved from (127.0.0.1:60604)'[CMD]move right'
+[12:14]Command recieved : move right
+[12:15]Administrator disconnected from the server. Reason ClientClosing
+[12:16]User Connected (127.0.0.1:60714)
+[12:16]Recieved from (127.0.0.1:60714)'[ACN]admin,admin'
+[12:16]User requires account details, checking authentication.
+[12:16]Recieved from (127.0.0.1:60714)'[LOD]0'
+[12:16]Load User Request.
+[12:16]Recieved from (127.0.0.1:60714)'[MAP]NeedMapData'
+[12:16]Recieved from (127.0.0.1:60714)'[RDY]'
+[12:19]Administrator disconnected from the server. Reason ClientClosing
+[12:19]User Connected (127.0.0.1:60739)
+[12:19]Recieved from (127.0.0.1:60739)'[ACN]admin,ADMIN'
+[12:19]User requires account details, checking authentication.
+[14:40]Started Server - 0.0.0.0:2480
+[14:40]Loading Database Handler.
+[14:40]Logger Writing To File [ OK ]
+[14:40]Database: Integrity [ OK ]
+[14:40]Player Loading [ OK ]
+[14:40]User Connected (127.0.0.1:54979)
+[14:40]Recieved from (127.0.0.1:54979)'[NEW]half-shot,gwen10,Half-Shot'
+[14:40]New user request.
+[14:41]User Connected (127.0.0.1:54980)
+[14:41]Recieved from (127.0.0.1:54980)'[NEW]half-shot,gwen10,Half-Shot'
+[14:41]New user request.
+[14:43]User Connected (127.0.0.1:54986)
+[14:43]Recieved from (127.0.0.1:54986)'[NEW]half-shot,gwen10,Half-Shot'
+[14:43]New user request.
+[14:44]Started Server - 0.0.0.0:2480
+[14:44]Loading Database Handler.
+[14:44]Logger Writing To File [ OK ]
+[14:44]Database: Integrity [ OK ]
+[14:44]Player Loading [ OK ]
+[14:45]Started Server - 0.0.0.0:2480
+[14:45]Loading Database Handler.
+[14:46]Logger Writing To File [ OK ]
+[14:46]Database: Integrity [ OK ]
+[14:46]Player Loading [ OK ]
+[14:46]User Connected (127.0.0.1:54991)
+[14:46]Recieved from (127.0.0.1:54991)'[NEW]half-shot,gwen10,Half-Shot'
+[14:46]New user request.
+[14:46]Account couldn't be created due to reasons 34
+[14:47]User Connected (127.0.0.1:54993)
+[14:47]Recieved from (127.0.0.1:54993)'[NEW]half-shot,gwen10,Half-Shot'
+[14:47]User Connected (127.0.0.1:54994)
+[14:47]Recieved from (127.0.0.1:54994)'[NEW]half-shot,gwen10,Half-Shot'
+[14:47]Recieved from (127.0.0.1:54995)'[NEW]half-shot,gwen10,Half-Shot'
+[14:47]User Connected (127.0.0.1:54995)
+[14:51]Recieved from (127.0.0.1:54996)'[NEW]half-shot,gwen10,Half-Shot'
+[14:51]User Connected (127.0.0.1:54996)
+[14:52]User Connected (127.0.0.1:54997)
+[14:52]User Connected (127.0.0.1:54998)
+[14:55]Started Server - 0.0.0.0:2480
+[14:55]Loading Database Handler.
+[14:55]Logger Writing To File [ OK ]
+[14:55]Database: Integrity [ OK ]
+[14:55]Player Loading [ OK ]
+[14:56]User Connected (127.0.0.1:55001)
+[14:57]User Connected (127.0.0.1:55002)
+[14:57]Recieved from (127.0.0.1:55001)'[NEW]half-shot,gwen10,Half-Shot'
+[14:57]New user request.
+[14:57]Recieved from (127.0.0.1:55002)'[NEW]half-shot,gwen10,Half-Shot'
+[14:57]Account couldn't be created due to reasons 34
+[14:57]New user request.
+[14:57]Account couldn't be created due to reasons 34
+[14:58]User Connected (127.0.0.1:55010)
+[15:22]Started Server - 0.0.0.0:2480
+[15:22]Loaded Database Handler.
+[15:22]Logger Writing To File [ OK ]
+[15:22]Database: Integrity [ OK ]
+[15:22]Player Loading [ OK ]
+[15:22]Started Server - 0.0.0.0:2480
+[15:22]Loaded Database Handler.
+[15:22]Logger Writing To File [ OK ]
+[15:22]Database: Integrity [ OK ]
+[15:22]Player Loading [ OK ]
+[15:23]Started Server - 0.0.0.0:2480
+[15:23]Loaded Database Handler.
+[15:23]Logger Writing To File [ OK ]
+[15:23]Database: Integrity [ OK ]
+[15:23]Player Loading [ OK ]

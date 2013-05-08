@@ -1,0 +1,27 @@
+
+.tile_w
+{
+color: white;
+background-color: gray;
+display:inline-block;
+width:10px;
+height:10px;
+}
+
+.tile_f
+{
+color: gray;
+background-color: darkgray;
+display:inline-block;
+width:10px;
+height:10px;
+}
+
+.tile_d
+{
+color: blue;
+background-color: darkgray;
+display:inline-block;
+width:10px;
+height:10px;
+}
