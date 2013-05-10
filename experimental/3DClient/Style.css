@@ -1,0 +1,148 @@
+#webgl-area
+{
+	width:100%;
+	background: green;
+	height: 100%;
+}
+
+body
+{
+	margin: 0px;
+}
+
+#version
+{
+	color:white;
+	position: absolute;
+	top : 0px;
+	right: 0px;
+}
+
+#tools
+{
+	background: gray;
+	position: absolute;
+	bottom : 0px;
+	right: 0px;
+	width : 30%;
+	height: 10%;
+}
+
+.tools_button
+{
+	background: blue;
+	position: relative;
+	margin-top: 1px;
+	width : 14%;
+	height: 93%;
+	display:inline-block;
+	font-size: 9px;
+	text-align: center;
+	vertical-align : left;
+}
+
+#login-window
+{
+	position: absolute;
+	background: gray;
+	border: solid 1px black;
+	top:33%;
+	width:25%;
+	height:25%;
+	left:35%;
+	padding: 5px;
+	font-size: 14px;
+}
+
+body
+{
+font-family: 'Press Start 2P', cursive;
+}
+
+h4
+{
+text-align: center;
+text-decoration: underline;
+}
+
+
+.textbox
+{
+style: flat;
+border: 1px solid black;
+position: relative;
+top: -5px;
+}
+#loginbutton
+{
+style: flat;
+border: 1px solid black;
+position: relative;
+left:45%;
+}
+
+.leftpanel
+{
+	position:fixed;
+	left:0px;
+	width:7%;
+	height:100%;
+	top: 0px;
+	background-color: grey;
+	border:1px solid black;
+}
+
+.console
+{
+	resize: none;
+	position: absolute;
+	height:32%;
+	width:60%;
+	left: 8%;
+	bottom: 2%;
+	border:1px solid white;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	line-height:50%;
+	background-color: white;
+	filter:alpha(opacity=50); 
+	opacity:0.5;
+	font-size: 10px;
+	margin-top: 5px;
+}
+
+#coninput
+{
+	position: absolute;
+	height:2%;
+	width:57%;
+	left: 8%;
+	top: 98%;
+	background-color: white;
+	filter:alpha(opacity=50); 
+	opacity:0.5;
+	border:1px solid white;
+}
+
+.consend
+{
+	position: absolute;
+	style: flat;
+	border: 1px solid black;
+	bottom: 0%;
+	left:65%;
+	width:3%;
+	filter:alpha(opacity=50); 
+	opacity:0.5;
+	margin: 0px;
+}
+
+#minimap
+{
+	position: absolute;
+	top : 5%;
+	right: 5%;
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}

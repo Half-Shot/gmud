@@ -1,0 +1,101 @@
+<html>
+<style>
+#CentreDialogue
+{
+	position:absolute;
+	width:33%;
+	height:75%;
+	top:12%;
+	left:33%;
+	right:33%;
+	background-color: orange;
+	border: solid black 1px;
+}
+
+#Instructions
+{
+	position:absolute;
+	width:25%;
+	height:75%;
+	left:70%;
+	right:5%;
+	top:12%;
+	background-color: grey;
+	border: solid black 1px;
+}
+
+#ServerDetails
+{
+	background-color: grey;
+	border: solid black 1px;
+	margin: 5px;
+}
+#CharacterSetup
+{
+	background-color: grey;
+	border: solid black 1px;
+	margin: 5px;
+}
+#status
+{
+	position:relative;
+	background-color: yellow;
+	border: solid black 1px;
+	width:75px;
+	height:25px;
+	margin: 5px;
+}
+.textbox
+{
+	border:1px solid black;
+	margin: 5px;
+}
+
+button
+{
+	border:1px solid black;
+	margin: 5px;
+}
+
+</style>
+<head>
+<title>Create a new GMUD Character</title>
+<script src="js/NewPlayer.js"></script>
+<script src="js/jquery.js"></script>
+</head>
+<body>
+<div id="CentreDialogue">
+	<div id="ServerDetails">
+		<h4>Server:</h4>
+		IP Address: <input type="text" id="ipaddress" class="textbox"/>
+		<br>
+		Port:	<input type="text" id="port" class="textbox" />
+		<br>
+	</div>
+		<h4></h4>
+	<div id="CharacterSetup">
+		Username: <input type="text" id="username" class="textbox"/>
+		<br>
+		Password: <input type="password" id="password" class="textbox" />
+		<br>
+		Character Name: <input type="test" id="charname" class="textbox" />
+		<br>
+		<button onclick="createPlayer()">Create Player</button>
+		<br>
+	</div>
+</div>
+<div id="Instructions">
+	<h3> - Creating a new user</h3>
+	To create your new account on a GMUD Server.
+	<p>	
+	<li>Make sure to select the right <b>IP</b> and set the <b>port</b> to 2480 degrees or whatever you feel comfortable with.</li>
+	<li>Choose a <b>Username</b> which you will login with.</li>
+	<li>Choose a <b>Password</b> which you will keep secret with.</li>
+	<li>Choose a <b>Character Name</b> which you will use for every occasion.</li>
+	<li>Mix well with the <b>Mix</b> button to create your user.</li>
+	<li>If you get an error from the server, leave to cool and fix it ASAP.</li>
+	<li>Go <a href="client.html">here</a> to play</li>
+	
+</div>
+</body>
+</html>

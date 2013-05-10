@@ -1,0 +1,46 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+	<link rel="stylesheet" type="text/css" href="Console.css">
+	<link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+	<script src="js/jquery.js"></script>
+	<script src="js/Config.js"></script>
+</head>
+<body>
+	<div id="login-window">
+		<h4>Login Window</h4>
+		<br>
+		Server:<input type="text" class="textbox" id="serverip" value="127.0.0.1" placeholder="127.0.0.1">:<input type="text" class="textbox" id="serverport" value="2480" placeholder="2480">
+		<br>
+		<br>
+		Username:<input type="text" class="textbox" id="username" placeholder="Username">
+		<br>
+		<br>
+		Password:<input type="password" class="textbox" id="password" placeholder="Password">
+		<br>
+		<br>
+		<button class="button" id="loginbutton" onclick="main()">Login</button>
+	</div>
+	<div id="webgl-area">
+	</div>
+	<div id="tools">
+		<div class="tools_button" id="b_attack">Attack</div>
+		<div class="tools_button" id="b_inventory">Inventory</div>
+		<div class="tools_button" id="b_item1">Move</div>
+		<div class="tools_button" id="b_item2">Scan</div>
+		<div class="tools_button" id="b_map">Map</div>
+		<div class="tools_button" id="b_settings">Settings</div>
+	</div>
+	<div class="leftpanel"></div>
+	<div class="console" id="console"></div>
+	<input type="text" class="textbox" id="coninput" value="" placeholder="Type a command or message here.">
+	<button onclick="sendCommand()" class="consend">Send</button>
+	<canvas id="minimap"></canvas>
+	<div id ="version">0.01</div>
+	<script src="js/three.js"></script>
+	<script src="js/Graphics.js"></script>
+	<script src="js/PacketHandler.js"></script>
+	<script src="js/UI.js"></script>
+	<script src="js/Client.js"></script>
+</body>
+</html>
