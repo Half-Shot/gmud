@@ -71,7 +71,8 @@ namespace GMUDServer
 			while ((DateTime.Now.TimeOfDay.TotalSeconds - startedtimer.TimeOfDay.TotalSeconds) < timer) {
 				Thread.Sleep(250);
 			}
-			foreach (Player plr in server.MainGame.entityHandler.ents) {
+
+			foreach (Player plr in server.MainGame.entityHandler.PlayerList()) {
 				server.KickPlayer(plr,"Server closing down");
 			}
 			server.server.Stop();

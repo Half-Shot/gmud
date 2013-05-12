@@ -66,9 +66,11 @@ namespace GMUDServer
         public void OnDisconnect (WebSocketSession session, CloseReason reason)
 		{
 			string address = session.RemoteEndPoint.Address + ":" + session.RemoteEndPoint.Port;
-			Player toRemove = GetPlayerByIP(address);
-			MainGame.entityHandler.RemoveEnt(toRemove);
-			Logger.LogMsg (toRemove.name + " disconnected from the server. Reason " + reason.ToString ());
+			Player toRemove = GetPlayerByIP (address);
+			if (toRemove != null) { //Did the player get as far as logging in?
+				MainGame.entityHandler.RemoveEnt (toRemove);
+				Logger.LogMsg (toRemove.name + " disconnected from the server. Reason " + reason.ToString ());
+			}
         }
 
         public void OnMessage(WebSocketSession session,string msg)

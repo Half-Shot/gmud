@@ -1,7 +1,7 @@
 #webgl-area
 {
 	width:100%;
-	background: black;
+	background: green;
 	height: 100%;
 }
 

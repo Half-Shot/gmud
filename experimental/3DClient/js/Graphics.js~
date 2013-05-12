@@ -139,7 +139,7 @@ function GameInit()
 	//Camera Bindings
 	
 
-	$('body').bind('keydown', function(e) {
+	$('body').bind('keyup', function(e) {
 		switch(e.keyCode)
 		{
 			case 37:	//Left

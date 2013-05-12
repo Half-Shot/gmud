@@ -902,3 +902,989 @@ database is locked
 [22:46]Recieved from (127.0.0.1:50434)'[RDY]'
 [22:46]Spawned a Administrator at 339,55,0
 [22:46]Administrator disconnected from the server. Reason ClientClosing
+[18:51]Started Server - 0.0.0.0:2480
+[18:51]Loaded Database Handler.
+[18:51]Logger Writing To File [ OK ]
+[18:51]Database: Integrity [ OK ]
+[18:51]Player Loading [ OK ]
+[18:51]Spawned a Sam Gobson at 381,439,0
+[18:58]User Connected (192.168.0.5:19869)
+[18:58]Recieved from (192.168.0.5:19869)'[ACN]admin,admin'
+[18:58]User requires account details, checking authentication.
+[18:58]Recieved from (192.168.0.5:19869)'[LOD]0'
+[18:58]Load User Request.
+[18:58]Recieved from (192.168.0.5:19869)'[MAP]NeedMapData'
+[18:58]Recieved from (192.168.0.5:19869)'[RDY]'
+[18:58]Spawned a Administrator at 256,232,0
+[19:15]Recieved from (192.168.0.5:19869)'[CMD]undefined'
+[19:15]Command recieved : undefined
+[19:15]Player Command Unrecognised
+[19:16]Administrator disconnected from the server. Reason ClientClosing
+[19:16]User Connected (192.168.0.5:21556)
+[19:16]Recieved from (192.168.0.5:21556)'[ACN]admin,admin'
+[19:16]User requires account details, checking authentication.
+[19:16]Recieved from (192.168.0.5:21556)'[LOD]0'
+[19:16]Load User Request.
+[19:16]Recieved from (192.168.0.5:21556)'[MAP]NeedMapData'
+[19:16]Recieved from (192.168.0.5:21556)'[RDY]'
+[19:16]Spawned a Administrator at 62,166,0
+[19:17]Recieved from (192.168.0.5:21556)'[CMD]ll;;ll;l;;;;;;;;;;;;;;;;;'
+[19:17]Command recieved : ll;;ll;l;;;;;;;;;;;;;;;;;
+[19:17]Player Command Unrecognised
+[19:17]Recieved from (192.168.0.5:21556)'[CMD]ll;;ll;l;;;;;;;;;;;;;;;;;'
+[19:17]Command recieved : ll;;ll;l;;;;;;;;;;;;;;;;;
+[19:17]Player Command Unrecognised
+[19:17]Recieved from (192.168.0.5:21556)'[CMD]ll;;ll;l;;;;;;;;;;;;;;;;;'
+[19:17]Command recieved : ll;;ll;l;;;;;;;;;;;;;;;;;
+[19:17]Player Command Unrecognised
+[19:17]Administrator disconnected from the server. Reason ClientClosing
+[19:18]User Connected (192.168.0.5:21677)
+[19:18]Recieved from (192.168.0.5:21677)'[ACN]admin,admin'
+[19:18]User requires account details, checking authentication.
+[19:18]Recieved from (192.168.0.5:21677)'[LOD]0'
+[19:18]Load User Request.
+[19:18]Recieved from (192.168.0.5:21677)'[MAP]NeedMapData'
+[19:18]Recieved from (192.168.0.5:21677)'[RDY]'
+[19:18]Spawned a Administrator at 183,344,0
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]ll;;ll;l;;;;;;;;;;;;;;;;;'
+[19:18]Command recieved : ll;;ll;l;;;;;;;;;;;;;;;;;
+[19:18]Player Command Unrecognised
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]'#''#'
+[19:18]Command recieved : '#''#
+[19:18]Player Command Unrecognised
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]'#''
+[19:18]Command recieved : '#'
+[19:18]Player Command Unrecognised
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]sdsds'
+[19:18]Command recieved : sdsds
+[19:18]Player Command Unrecognised
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]say hi'
+[19:18]Command recieved : say hi
+[19:18]Recieved from (192.168.0.5:21677)'[CMD]say lololol'
+[19:18]Command recieved : say lololol
+[19:22]Administrator disconnected from the server. Reason ClientClosing
+[19:22]User Connected (192.168.0.5:22033)
+[19:22]Recieved from (192.168.0.5:22033)'[ACN]admin,admin'
+[19:22]User requires account details, checking authentication.
+[19:22]Recieved from (192.168.0.5:22033)'[LOD]0'
+[19:22]Load User Request.
+[19:22]Recieved from (192.168.0.5:22033)'[MAP]NeedMapData'
+[19:22]Recieved from (192.168.0.5:22033)'[RDY]'
+[19:22]Spawned a Administrator at 359,244,0
+[19:23]Administrator disconnected from the server. Reason ClientClosing
+[19:23]User Connected (192.168.0.5:22155)
+[19:23]Recieved from (192.168.0.5:22155)'[ACN]admin,admin'
+[19:23]User requires account details, checking authentication.
+[19:23]Recieved from (192.168.0.5:22155)'[LOD]0'
+[19:23]Load User Request.
+[19:23]Recieved from (192.168.0.5:22155)'[MAP]NeedMapData'
+[19:23]Recieved from (192.168.0.5:22155)'[RDY]'
+[19:23]Spawned a Administrator at 309,297,0
+[19:23]Administrator disconnected from the server. Reason ClientClosing
+[19:24]User Connected (192.168.0.5:22225)
+[19:24]Recieved from (192.168.0.5:22225)'[ACN]admin,admin'
+[19:24]User requires account details, checking authentication.
+[19:24]Recieved from (192.168.0.5:22225)'[LOD]0'
+[19:24]Load User Request.
+[19:24]Recieved from (192.168.0.5:22225)'[MAP]NeedMapData'
+[19:24]Recieved from (192.168.0.5:22225)'[RDY]'
+[19:24]Spawned a Administrator at 410,357,0
+[19:26]Closing Server : From Console
+[21:22]Started Server - 0.0.0.0:2480
+[21:22]Loaded Database Handler.
+[21:22]Logger Writing To File [ OK ]
+[21:22]Database: Integrity [ OK ]
+[21:22]Player Loading [ OK ]
+[21:22]Spawned a Sam Gobson at 94,231,0
+[21:22]User Connected (192.168.0.5:32697)
+[21:23]Recieved from (192.168.0.5:32697)'[ACN]admin,admin'
+[21:23]User requires account details, checking authentication.
+[21:23]Recieved from (192.168.0.5:32697)'[LOD]0'
+[21:23]Load User Request.
+[21:23]Recieved from (192.168.0.5:32697)'[MAP]NeedMapData'
+[21:23]Recieved from (192.168.0.5:32697)'[RDY]'
+[21:23]Spawned a Administrator at 53,268,0
+[21:23]Recieved from (192.168.0.5:32697)'[CMD]exit'
+[21:23]Command recieved : exit
+[21:23]Player Command Unrecognised
+[21:23]Recieved from (192.168.0.5:32697)'[CMD]quit'
+[21:23]Command recieved : quit
+[21:23]Player Command Unrecognised
+[21:23]Recieved from (192.168.0.5:32697)'[CMD]logout'
+[21:23]Command recieved : logout
+[21:23]Player Command Unrecognised
+[21:23]Administrator disconnected from the server. Reason ClientClosing
+[21:23]User Connected (192.168.0.5:32778)
+[21:23]Recieved from (192.168.0.5:32778)'[ACN]admin,admin'
+[21:23]User requires account details, checking authentication.
+[21:23]Recieved from (192.168.0.5:32778)'[LOD]0'
+[21:23]Load User Request.
+[21:23]Recieved from (192.168.0.5:32778)'[MAP]NeedMapData'
+[21:23]Recieved from (192.168.0.5:32778)'[RDY]'
+[21:23]Spawned a Administrator at 434,419,0
+[21:24]Recieved from (192.168.0.5:32778)'[CMD]move left'
+[21:24]Command recieved : move left
+[21:25]Recieved from (192.168.0.5:32778)'[CMD]move right'
+[21:25]Command recieved : move right
+[21:25]Administrator disconnected from the server. Reason ClientClosing
+[21:25]User Connected (192.168.0.5:32988)
+[21:26]Recieved from (192.168.0.5:32988)'[ACN]admin,admin'
+[21:26]User requires account details, checking authentication.
+[21:26]Recieved from (192.168.0.5:32988)'[LOD]0'
+[21:26]Load User Request.
+[21:26]Recieved from (192.168.0.5:32988)'[MAP]NeedMapData'
+[21:26]Recieved from (192.168.0.5:32988)'[RDY]'
+[21:26]Spawned a Administrator at 149,389,0
+[21:27]Administrator disconnected from the server. Reason ClientClosing
+[21:29]User Connected (192.168.0.5:33279)
+[21:29]Recieved from (192.168.0.5:33279)'[ACN]admin,admin'
+[21:29]User requires account details, checking authentication.
+[21:29]Recieved from (192.168.0.5:33279)'[LOD]0'
+[21:29]Load User Request.
+[21:29]Recieved from (192.168.0.5:33279)'[MAP]NeedMapData'
+[21:29]Administrator disconnected from the server. Reason ClientClosing
+[21:29]User Connected (192.168.0.5:33299)
+[21:29]Recieved from (192.168.0.5:33299)'[ACN]admin,admin'
+[21:29]User requires account details, checking authentication.
+[21:29]Recieved from (192.168.0.5:33299)'[LOD]0'
+[21:29]Load User Request.
+[21:29]Recieved from (192.168.0.5:33299)'[MAP]NeedMapData'
+[21:29]Recieved from (192.168.0.5:33299)'[RDY]'
+[21:29]Spawned a Administrator at 288,267,0
+[21:30]Administrator disconnected from the server. Reason ClientClosing
+[21:31]User Connected (192.168.0.5:33658)
+[21:31]Recieved from (192.168.0.5:33658)'[ACN]admin,admin'
+[21:31]User requires account details, checking authentication.
+[21:31]Recieved from (192.168.0.5:33658)'[LOD]0'
+[21:31]Load User Request.
+[21:31]Recieved from (192.168.0.5:33658)'[MAP]NeedMapData'
+[21:31]Recieved from (192.168.0.5:33658)'[RDY]'
+[21:31]Spawned a Administrator at 153,122,0
+[21:33]User Connected (192.168.0.5:33878)
+[21:33]Recieved from (192.168.0.5:33878)'[ACN]admin,admin'
+[21:33]User requires account details, checking authentication.
+[21:33]Recieved from (192.168.0.5:33878)'[LOD]0'
+[21:33]Load User Request.
+[21:33]Recieved from (192.168.0.5:33878)'[MAP]NeedMapData'
+[21:33]Recieved from (192.168.0.5:33878)'[RDY]'
+[21:33]Spawned a Administrator at 382,323,0
+[21:34]Administrator disconnected from the server. Reason ClientClosing
+[21:36]User Connected (192.168.0.5:34232)
+[21:36]Recieved from (192.168.0.5:34232)'[ACN]admin,admin'
+[21:36]User requires account details, checking authentication.
+[21:36]Recieved from (192.168.0.5:34232)'[LOD]0'
+[21:36]Load User Request.
+[21:36]Recieved from (192.168.0.5:34232)'[MAP]NeedMapData'
+[21:36]Administrator disconnected from the server. Reason ClientClosing
+[21:39]Started Server - 0.0.0.0:2480
+[21:39]Loaded Database Handler.
+[21:39]Logger Writing To File [ OK ]
+[21:39]Database: Integrity [ OK ]
+[21:39]Player Loading [ OK ]
+[21:39]Spawned a Sam Gobson at 424,298,0
+[21:39]Started Server - 0.0.0.0:2480
+[21:39]Loaded Database Handler.
+[21:39]Logger Writing To File [ OK ]
+[21:39]Database: Integrity [ OK ]
+[21:39]Player Loading [ OK ]
+[21:39]Spawned a Sam Gobson at 41,345,0
+[21:39]User Connected (192.168.0.5:34669)
+[21:39]Recieved from (192.168.0.5:34669)'[ACN]admin,admin'
+[21:39]User requires account details, checking authentication.
+[21:39]Recieved from (192.168.0.5:34669)'[LOD]0'
+[21:39]Load User Request.
+[21:39]Recieved from (192.168.0.5:34669)'[MAP]NeedMapData'
+[21:40]Recieved from (192.168.0.5:34669)'[RDY]'
+[21:40]Spawned a Administrator at 239,219,0
+[21:40]Administrator disconnected from the server. Reason ClientClosing
+[21:41]User Connected (192.168.0.5:34800)
+[21:41]Recieved from (192.168.0.5:34800)'[ACN]admin,admin'
+[21:41]User requires account details, checking authentication.
+[21:41]Recieved from (192.168.0.5:34800)'[LOD]0'
+[21:41]Load User Request.
+[21:41]Recieved from (192.168.0.5:34800)'[MAP]NeedMapData'
+[21:43]Administrator disconnected from the server. Reason ClientClosing
+[21:44]User Connected (192.168.0.5:35011)
+[21:44]Recieved from (192.168.0.5:35011)'[ACN]admin,admin'
+[21:44]User requires account details, checking authentication.
+[21:44]Recieved from (192.168.0.5:35011)'[LOD]0'
+[21:44]Load User Request.
+[21:44]Recieved from (192.168.0.5:35011)'[MAP]NeedMapData'
+[21:44]Administrator disconnected from the server. Reason ClientClosing
+[21:45]User Connected (192.168.0.5:35118)
+[21:45]Recieved from (192.168.0.5:35118)'[ACN]admin,admin'
+[21:45]User requires account details, checking authentication.
+[21:45]Recieved from (192.168.0.5:35118)'[LOD]0'
+[21:45]Load User Request.
+[21:45]Recieved from (192.168.0.5:35118)'[MAP]NeedMapData'
+[21:45]Recieved from (192.168.0.5:35118)'[RDY]'
+[21:45]Spawned a Administrator at 417,168,0
+[21:45]Administrator disconnected from the server. Reason ClientClosing
+[21:46]User Connected (192.168.0.5:35212)
+[21:46]Recieved from (192.168.0.5:35212)'[ACN]admin,admin'
+[21:46]User requires account details, checking authentication.
+[21:46]Recieved from (192.168.0.5:35212)'[LOD]0'
+[21:46]Load User Request.
+[21:46]Recieved from (192.168.0.5:35212)'[MAP]NeedMapData'
+[21:48]Administrator disconnected from the server. Reason ClientClosing
+[21:48]User Connected (192.168.0.5:35387)
+[21:48]Recieved from (192.168.0.5:35387)'[ACN]admin,admin'
+[21:48]User requires account details, checking authentication.
+[21:48]Recieved from (192.168.0.5:35387)'[LOD]0'
+[21:48]Load User Request.
+[21:48]Recieved from (192.168.0.5:35387)'[MAP]NeedMapData'
+[21:49]Administrator disconnected from the server. Reason ClientClosing
+[21:49]User Connected (192.168.0.5:35444)
+[21:49]Recieved from (192.168.0.5:35444)'[ACN]admin,admin'
+[21:49]User requires account details, checking authentication.
+[21:49]Recieved from (192.168.0.5:35444)'[LOD]0'
+[21:49]Load User Request.
+[21:49]Recieved from (192.168.0.5:35444)'[MAP]NeedMapData'
+[21:50]Administrator disconnected from the server. Reason ClientClosing
+[21:50]User Connected (192.168.0.5:35647)
+[21:50]Recieved from (192.168.0.5:35647)'[ACN]admin,admin'
+[21:50]User requires account details, checking authentication.
+[21:50]Recieved from (192.168.0.5:35647)'[LOD]0'
+[21:50]Load User Request.
+[21:50]Recieved from (192.168.0.5:35647)'[MAP]NeedMapData'
+[21:50]Recieved from (192.168.0.5:35647)'[RDY]'
+[21:50]Spawned a Administrator at 451,478,0
+[21:56]Administrator disconnected from the server. Reason ClientClosing
+[21:57]User Connected (192.168.0.5:36184)
+[21:57]Recieved from (192.168.0.5:36184)'[ACN]admin,admin'
+[21:57]User requires account details, checking authentication.
+[21:57]Recieved from (192.168.0.5:36184)'[LOD]0'
+[21:57]Load User Request.
+[21:57]Recieved from (192.168.0.5:36184)'[MAP]NeedMapData'
+[21:57]Recieved from (192.168.0.5:36184)'[RDY]'
+[21:57]Spawned a Administrator at 465,213,0
+[22:04]Administrator disconnected from the server. Reason ClientClosing
+[22:04]User Connected (192.168.0.5:36747)
+[22:04]Recieved from (192.168.0.5:36747)'[ACN]admin,admin'
+[22:04]User requires account details, checking authentication.
+[22:04]Recieved from (192.168.0.5:36747)'[LOD]0'
+[22:04]Load User Request.
+[22:04]Recieved from (192.168.0.5:36747)'[MAP]NeedMapData'
+[22:05]Recieved from (192.168.0.5:36747)'[RDY]'
+[22:05]Spawned a Administrator at 209,209,0
+[22:08]Administrator disconnected from the server. Reason ClientClosing
+[22:09]User Connected (192.168.0.5:37147)
+[22:09]Recieved from (192.168.0.5:37147)'[ACN]admin,admin'
+[22:09]User requires account details, checking authentication.
+[22:09]Closing Server : From Console
+[22:11]Started Server - 0.0.0.0:2480
+[22:11]Loaded Database Handler.
+[22:11]Logger Writing To File [ OK ]
+[22:11]Database: Integrity [ OK ]
+[22:11]Player Loading [ OK ]
+[22:11]Spawned a Sam Gobson at 204,422,0
+[22:11]User Connected (192.168.0.5:37347)
+[22:13]User Connected (192.168.0.5:37540)
+[22:13]Recieved from (192.168.0.5:37540)'[ACN]admin,admin'
+[22:13]User requires account details, checking authentication.
+[22:13]Recieved from (192.168.0.5:37540)'[LOD]0'
+[22:13]Load User Request.
+[22:13]Recieved from (192.168.0.5:37540)'[MAP]NeedMapData'
+[22:13]Recieved from (192.168.0.5:37540)'[RDY]'
+[22:13]Spawned a Administrator at 207,280,0
+[22:13]Administrator disconnected from the server. Reason ClientClosing
+[22:14]User Connected (192.168.0.5:37622)
+[22:14]Recieved from (192.168.0.5:37622)'[ACN]admin,admin'
+[22:14]User requires account details, checking authentication.
+[22:14]Recieved from (192.168.0.5:37622)'[LOD]0'
+[22:14]Load User Request.
+[22:14]Recieved from (192.168.0.5:37622)'[MAP]NeedMapData'
+[22:14]Recieved from (192.168.0.5:37622)'[RDY]'
+[22:14]Spawned a Administrator at 341,196,0
+[22:15]Administrator disconnected from the server. Reason ClientClosing
+[22:16]User Connected (192.168.0.5:37787)
+[22:16]Recieved from (192.168.0.5:37787)'[ACN]admin,admin'
+[22:16]User requires account details, checking authentication.
+[22:16]Recieved from (192.168.0.5:37787)'[LOD]0'
+[22:16]Load User Request.
+[22:16]Recieved from (192.168.0.5:37787)'[MAP]NeedMapData'
+[22:16]Recieved from (192.168.0.5:37787)'[RDY]'
+[22:16]Spawned a Administrator at 468,284,0
+[22:17]Administrator disconnected from the server. Reason ClientClosing
+[22:18]User Connected (192.168.0.5:37923)
+[22:18]Recieved from (192.168.0.5:37923)'[ACN]admin,admin'
+[22:18]User requires account details, checking authentication.
+[22:18]Recieved from (192.168.0.5:37923)'[LOD]0'
+[22:18]Load User Request.
+[22:18]Recieved from (192.168.0.5:37923)'[MAP]NeedMapData'
+[22:20]Started Server - 0.0.0.0:2480
+[22:20]Loaded Database Handler.
+[22:20]Logger Writing To File [ OK ]
+[22:20]Database: Integrity [ OK ]
+[22:20]Player Loading [ OK ]
+[22:20]Spawned a Sam Gobson at 362,177,0
+[22:20]User Connected (192.168.0.5:38074)
+[22:20]Recieved from (192.168.0.5:38074)'[ACN]admin,admin'
+[22:20]User requires account details, checking authentication.
+[22:20]Recieved from (192.168.0.5:38074)'[LOD]0'
+[22:20]Load User Request.
+[22:20]Recieved from (192.168.0.5:38074)'[MAP]NeedMapData'
+[22:24]Administrator disconnected from the server. Reason ClientClosing
+[22:24]User Connected (192.168.0.5:38403)
+[22:24]Recieved from (192.168.0.5:38403)'[ACN]admin,admin'
+[22:24]User requires account details, checking authentication.
+[22:24]Recieved from (192.168.0.5:38403)'[LOD]0'
+[22:24]Load User Request.
+[22:24]Recieved from (192.168.0.5:38403)'[MAP]NeedMapData'
+[22:24]Recieved from (192.168.0.5:38403)'[RDY]'
+[22:24]Spawned a Administrator at 362,177,0
+[22:25]Administrator disconnected from the server. Reason ClientClosing
+[22:25]User Connected (192.168.0.5:38509)
+[22:25]Recieved from (192.168.0.5:38509)'[ACN]admin,admin'
+[22:25]User requires account details, checking authentication.
+[22:25]Recieved from (192.168.0.5:38509)'[LOD]0'
+[22:25]Load User Request.
+[22:25]Recieved from (192.168.0.5:38509)'[MAP]NeedMapData'
+[22:26]Recieved from (192.168.0.5:38509)'[RDY]'
+[22:26]Spawned a Administrator at 340,282,0
+[22:27]Administrator disconnected from the server. Reason ClientClosing
+[22:27]User Connected (192.168.0.5:38617)
+[22:27]Recieved from (192.168.0.5:38617)'[ACN]admin,admin'
+[22:27]User requires account details, checking authentication.
+[22:27]Recieved from (192.168.0.5:38617)'[LOD]0'
+[22:27]Load User Request.
+[22:27]Recieved from (192.168.0.5:38617)'[MAP]NeedMapData'
+[22:27]Recieved from (192.168.0.5:38617)'[RDY]'
+[22:27]Spawned a Administrator at 368,40,0
+[22:29]Administrator disconnected from the server. Reason ClientClosing
+[22:29]User Connected (192.168.0.5:38773)
+[22:29]Recieved from (192.168.0.5:38773)'[ACN]admin,admin'
+[22:29]User requires account details, checking authentication.
+[22:29]Recieved from (192.168.0.5:38773)'[LOD]0'
+[22:29]Load User Request.
+[22:29]Recieved from (192.168.0.5:38773)'[MAP]NeedMapData'
+[22:29]Recieved from (192.168.0.5:38773)'[RDY]'
+[22:29]Spawned a Administrator at 226,278,0
+[08:49]Started Server - 0.0.0.0:2480
+[08:49]Started Server - 0.0.0.0:2480
+[08:49]Loaded Database Handler.
+[08:49]Started Server - 0.0.0.0:2480
+[08:49]SQL>Creating Table 'accounts' returned 0
+[08:49]SQL>Creating Table 'players' returned 0
+[08:49]SQL>Creating new player 'Administrator' returned 1
+[08:49]SQL>Creating new account 'admin' returned 1
+[08:49]Loaded Database Handler.
+[08:49]Logger Writing To File [ OK ]
+[08:49]Database: Integrity [ OK ]
+[08:49]Player Loading [ OK ]
+[08:49]Spawned a Sam Gobson at 340,186,0
+[08:51]User Connected (127.0.0.1:33935)
+[08:51]Recieved from (127.0.0.1:33935)'[ACN]admin,admin'
+[08:51]User requires account details, checking authentication.
+[08:51]Recieved from (127.0.0.1:33935)'[LOD]0'
+[08:51]Load User Request.
+[08:51]Recieved from (127.0.0.1:33935)'[MAP]NeedMapData'
+[08:51]Recieved from (127.0.0.1:33935)'[RDY]'
+[08:51]Spawned a Administrator at 203,368,0
+[08:54]Administrator disconnected from the server. Reason ClientClosing
+[08:54]User Connected (127.0.0.1:33937)
+[08:54]Recieved from (127.0.0.1:33937)'[ACN]admin,admin'
+[08:54]User requires account details, checking authentication.
+[08:54]Recieved from (127.0.0.1:33937)'[LOD]0'
+[08:54]Load User Request.
+[08:54]Recieved from (127.0.0.1:33937)'[MAP]NeedMapData'
+[08:54]Recieved from (127.0.0.1:33937)'[RDY]'
+[08:54]Spawned a Administrator at 425,286,0
+[08:55]Administrator disconnected from the server. Reason ClientClosing
+[08:55]User Connected (127.0.0.1:33938)
+[08:55]Recieved from (127.0.0.1:33938)'[ACN]admin,admin'
+[08:55]User requires account details, checking authentication.
+[08:55]Recieved from (127.0.0.1:33938)'[LOD]0'
+[08:55]Load User Request.
+[08:55]Recieved from (127.0.0.1:33938)'[MAP]NeedMapData'
+[08:55]Recieved from (127.0.0.1:33938)'[RDY]'
+[08:56]Spawned a Administrator at 366,125,0
+[08:57]Administrator disconnected from the server. Reason ClientClosing
+[08:57]User Connected (127.0.0.1:33945)
+[08:57]Recieved from (127.0.0.1:33945)'[ACN]admin,admin'
+[08:57]User requires account details, checking authentication.
+[08:57]Recieved from (127.0.0.1:33945)'[LOD]0'
+[08:57]Load User Request.
+[08:57]Recieved from (127.0.0.1:33945)'[MAP]NeedMapData'
+[08:57]Recieved from (127.0.0.1:33945)'[RDY]'
+[08:57]Spawned a Administrator at 127,461,0
+[08:59]Administrator disconnected from the server. Reason ClientClosing
+[08:59]User Connected (127.0.0.1:33949)
+[08:59]Recieved from (127.0.0.1:33949)'[ACN]admin,ADMIN'
+[08:59]User requires account details, checking authentication.
+[08:59]User Connected (127.0.0.1:33950)
+[08:59]Recieved from (127.0.0.1:33950)'[ACN]admin,admin'
+[08:59]User requires account details, checking authentication.
+[08:59]Recieved from (127.0.0.1:33950)'[LOD]0'
+[08:59]Load User Request.
+[08:59]Recieved from (127.0.0.1:33950)'[MAP]NeedMapData'
+[08:59]Recieved from (127.0.0.1:33950)'[RDY]'
+[08:59]Spawned a Administrator at 153,292,0
+[09:02]Administrator disconnected from the server. Reason ClientClosing
+[09:02]User Connected (127.0.0.1:33959)
+[09:02]Recieved from (127.0.0.1:33959)'[ACN]admin,admin'
+[09:02]User requires account details, checking authentication.
+[09:02]Recieved from (127.0.0.1:33959)'[LOD]0'
+[09:02]Load User Request.
+[09:02]Recieved from (127.0.0.1:33959)'[MAP]NeedMapData'
+[09:02]Recieved from (127.0.0.1:33959)'[RDY]'
+[09:02]Spawned a Administrator at 203,222,0
+[19:34]Started Server - 0.0.0.0:2480
+[19:34]Loaded Database Handler.
+[19:34]Logger Writing To File [ OK ]
+[19:34]Database: Integrity [ OK ]
+[19:34]Player Loading [ OK ]
+[19:34]Spawned a Sam Gobson at 69,139,0
+[19:34]User Connected (127.0.0.1:53582)
+[19:34]Recieved from (127.0.0.1:53582)'[ACN]admin,admin'
+[19:34]User requires account details, checking authentication.
+[19:34]Recieved from (127.0.0.1:53582)'[LOD]0'
+[19:34]Load User Request.
+[19:34]Recieved from (127.0.0.1:53582)'[MAP]NeedMapData'
+[19:34]Recieved from (127.0.0.1:53582)'[RDY]'
+[19:34]Spawned a Administrator at 278,62,0
+[19:37]Administrator disconnected from the server. Reason ClientClosing
+[19:37]User Connected (127.0.0.1:53596)
+[19:37]Recieved from (127.0.0.1:53596)'[ACN]admin,admin'
+[19:37]User requires account details, checking authentication.
+[19:37]Recieved from (127.0.0.1:53596)'[LOD]0'
+[19:37]Load User Request.
+[19:37]Recieved from (127.0.0.1:53596)'[MAP]NeedMapData'
+[19:38]Administrator disconnected from the server. Reason ClientClosing
+[19:51]User Connected (127.0.0.1:53953)
+[19:51]Recieved from (127.0.0.1:53953)'[ACN]admin,admin'
+[19:51]User requires account details, checking authentication.
+[19:51]Recieved from (127.0.0.1:53953)'[LOD]0'
+[19:51]Load User Request.
+[19:51]Recieved from (127.0.0.1:53953)'[MAP]NeedMapData'
+[19:51]Administrator disconnected from the server. Reason ClientClosing
+[19:51]User Connected (127.0.0.1:53960)
+[19:51]Recieved from (127.0.0.1:53960)'[ACN]admin,admin'
+[19:51]User requires account details, checking authentication.
+[19:51]Recieved from (127.0.0.1:53960)'[LOD]0'
+[19:51]Load User Request.
+[19:51]Recieved from (127.0.0.1:53960)'[MAP]NeedMapData'
+[19:52]Recieved from (127.0.0.1:53960)'[RDY]'
+[19:52]Spawned a Administrator at 330,450,0
+[19:53]Administrator disconnected from the server. Reason ClientClosing
+[19:53]User Connected (127.0.0.1:53975)
+[19:53]Recieved from (127.0.0.1:53975)'[ACN]admin,admin'
+[19:53]User requires account details, checking authentication.
+[19:53]Recieved from (127.0.0.1:53975)'[LOD]0'
+[19:53]Load User Request.
+[19:53]Recieved from (127.0.0.1:53975)'[MAP]NeedMapData'
+[19:53]Recieved from (127.0.0.1:53975)'[RDY]'
+[19:53]Spawned a Administrator at 466,105,0
+[19:57]Administrator disconnected from the server. Reason ClientClosing
+[19:58]User Connected (127.0.0.1:53991)
+[19:58]Recieved from (127.0.0.1:53991)'[ACN]admin,admin'
+[19:58]User requires account details, checking authentication.
+[19:58]Recieved from (127.0.0.1:53991)'[LOD]0'
+[19:58]Load User Request.
+[19:58]Recieved from (127.0.0.1:53991)'[MAP]NeedMapData'
+[19:58]Recieved from (127.0.0.1:53991)'[RDY]'
+[19:58]Spawned a Administrator at 365,178,0
+[20:03]Administrator disconnected from the server. Reason ClientClosing
+[20:04]User Connected (127.0.0.1:53995)
+[20:04]Recieved from (127.0.0.1:53995)'[ACN]admin,admin'
+[20:04]User requires account details, checking authentication.
+[20:04]Recieved from (127.0.0.1:53995)'[LOD]0'
+[20:04]Load User Request.
+[20:04]Recieved from (127.0.0.1:53995)'[MAP]NeedMapData'
+[20:04]Recieved from (127.0.0.1:53995)'[RDY]'
+[20:04]Spawned a Administrator at 393,418,0
+[20:05]Administrator disconnected from the server. Reason ClientClosing
+[20:05]User Connected (127.0.0.1:53996)
+[20:05]Recieved from (127.0.0.1:53996)'[ACN]admin,admin'
+[20:05]User requires account details, checking authentication.
+[20:05]Recieved from (127.0.0.1:53996)'[LOD]0'
+[20:05]Load User Request.
+[20:05]Recieved from (127.0.0.1:53996)'[MAP]NeedMapData'
+[20:05]Recieved from (127.0.0.1:53996)'[RDY]'
+[20:05]Spawned a Administrator at 272,473,0
+[20:07]Administrator disconnected from the server. Reason ClientClosing
+[20:07]User Connected (127.0.0.1:54015)
+[20:07]Recieved from (127.0.0.1:54015)'[ACN]admin,admin'
+[20:07]User requires account details, checking authentication.
+[20:07]Recieved from (127.0.0.1:54015)'[LOD]0'
+[20:07]Load User Request.
+[20:07]Recieved from (127.0.0.1:54015)'[MAP]NeedMapData'
+[20:07]Recieved from (127.0.0.1:54015)'[RDY]'
+[20:07]Spawned a Administrator at 37,244,0
+[20:08]Administrator disconnected from the server. Reason ClientClosing
+[20:08]User Connected (127.0.0.1:54017)
+[20:08]Recieved from (127.0.0.1:54017)'[ACN]admin,admin'
+[20:08]User requires account details, checking authentication.
+[20:08]Recieved from (127.0.0.1:54017)'[LOD]0'
+[20:08]Load User Request.
+[20:08]Recieved from (127.0.0.1:54017)'[MAP]NeedMapData'
+[20:08]Recieved from (127.0.0.1:54017)'[RDY]'
+[20:08]Spawned a Administrator at 240,440,0
+[20:11]Administrator disconnected from the server. Reason ClientClosing
+[20:11]User Connected (127.0.0.1:54025)
+[20:11]Recieved from (127.0.0.1:54025)'[ACN]admin,admin'
+[20:11]User requires account details, checking authentication.
+[20:11]Recieved from (127.0.0.1:54025)'[LOD]0'
+[20:11]Load User Request.
+[20:11]Recieved from (127.0.0.1:54025)'[MAP]NeedMapData'
+[20:11]Recieved from (127.0.0.1:54025)'[RDY]'
+[20:11]Spawned a Administrator at 261,453,0
+[20:12]Administrator disconnected from the server. Reason ClientClosing
+[20:12]User Connected (127.0.0.1:54029)
+[20:12]Recieved from (127.0.0.1:54029)'[ACN]admin,admin'
+[20:12]User requires account details, checking authentication.
+[20:12]Recieved from (127.0.0.1:54029)'[LOD]0'
+[20:12]Load User Request.
+[20:12]Recieved from (127.0.0.1:54029)'[MAP]NeedMapData'
+[20:12]Recieved from (127.0.0.1:54029)'[RDY]'
+[20:12]Spawned a Administrator at 121,354,0
+[20:13]Administrator disconnected from the server. Reason ClientClosing
+[20:13]User Connected (127.0.0.1:54033)
+[20:13]Recieved from (127.0.0.1:54033)'[ACN]admin,admin'
+[20:13]User requires account details, checking authentication.
+[20:13]Recieved from (127.0.0.1:54033)'[LOD]0'
+[20:13]Load User Request.
+[20:13]Recieved from (127.0.0.1:54033)'[MAP]NeedMapData'
+[20:13]Recieved from (127.0.0.1:54033)'[RDY]'
+[20:13]Spawned a Administrator at 350,286,0
+[20:14]Administrator disconnected from the server. Reason ClientClosing
+[20:14]User Connected (127.0.0.1:54036)
+[20:14]Recieved from (127.0.0.1:54036)'[ACN]admin,admin'
+[20:14]User requires account details, checking authentication.
+[20:14]Recieved from (127.0.0.1:54036)'[LOD]0'
+[20:14]Load User Request.
+[20:14]Recieved from (127.0.0.1:54036)'[MAP]NeedMapData'
+[20:14]Recieved from (127.0.0.1:54036)'[RDY]'
+[20:14]Spawned a Administrator at 42,284,0
+[20:15]Administrator disconnected from the server. Reason ClientClosing
+[20:15]User Connected (127.0.0.1:54037)
+[20:15]Recieved from (127.0.0.1:54037)'[ACN]admin,admin'
+[20:15]User requires account details, checking authentication.
+[20:15]Recieved from (127.0.0.1:54037)'[LOD]0'
+[20:15]Load User Request.
+[20:15]Recieved from (127.0.0.1:54037)'[MAP]NeedMapData'
+[20:15]Recieved from (127.0.0.1:54037)'[RDY]'
+[20:15]Spawned a Administrator at 42,284,0
+[20:17]Administrator disconnected from the server. Reason ClientClosing
+[20:18]User Connected (127.0.0.1:54044)
+[20:18]Recieved from (127.0.0.1:54044)'[ACN]admin,admin'
+[20:18]User requires account details, checking authentication.
+[20:18]Recieved from (127.0.0.1:54044)'[LOD]0'
+[20:18]Load User Request.
+[20:18]Recieved from (127.0.0.1:54044)'[MAP]NeedMapData'
+[20:18]Recieved from (127.0.0.1:54044)'[RDY]'
+[20:18]Spawned a Administrator at 279,33,0
+[20:19]Administrator disconnected from the server. Reason ClientClosing
+[20:19]User Connected (127.0.0.1:54047)
+[20:19]Recieved from (127.0.0.1:54047)'[ACN]admin,admin'
+[20:19]User requires account details, checking authentication.
+[20:19]Recieved from (127.0.0.1:54047)'[LOD]0'
+[20:19]Load User Request.
+[20:19]Recieved from (127.0.0.1:54047)'[MAP]NeedMapData'
+[20:19]Recieved from (127.0.0.1:54047)'[RDY]'
+[20:19]Spawned a Administrator at 251,479,0
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]fd'
+[20:26]Command recieved : fd
+[20:26]Player Command Unrecognised
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]move left'
+[20:26]Command recieved : move left
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]move right'
+[20:26]Command recieved : move right
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]move left'
+[20:26]Command recieved : move left
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]move left'
+[20:26]Command recieved : move left
+[20:26]Recieved from (127.0.0.1:54047)'[CMD]move left'
+[20:26]Command recieved : move left
+[20:26]Administrator disconnected from the server. Reason ClientClosing
+[20:26]User Connected (127.0.0.1:54087)
+[20:26]Recieved from (127.0.0.1:54087)'[ACN]admin,admin'
+[20:26]User requires account details, checking authentication.
+[20:26]Recieved from (127.0.0.1:54087)'[LOD]0'
+[20:26]Load User Request.
+[20:26]Recieved from (127.0.0.1:54087)'[MAP]NeedMapData'
+[20:26]Recieved from (127.0.0.1:54087)'[RDY]'
+[20:26]Spawned a Administrator at 380,208,0
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:27]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:27]Command recieved : move left
+[20:28]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:28]Command recieved : move left
+[20:28]Recieved from (127.0.0.1:54087)'[CMD]move left'
+[20:28]Command recieved : move left
+[20:28]Recieved from (127.0.0.1:54087)'[CMD]move right'
+[20:28]Command recieved : move right
+[20:28]Recieved from (127.0.0.1:54087)'[CMD]move up'
+[20:28]Command recieved : move up
+[20:28]Recieved from (127.0.0.1:54087)'[CMD]move down'
+[20:28]Command recieved : move down
+[20:28]Administrator disconnected from the server. Reason ClientClosing
+[20:30]User Connected (127.0.0.1:54091)
+[20:30]Recieved from (127.0.0.1:54091)'[ACN]admin,admin'
+[20:30]User requires account details, checking authentication.
+[20:30]Recieved from (127.0.0.1:54091)'[LOD]0'
+[20:30]Load User Request.
+[20:30]Recieved from (127.0.0.1:54091)'[MAP]NeedMapData'
+[20:30]Recieved from (127.0.0.1:54091)'[RDY]'
+[20:30]Spawned a Administrator at 147,311,0
+[20:30]Recieved from (127.0.0.1:54091)'[CMD]move up'
+[20:30]Command recieved : move up
+[20:30]Recieved from (127.0.0.1:54091)'[CMD]move up'
+[20:30]Command recieved : move up
+[20:33]Administrator disconnected from the server. Reason ClientClosing
+[20:33]User Connected (127.0.0.1:54174)
+[20:33]Recieved from (127.0.0.1:54174)'[ACN]admin,admin'
+[20:33]User requires account details, checking authentication.
+[20:33]Recieved from (127.0.0.1:54174)'[LOD]0'
+[20:33]Load User Request.
+[20:33]Recieved from (127.0.0.1:54174)'[MAP]NeedMapData'
+[20:33]Recieved from (127.0.0.1:54174)'[RDY]'
+[20:33]Spawned a Administrator at 74,120,0
+[20:34]Administrator disconnected from the server. Reason ClientClosing
+[20:34]User Connected (127.0.0.1:54178)
+[20:34]Recieved from (127.0.0.1:54178)'[ACN]admin,admin'
+[20:34]User requires account details, checking authentication.
+[20:34]Recieved from (127.0.0.1:54178)'[LOD]0'
+[20:34]Load User Request.
+[20:34]Recieved from (127.0.0.1:54178)'[MAP]NeedMapData'
+[20:34]Recieved from (127.0.0.1:54178)'[RDY]'
+[20:34]Spawned a Administrator at 431,127,0
+[20:37]Administrator disconnected from the server. Reason ClientClosing
+[20:37]User Connected (127.0.0.1:54182)
+[20:37]Recieved from (127.0.0.1:54182)'[ACN]admin,admin'
+[20:37]User requires account details, checking authentication.
+[20:37]Recieved from (127.0.0.1:54182)'[LOD]0'
+[20:37]Load User Request.
+[20:37]Recieved from (127.0.0.1:54182)'[MAP]NeedMapData'
+[20:37]Recieved from (127.0.0.1:54182)'[RDY]'
+[20:37]Spawned a Administrator at 235,410,0
+[20:39]Administrator disconnected from the server. Reason ClientClosing
+[20:39]User Connected (127.0.0.1:54216)
+[20:39]Recieved from (127.0.0.1:54216)'[ACN]admin,admin'
+[20:39]User requires account details, checking authentication.
+[20:39]Recieved from (127.0.0.1:54216)'[LOD]0'
+[20:39]Load User Request.
+[20:39]Recieved from (127.0.0.1:54216)'[MAP]NeedMapData'
+[20:39]Recieved from (127.0.0.1:54216)'[RDY]'
+[20:39]Spawned a Administrator at 288,323,0
+[20:40]Recieved from (127.0.0.1:54216)'[CMD]move left'
+[20:40]Command recieved : move left
+[20:44]Administrator disconnected from the server. Reason ClientClosing
+[20:44]User Connected (127.0.0.1:54234)
+[20:44]Recieved from (127.0.0.1:54234)'[ACN]admin,admin'
+[20:44]User requires account details, checking authentication.
+[20:44]Recieved from (127.0.0.1:54234)'[LOD]0'
+[20:44]Load User Request.
+[20:44]Recieved from (127.0.0.1:54234)'[MAP]NeedMapData'
+[20:44]Recieved from (127.0.0.1:54234)'[RDY]'
+[20:44]Spawned a Administrator at 155,483,0
+[20:44]Recieved from (127.0.0.1:54234)'[CMD]move left'
+[20:44]Command recieved : move left
+[20:45]Administrator disconnected from the server. Reason ClientClosing
+[21:34]User Connected (127.0.0.1:54360)
+[21:34]Recieved from (127.0.0.1:54360)'[ACN]admin,admin'
+[21:34]User requires account details, checking authentication.
+[21:34]Recieved from (127.0.0.1:54360)'[LOD]0'
+[21:34]Load User Request.
+[21:34]Recieved from (127.0.0.1:54360)'[MAP]NeedMapData'
+[21:34]Recieved from (127.0.0.1:54360)'[RDY]'
+[21:34]Spawned a Administrator at 95,336,0
+[21:35]Administrator disconnected from the server. Reason ClientClosing
+[21:35]User Connected (127.0.0.1:54362)
+[21:35]Recieved from (127.0.0.1:54362)'[ACN]admin,admin'
+[21:35]User requires account details, checking authentication.
+[21:35]Recieved from (127.0.0.1:54362)'[LOD]0'
+[21:35]Load User Request.
+[21:35]Recieved from (127.0.0.1:54362)'[MAP]NeedMapData'
+[21:35]Recieved from (127.0.0.1:54362)'[RDY]'
+[21:35]Spawned a Administrator at 74,120,0
+[21:37]User Connected (127.0.0.1:54404)
+[21:37]Recieved from (127.0.0.1:54404)'[ACN]admin,admin'
+[21:37]User requires account details, checking authentication.
+[21:37]Recieved from (127.0.0.1:54404)'[LOD]0'
+[21:37]Load User Request.
+[21:37]Recieved from (127.0.0.1:54404)'[MAP]NeedMapData'
+[21:37]Recieved from (127.0.0.1:54404)'[RDY]'
+[21:37]Spawned a Administrator at 121,354,0
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:37]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:37]Command recieved : move up
+[21:38]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:38]Command recieved : move up
+[21:38]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:38]Command recieved : move up
+[21:38]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:38]Command recieved : move up
+[21:38]Recieved from (127.0.0.1:54404)'[CMD]move up'
+[21:38]Command recieved : move up
+[21:39]Administrator disconnected from the server. Reason ClientClosing
+[21:39]User Connected (127.0.0.1:54413)
+[21:39]Recieved from (127.0.0.1:54413)'[ACN]admin,admin'
+[21:39]User requires account details, checking authentication.
+[21:39]Recieved from (127.0.0.1:54413)'[LOD]0'
+[21:39]Load User Request.
+[21:39]Recieved from (127.0.0.1:54413)'[MAP]NeedMapData'
+[21:39]Recieved from (127.0.0.1:54413)'[RDY]'
+[21:39]Spawned a Administrator at 142,219,0
+[21:41]Administrator disconnected from the server. Reason ClientClosing
+[21:41]User Connected (127.0.0.1:54415)
+[21:41]Recieved from (127.0.0.1:54415)'[ACN]admin,admin'
+[21:41]User requires account details, checking authentication.
+[21:41]Recieved from (127.0.0.1:54415)'[LOD]0'
+[21:41]Load User Request.
+[21:41]Recieved from (127.0.0.1:54415)'[MAP]NeedMapData'
+[21:42]Closing Server : From Console
+[21:42]Administrator disconnected from the server. Reason ServerShutdown
+[21:42]Administrator disconnected from the server. Reason ServerShutdown
+[21:42]Started Server - 0.0.0.0:2480
+[21:42]Loaded Database Handler.
+[21:42]Logger Writing To File [ OK ]
+[21:42]Database: Integrity [ OK ]
+[21:42]Player Loading [ OK ]
+[21:42]Spawned a Sam Gobson at 449,291,0
+[21:42]User Connected (127.0.0.1:54418)
+[21:42]Recieved from (127.0.0.1:54418)'[ACN]admin,admin'
+[21:42]User requires account details, checking authentication.
+[21:42]Recieved from (127.0.0.1:54418)'[LOD]0'
+[21:42]Load User Request.
+[21:42]Recieved from (127.0.0.1:54418)'[MAP]NeedMapData'
+[21:42]Administrator disconnected from the server. Reason ClientClosing
+[21:42]User Connected (127.0.0.1:54421)
+[21:42]Recieved from (127.0.0.1:54421)'[ACN]admin,admin'
+[21:42]User requires account details, checking authentication.
+[21:42]Recieved from (127.0.0.1:54421)'[LOD]0'
+[21:42]Load User Request.
+[21:42]Recieved from (127.0.0.1:54421)'[MAP]NeedMapData'
+[21:42]Recieved from (127.0.0.1:54421)'[RDY]'
+[21:42]Spawned a Administrator at 105,140,0
+[21:43]Administrator disconnected from the server. Reason ClientClosing
+[21:43]User Connected (127.0.0.1:54422)
+[21:43]Recieved from (127.0.0.1:54422)'[ACN]admin,admin'
+[21:43]User requires account details, checking authentication.
+[21:43]Recieved from (127.0.0.1:54422)'[LOD]0'
+[21:43]Load User Request.
+[21:43]Recieved from (127.0.0.1:54422)'[MAP]NeedMapData'
+[21:43]Recieved from (127.0.0.1:54422)'[RDY]'
+[21:43]Spawned a Administrator at 289,183,0
+[21:44]Administrator disconnected from the server. Reason ClientClosing
+[21:44]User Connected (127.0.0.1:54423)
+[21:44]Recieved from (127.0.0.1:54423)'[ACN]admin,admin'
+[21:44]User requires account details, checking authentication.
+[21:44]Recieved from (127.0.0.1:54423)'[LOD]0'
+[21:44]Load User Request.
+[21:44]Recieved from (127.0.0.1:54423)'[MAP]NeedMapData'
+[21:45]Administrator disconnected from the server. Reason ClientClosing
+[21:45]User Connected (127.0.0.1:54426)
+[21:45]Recieved from (127.0.0.1:54426)'[ACN]admin,admin'
+[21:45]User requires account details, checking authentication.
+[21:45]Recieved from (127.0.0.1:54426)'[LOD]0'
+[21:45]Load User Request.
+[21:45]Recieved from (127.0.0.1:54426)'[MAP]NeedMapData'
+[21:45]Administrator disconnected from the server. Reason ClientClosing
+[21:45]User Connected (127.0.0.1:54427)
+[21:45]Recieved from (127.0.0.1:54427)'[ACN]admin,admin'
+[21:45]User requires account details, checking authentication.
+[21:45]Recieved from (127.0.0.1:54427)'[LOD]0'
+[21:45]Load User Request.
+[21:45]Recieved from (127.0.0.1:54427)'[MAP]NeedMapData'
+[21:46]Administrator disconnected from the server. Reason ClientClosing
+[21:46]User Connected (127.0.0.1:54428)
+[21:46]Recieved from (127.0.0.1:54428)'[ACN]admin,admin'
+[21:46]User requires account details, checking authentication.
+[21:46]Recieved from (127.0.0.1:54428)'[LOD]0'
+[21:46]Load User Request.
+[21:46]Recieved from (127.0.0.1:54428)'[MAP]NeedMapData'
+[21:52]Administrator disconnected from the server. Reason ClientClosing
+[21:52]User Connected (127.0.0.1:54484)
+[21:52]Recieved from (127.0.0.1:54484)'[ACN]admin,admin'
+[21:52]User requires account details, checking authentication.
+[21:52]Recieved from (127.0.0.1:54484)'[LOD]0'
+[21:52]Load User Request.
+[21:52]Recieved from (127.0.0.1:54484)'[MAP]NeedMapData'
+[21:53]Administrator disconnected from the server. Reason ClientClosing
+[21:53]User Connected (127.0.0.1:54486)
+[21:53]Recieved from (127.0.0.1:54486)'[ACN]admin,admin'
+[21:53]User requires account details, checking authentication.
+[21:53]Recieved from (127.0.0.1:54486)'[LOD]0'
+[21:53]Load User Request.
+[21:53]Recieved from (127.0.0.1:54486)'[MAP]NeedMapData'
+[21:53]Closing Server : From Console
+[21:53]Administrator disconnected from the server. Reason ServerShutdown
+[21:53]Started Server - 0.0.0.0:2480
+[21:53]Loaded Database Handler.
+[21:53]Logger Writing To File [ OK ]
+[21:53]Database: Integrity [ OK ]
+[21:53]Player Loading [ OK ]
+[21:53]Spawned a Sam Gobson at 370,297,0
+[21:53]User Connected (127.0.0.1:54487)
+[21:53]Recieved from (127.0.0.1:54487)'[ACN]admin,admin'
+[21:53]User requires account details, checking authentication.
+[21:53]Recieved from (127.0.0.1:54487)'[LOD]0'
+[21:53]Load User Request.
+[21:53]Recieved from (127.0.0.1:54487)'[MAP]NeedMapData'
+[21:53]Recieved from (127.0.0.1:54487)'[RDY]'
+[21:53]Spawned a Administrator at 62,141,0
+[21:54]Administrator disconnected from the server. Reason ClientClosing
+[21:54]User Connected (127.0.0.1:54491)
+[21:54]Recieved from (127.0.0.1:54491)'[ACN]admin,admin'
+[21:54]User requires account details, checking authentication.
+[21:54]Recieved from (127.0.0.1:54491)'[LOD]0'
+[21:54]Load User Request.
+[21:54]Recieved from (127.0.0.1:54491)'[MAP]NeedMapData'
+[21:54]Recieved from (127.0.0.1:54491)'[RDY]'
+[21:54]Spawned a Administrator at 344,312,0
+[21:55]Administrator disconnected from the server. Reason ClientClosing
+[21:55]User Connected (127.0.0.1:54492)
+[21:55]Recieved from (127.0.0.1:54492)'[ACN]admin,admin'
+[21:55]User requires account details, checking authentication.
+[21:55]Recieved from (127.0.0.1:54492)'[LOD]0'
+[21:55]Load User Request.
+[21:55]Recieved from (127.0.0.1:54492)'[MAP]NeedMapData'
+[21:55]Recieved from (127.0.0.1:54492)'[RDY]'
+[21:55]Spawned a Administrator at 55,215,0
+[21:56]Administrator disconnected from the server. Reason ClientClosing
+[21:56]User Connected (127.0.0.1:54493)
+[21:56]Recieved from (127.0.0.1:54493)'[ACN]admin,admin'
+[21:56]User requires account details, checking authentication.
+[21:56]Recieved from (127.0.0.1:54493)'[LOD]0'
+[21:56]Load User Request.
+[21:56]Recieved from (127.0.0.1:54493)'[MAP]NeedMapData'
+[21:57]Recieved from (127.0.0.1:54493)'[RDY]'
+[21:57]Spawned a Administrator at 361,166,0
+[21:57]Administrator disconnected from the server. Reason ClientClosing
+[21:57]User Connected (127.0.0.1:54494)
+[21:57]Recieved from (127.0.0.1:54494)'[ACN]admin,admin'
+[21:57]User requires account details, checking authentication.
+[21:57]Recieved from (127.0.0.1:54494)'[LOD]0'
+[21:57]Load User Request.
+[21:57]Recieved from (127.0.0.1:54494)'[MAP]NeedMapData'
+[21:57]Recieved from (127.0.0.1:54494)'[RDY]'
+[21:57]Spawned a Administrator at 449,260,0
+[21:57]Administrator disconnected from the server. Reason ClientClosing
+[21:57]User Connected (127.0.0.1:54495)
+[21:57]Recieved from (127.0.0.1:54495)'[ACN]admin,admin'
+[21:57]User requires account details, checking authentication.
+[21:57]Recieved from (127.0.0.1:54495)'[LOD]0'
+[21:57]Load User Request.
+[21:57]Recieved from (127.0.0.1:54495)'[MAP]NeedMapData'
+[21:58]Recieved from (127.0.0.1:54495)'[RDY]'
+[21:58]Spawned a Administrator at 332,183,0
+[21:58]Administrator disconnected from the server. Reason ClientClosing
+[21:58]User Connected (127.0.0.1:54510)
+[21:58]Recieved from (127.0.0.1:54510)'[ACN]admin,admin'
+[21:58]User requires account details, checking authentication.
+[21:58]Recieved from (127.0.0.1:54510)'[LOD]0'
+[21:58]Load User Request.
+[21:58]Recieved from (127.0.0.1:54510)'[MAP]NeedMapData'
+[21:58]Recieved from (127.0.0.1:54510)'[RDY]'
+[21:58]Spawned a Administrator at 134,267,0
+[21:59]Recieved from (127.0.0.1:54510)'[CMD]move up'
+[21:59]Command recieved : move up
+[22:00]Administrator disconnected from the server. Reason ClientClosing
+[22:00]User Connected (127.0.0.1:54515)
+[22:00]Recieved from (127.0.0.1:54515)'[ACN]admin,admin'
+[22:00]User requires account details, checking authentication.
+[22:00]Recieved from (127.0.0.1:54515)'[LOD]0'
+[22:00]Load User Request.
+[22:00]Recieved from (127.0.0.1:54515)'[MAP]NeedMapData'
+[22:00]Recieved from (127.0.0.1:54515)'[RDY]'
+[22:00]Spawned a Administrator at 279,468,0
+[22:01]Administrator disconnected from the server. Reason ClientClosing
+[22:01]User Connected (127.0.0.1:54524)
+[22:01]Recieved from (127.0.0.1:54524)'[ACN]admin,admin'
+[22:01]User requires account details, checking authentication.
+[22:01]Recieved from (127.0.0.1:54524)'[LOD]0'
+[22:01]Load User Request.
+[22:01]Recieved from (127.0.0.1:54524)'[MAP]NeedMapData'
+[22:01]Recieved from (127.0.0.1:54524)'[RDY]'
+[22:01]Spawned a Administrator at 371,336,0
+[22:02]Administrator disconnected from the server. Reason ClientClosing
+[22:02]User Connected (127.0.0.1:54527)
+[22:02]Recieved from (127.0.0.1:54527)'[ACN]admin,admin'
+[22:02]User requires account details, checking authentication.
+[22:02]Recieved from (127.0.0.1:54527)'[LOD]0'
+[22:02]Load User Request.
+[22:02]Recieved from (127.0.0.1:54527)'[MAP]NeedMapData'
+[22:02]Recieved from (127.0.0.1:54527)'[RDY]'
+[22:02]Spawned a Administrator at 343,188,0
+[22:03]Administrator disconnected from the server. Reason ClientClosing
+[22:03]User Connected (127.0.0.1:54538)
+[22:03]Recieved from (127.0.0.1:54538)'[ACN]admin,admin'
+[22:03]User requires account details, checking authentication.
+[22:03]Recieved from (127.0.0.1:54538)'[LOD]0'
+[22:03]Load User Request.
+[22:03]Recieved from (127.0.0.1:54538)'[MAP]NeedMapData'
+[22:03]Recieved from (127.0.0.1:54538)'[RDY]'
+[22:03]Spawned a Administrator at 63,264,0
+[22:04]Administrator disconnected from the server. Reason ClientClosing
+[22:04]User Connected (127.0.0.1:54542)
+[22:04]Recieved from (127.0.0.1:54542)'[ACN]admin,admin'
+[22:04]User requires account details, checking authentication.
+[22:04]Recieved from (127.0.0.1:54542)'[LOD]0'
+[22:04]Load User Request.
+[22:04]Recieved from (127.0.0.1:54542)'[MAP]NeedMapData'
+[22:04]Recieved from (127.0.0.1:54542)'[RDY]'
+[22:04]Spawned a Administrator at 452,132,0
+[22:04]Recieved from (127.0.0.1:54542)'[CMD]move right'
+[22:04]Command recieved : move right
+[22:04]Recieved from (127.0.0.1:54542)'[CMD]move right'
+[22:04]Command recieved : move right
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move right'
+[22:05]Command recieved : move right
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move right'
+[22:05]Command recieved : move right
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move up'
+[22:05]Command recieved : move up
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move up'
+[22:05]Command recieved : move up
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move up'
+[22:05]Command recieved : move up
+[22:05]Recieved from (127.0.0.1:54542)'[CMD]move up'
+[22:05]Command recieved : move up
+[22:06]Administrator disconnected from the server. Reason ClientClosing
+[22:09]User Connected (127.0.0.1:54650)
+[22:09]Recieved from (127.0.0.1:54650)'[ACN]admin,admin'
+[22:09]User requires account details, checking authentication.
+[22:09]Recieved from (127.0.0.1:54650)'[LOD]0'
+[22:09]Load User Request.
+[22:09]Recieved from (127.0.0.1:54650)'[MAP]NeedMapData'
+[22:09]Administrator disconnected from the server. Reason ClientClosing
+[22:09]User Connected (127.0.0.1:54663)
+[22:09]Recieved from (127.0.0.1:54663)'[ACN]admin,admi '
+[22:09]User requires account details, checking authentication.

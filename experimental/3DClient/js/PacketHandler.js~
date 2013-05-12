@@ -25,7 +25,7 @@ function DefinePacket(msg)
 		//Message from someone broadcasted
 		case "UPP":
 			playerData = arguments;
-			//LogToGameConsole(rest);
+			LogToGameConsole(rest);
 			Update();
 			break;
 		case "SAY":

@@ -381,16 +381,17 @@ namespace GMUDServer
 		{
 			ents.AddRange(entstoadd);
 
-			foreach (Entity ent in entstoremove) {
-				Ents.Remove(ent);
+			for (int i = 0; i < entstoremove.Count(); i++) {
+				ents.Remove(entstoremove[i]);
 			}
+
 			entstoadd.Clear();
 			entstoremove.Clear();
 
 			for (int i = 0; i < ents.Count(); i++) {
 				if(Ents[i].Spawned){
-				Ents[i].Update();
-				Ents[i].RunAI();
+					Ents[i].Update();
+					Ents[i].RunAI();
 				}
 				else if(Ents[i].waitingToSpawn)
 				{
@@ -411,7 +412,8 @@ namespace GMUDServer
 		public Entity[] Scan(Entity input, int distance = 25)
 		{
 			List<Entity> found = new List<Entity>();
-			foreach (Entity ent in Ents) {
+			for (int i = 0; i < ents.Count(); i++) {
+				Entity ent = ents[i];
 				if(ent == input)
 					continue;
 				if(Distance(input,ent) < 25)
@@ -427,7 +429,8 @@ namespace GMUDServer
 		{
 			Entity[] ents = Ents.ToArray();
 			List<Player> plrs = new List<Player>();
-			foreach (Entity ent in ents) {
+			for (int i = 0; i < ents.Count(); i++) {
+				Entity ent = ents[i];
 				if(ent.GetType() == typeof(Player))
 					plrs.Add((Player)ent);
 			}

@@ -17,6 +17,9 @@ var walldepth = 20;
 
 var textures = new Array();
 var hasLoaded = false;
+
+var walls = new Array();
+var tiles = new Array();
 function ResourceLoad()
 {
 	var monitor = new THREE.LoadingMonitor();
@@ -61,6 +64,7 @@ function CreateFloorTile(x,y,z)
 	tile.rotation.x = 0;
 	tile.overdraw = true;
 	// add the sphere to the scene
+	tiles.push(tile);
 	scene.add(tile);
 }
 
@@ -94,6 +98,7 @@ switch(direction){
 
 wall.position.z += (z * wallheight / 2) + (wallheight / 2);
 scene.add(wall);
+walls.push(walls);
 }
 
 function CreateLight(x,y,z,colour)
@@ -114,8 +119,8 @@ function CreateLight(x,y,z,colour)
 function GameInit()
 {
 	// set the scene size
-	var WIDTH = 800,
-	    HEIGHT = 600;
+	var WIDTH = 1366,
+	    HEIGHT = 768;
 
 	// set some camera attributes
 	var VIEW_ANGLE = 45,
@@ -179,6 +184,17 @@ function GameInit()
 
 function CreateFromMapData(mapdata)
 {
+	//Clear map
+	for(var i=0;i<tiles.length;i++) //Clear Tiles
+	{
+		scene.removeObject(tiles[i]);
+	}	
+	
+	for(var i=0;i<walls.length;i++) //Clear Tiles
+	{
+		scene.removeObject(walls[i]);
+	}	
+
 	for (var y=0;y<mapdata.length;y++)
 	{
 		for (var x=0;x<mapdata[y].length;x++)

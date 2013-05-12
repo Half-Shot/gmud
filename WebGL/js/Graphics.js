@@ -17,6 +17,9 @@ var walldepth = 20;
 
 var textures = new Array();
 var hasLoaded = false;
+
+var walls = new Array();
+var tiles = new Array();
 function ResourceLoad()
 {
 	var monitor = new THREE.LoadingMonitor();
@@ -61,6 +64,7 @@ function CreateFloorTile(x,y,z)
 	tile.rotation.x = 0;
 	tile.overdraw = true;
 	// add the sphere to the scene
+	tiles.push(tile);
 	scene.add(tile);
 }
 
@@ -94,6 +98,7 @@ switch(direction){
 
 wall.position.z += (z * wallheight / 2) + (wallheight / 2);
 scene.add(wall);
+walls.push(walls);
 }
 
 function CreateLight(x,y,z,colour)
@@ -141,35 +146,8 @@ function GameInit()
 	// start the renderer
 	renderer.setSize(WIDTH, HEIGHT);
 
-	// attach the render-supplied DOM element
 	container.append(renderer.domElement);
-	//CreateFloorTile(0,0,0);
-	//CreateFloorTile(1,0,0);
-	//CreateFloorTile(0,1,0);
-	//CreateFloorTile(1,1,0);
-	//CreateFloorTile(2,0,0);
-	//CreateFloorTile(3,0,0);
-	//CreateWall(0,0,0,'left');
-	//CreateWall(0,1,0,'left');
-	//CreateWall(3,0,0,'right');
-	//CreateWall(0,0,0,'bottom');
-	//CreateWall(1,0,0,'bottom');
-	//CreateWall(2,0,0,'bottom');
-	//CreateWall(3,0,0,'bottom');
-	//CreateWall(0,1,0,'top');
-	//CreateWall(1,1,0,'top');
-	//CreateWall(2,0,0,'top');
-	//CreateWall(3,0,0,'top');
-	//CreateWall(1,1,0,'right');
-	// add subtle blue ambient lighting
-	//CreateLight(50,50,200,'#FBB117');
-	var mapdata = new Array();
-	mapdata.push("########");
-	mapdata.push("#......#");
-	mapdata.push("#......#");
-	mapdata.push("#......#");
-	mapdata.push("########");
-	CreateFromMapData(mapdata)
+
         var ambientLight = new THREE.AmbientLight('#FBB117');
         scene.add(ambientLight);CreateFromMapData(mapdata)
 
@@ -179,6 +157,17 @@ function GameInit()
 
 function CreateFromMapData(mapdata)
 {
+	//Clear map
+	for(var i=0;i<tiles.length;i++) //Clear Tiles
+	{
+		scene.removeObject(tiles[i]);
+	}	
+	
+	for(var i=0;i<walls.length;i++) //Clear Tiles
+	{
+		scene.removeObject(walls[i]);
+	}	
+
 	for (var y=0;y<mapdata.length;y++)
 	{
 		for (var x=0;x<mapdata[y].length;x++)
