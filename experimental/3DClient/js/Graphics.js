@@ -54,6 +54,7 @@ function CreateFloorTile(x,y,z)
 	tile.position.y = y * tileheight;
 	tile.position.z = z * wallheight;
 	tile.rotation.x = 0;
+	tile.rotation.z = 3.14159265;
 	tile.overdraw = true;
 	// add the sphere to the scene
 	mapobjects.push(tile);
@@ -167,9 +168,8 @@ function GameInit()
 
 	// attach the render-supplied DOM element
 	container.append(renderer.domElement);
-    	var ambientLight = new THREE.AmbientLight('#FBB117');
+    	var ambientLight = new THREE.AmbientLight('#333300');
     	scene.add(ambientLight);
-	CreateLight(0,0,0,'#FBB117');
 }
 
 function CreateFromMapData(mapdata)
@@ -177,7 +177,7 @@ function CreateFromMapData(mapdata)
 	//Clear map
 	for(var i=0;i<mapobjects.length;i++) //Clear World
 	{
-		scene.removeObject(mapobjects[i]);
+		scene.remove(mapobjects[i]);
 	}	
 
 	var renderseg_x;
@@ -213,6 +213,9 @@ function CreateFromMapData(mapdata)
 					if(Walls.charAt(3) == '1')
 						CreateWall(renderseg_x,renderseg_y,0,'bottom');						
 					break;
+				case "l":
+					CreateFloorTile(renderseg_x,renderseg_y,0);
+					CreateLight(renderseg_x * tilewidth,renderseg_y * tileheight,200,'#FFFFFF');
 			}
 			renderseg_x++;
 		}	

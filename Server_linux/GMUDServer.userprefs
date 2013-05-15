@@ -1,19 +1,23 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GMUDServer/Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GMUDServer/Map/Map.cs">
     <Files>
-      <File FileName="GMUDServer/Game.cs" Line="387" Column="22" />
-      <File FileName="GMUDServer/Program.cs" Line="81" Column="3" />
+      <File FileName="GMUDServer/Program.cs" Line="1" Column="14" />
       <File FileName="GMUDServer/PacketTypes.txt" Line="4" Column="1" />
       <File FileName="GMUDServer/PacketHandler.cs" Line="123" Column="1" />
       <File FileName="GMUDServer/DatabaseHandler.cs" Line="152" Column="34" />
-      <File FileName="GMUDServer/MainServer.cs" Line="184" Column="8" />
+      <File FileName="GMUDServer/MainServer.cs" Line="47" Column="18" />
+      <File FileName="GMUDServer/Game.cs" Line="328" Column="1" />
+      <File FileName="GMUDServer/Map/Map.cs" Line="130" Column="25" />
+      <File FileName="GMUDServer/Consts.cs" Line="9" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="GMUDServer" expanded="True">
-            <Node name="Game.cs" selected="True" />
+            <Node name="Map" expanded="True">
+              <Node name="Map.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,7 +26,12 @@
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>mapdata</Value>
+          <Value>Program</Value>
+          <Value>rooms</Value>
+          <Value>r</Value>
+          <Value>maxx - minx</Value>
+          <Value>maxy - miny</Value>
+          <Value>(maxx - minx) &lt; Consts.MAX_TUNNEL_DIST &amp;&amp; (maxy - miny) &lt; Consts.MAX_TUNNEL_DIST</Value>
         </State>
       </Pad>
     </Pads>
@@ -49,4 +58,5 @@
     <Watch file="Alchemy-Websockets/src/Alchemy/Handlers/WebSocket/rfc6455/DataFrame.cs" line="102" offsetX="275" offsetY="1092" expression="someBytes" liveUpdate="False" />
     <Watch file="Alchemy-Websockets/src/Alchemy/Classes/UserContext.cs" line="172" offsetX="533" offsetY="1465" expression="Context.Connection" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <AuthorInfo Name="Will Hunt" Email="half-shot@molrams.com" Copyright="SharpenedStudios 2013" Company="Sharpened Studios" Trademark="" />
 </Properties>

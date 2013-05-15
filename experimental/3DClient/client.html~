@@ -31,12 +31,12 @@
 		<div class="tools_button" id="b_map">Map</div>
 		<div class="tools_button" id="b_settings">Settings</div>
 	</div>
-	<!--<div id="panel_move">
+	<div id="panel_move">
 		<div class="tools_button" id="move_left"></div>
 		<div class="tools_button" id="move_down"></div>
 		<div class="tools_button" id="move_up"></div>
 		<div class="tools_button" id="move_right"></div>
-	</div>-->
+	</div>
 	<div class="leftpanel"></div>
 	<div class="console" id="console"></div>
 	<input type="text" class="textbox" id="coninput" value="" placeholder="Type a command or message here.">

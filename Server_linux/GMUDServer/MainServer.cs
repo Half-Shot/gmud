@@ -32,7 +32,7 @@ namespace GMUDServer
 			server.NewMessageReceived += new SessionHandler<WebSocketSession,string>(OnMessage);
 			server.Start();
 			MainGame = new Game();
-			MainGame.entityHandler.AddEnt(new SamGobson(null));
+			MainGame.StartGame();
 		}
 
         public void DoLogic()

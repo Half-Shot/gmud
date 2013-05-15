@@ -65,12 +65,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PacketHandler.cs" />
     <Compile Include="MainServer.cs" />
     <Compile Include="DatabaseHandler.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Map\Map.cs" />
+    <Compile Include="Consts.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -93,4 +95,7 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+  <ItemGroup>
+    <Folder Include="Map\" />
+  </ItemGroup>
 </Project>

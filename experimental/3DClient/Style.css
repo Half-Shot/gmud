@@ -46,10 +46,10 @@ body
 	position: absolute;
 	background: gray;
 	border: solid 1px black;
-	top:33%;
-	width:25%;
-	height:25%;
-	left:35%;
+	top:25%;
+	width:50%;
+	height:50%;
+	left:25%;
 	padding: 5px;
 	font-size: 14px;
 }

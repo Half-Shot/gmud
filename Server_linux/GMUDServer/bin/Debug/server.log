@@ -1888,3 +1888,482 @@ database is locked
 [22:09]User Connected (127.0.0.1:54663)
 [22:09]Recieved from (127.0.0.1:54663)'[ACN]admin,admi '
 [22:09]User requires account details, checking authentication.
+[14:26]Started Server - 0.0.0.0:2480
+[14:26]Loaded Database Handler.
+[14:26]Logger Writing To File [ OK ]
+[14:26]Database: Integrity [ OK ]
+[14:26]Player Loading [ OK ]
+[14:26]Spawned a Sam Gobson at 297,462,0
+[14:28]User Connected (127.0.0.1:45240)
+[14:28]Recieved from (127.0.0.1:45240)'[ACN]admin,admin'
+[14:28]User requires account details, checking authentication.
+[14:28]Recieved from (127.0.0.1:45240)'[LOD]0'
+[14:28]Load User Request.
+[14:28]Recieved from (127.0.0.1:45240)'[MAP]NeedMapData'
+[14:28]Recieved from (127.0.0.1:45240)'[RDY]'
+[14:28]Spawned a Administrator at 361,475,0
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move left'
+[14:29]Command recieved : move left
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move lefgt'
+[14:29]Command recieved : move lefgt
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move right'
+[14:29]Command recieved : move right
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move right'
+[14:29]Command recieved : move right
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move right'
+[14:29]Command recieved : move right
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move right'
+[14:29]Command recieved : move right
+[14:29]Recieved from (127.0.0.1:45240)'[CMD]move right'
+[14:29]Command recieved : move right
+[14:30]Administrator disconnected from the server. Reason ClientClosing
+[14:30]User Connected (127.0.0.1:45248)
+[14:30]Recieved from (127.0.0.1:45248)'[ACN]admin,admin'
+[14:30]User requires account details, checking authentication.
+[14:30]Recieved from (127.0.0.1:45248)'[LOD]0'
+[14:30]Load User Request.
+[14:30]Recieved from (127.0.0.1:45248)'[MAP]NeedMapData'
+[14:30]Administrator disconnected from the server. Reason ClientClosing
+[14:30]User Connected (127.0.0.1:45249)
+[14:30]Recieved from (127.0.0.1:45249)'[ACN]admin,admin'
+[14:30]User requires account details, checking authentication.
+[14:30]Recieved from (127.0.0.1:45249)'[LOD]0'
+[14:30]Load User Request.
+[14:30]Recieved from (127.0.0.1:45249)'[MAP]NeedMapData'
+[14:30]Recieved from (127.0.0.1:45249)'[RDY]'
+[14:30]Spawned a Administrator at 404,209,0
+[14:30]Recieved from (127.0.0.1:45249)'[CMD]move up'
+[14:30]Command recieved : move up
+[14:31]Recieved from (127.0.0.1:45249)'[CMD]move up'
+[14:31]Command recieved : move up
+[14:36]Administrator disconnected from the server. Reason ClientClosing
+[14:36]User Connected (127.0.0.1:45307)
+[14:36]Recieved from (127.0.0.1:45307)'[ACN]admin,admin'
+[14:36]User requires account details, checking authentication.
+[14:36]Recieved from (127.0.0.1:45307)'[LOD]0'
+[14:36]Load User Request.
+[14:36]Recieved from (127.0.0.1:45307)'[MAP]NeedMapData'
+[14:36]Recieved from (127.0.0.1:45307)'[RDY]'
+[14:36]Spawned a Administrator at 260,385,0
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move right'
+[14:36]Command recieved : move right
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move right'
+[14:36]Command recieved : move right
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move right'
+[14:36]Command recieved : move right
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move right'
+[14:36]Command recieved : move right
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move right'
+[14:36]Command recieved : move right
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move up'
+[14:36]Command recieved : move up
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move up'
+[14:36]Command recieved : move up
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move down'
+[14:36]Command recieved : move down
+[14:36]Recieved from (127.0.0.1:45307)'[CMD]move down'
+[14:36]Command recieved : move down
+[14:37]Recieved from (127.0.0.1:45307)'[CMD]move down'
+[14:37]Command recieved : move down
+[14:37]Recieved from (127.0.0.1:45307)'[CMD]move down'
+[14:37]Command recieved : move down
+[14:38]Administrator disconnected from the server. Reason ClientClosing
+[14:38]User Connected (127.0.0.1:45320)
+[14:38]Recieved from (127.0.0.1:45320)'[ACN]admin,admin'
+[14:38]User requires account details, checking authentication.
+[14:38]Recieved from (127.0.0.1:45320)'[LOD]0'
+[14:38]Load User Request.
+[14:38]Recieved from (127.0.0.1:45320)'[MAP]NeedMapData'
+[14:38]Recieved from (127.0.0.1:45320)'[RDY]'
+[14:38]Spawned a Administrator at 428,297,0
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:38]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:38]Command recieved : move right
+[14:39]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:39]Command recieved : move right
+[14:39]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:39]Command recieved : move right
+[14:39]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:39]Command recieved : move right
+[14:39]Recieved from (127.0.0.1:45320)'[CMD]move right'
+[14:39]Command recieved : move right
+[15:40]Administrator disconnected from the server. Reason ClientClosing
+[8:10 PM]Started Server - 0.0.0.0:2480
+[20:12]Started Server - 0.0.0.0:2480
+[20:12]Loaded Database Handler.
+[20:12]Logger Writing To File [ OK ]
+[20:12]Database: Integrity [ OK ]
+[20:12]Player Loading [ OK ]
+[20:12]Spawned a Sam Gobson at 396,449,0
+[20:13]User Connected (127.0.0.1:59430)
+[20:13]Recieved from (127.0.0.1:59430)'[ACN]admin,admin'
+[20:13]User requires account details, checking authentication.
+[20:13]Recieved from (127.0.0.1:59430)'[LOD]0'
+[20:13]Load User Request.
+[20:13]Recieved from (127.0.0.1:59430)'[MAP]NeedMapData'
+[20:13]Recieved from (127.0.0.1:59430)'[RDY]'
+[20:13]Spawned a Administrator at 255,283,0
+[20:14]Administrator disconnected from the server. Reason ClientClosing
+[20:14]User Connected (127.0.0.1:59457)
+[20:14]Recieved from (127.0.0.1:59457)'[ACN]admin,admin'
+[20:14]User requires account details, checking authentication.
+[20:14]Recieved from (127.0.0.1:59457)'[LOD]0'
+[20:14]Load User Request.
+[20:14]Recieved from (127.0.0.1:59457)'[MAP]NeedMapData'
+[20:14]Recieved from (127.0.0.1:59457)'[RDY]'
+[20:14]Spawned a Administrator at 424,408,0
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move leftr'
+[20:15]Command recieved : move leftr
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:15]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:15]Command recieved : move left
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:16]Command recieved : move left
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:16]Command recieved : move left
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move left'
+[20:16]Command recieved : move left
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move up'
+[20:16]Command recieved : move up
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move down'
+[20:16]Command recieved : move down
+[20:16]Recieved from (127.0.0.1:59457)'[CMD]move right'
+[20:16]Command recieved : move right
+[20:16]Administrator disconnected from the server. Reason ClientClosing
+[21:09]Started Server - 0.0.0.0:2480
+[21:09]Loaded Database Handler.
+[21:09]Logger Writing To File [ OK ]
+[21:09]Database: Integrity [ OK ]
+[21:09]Player Loading [ OK ]
+[21:09]Spawned a Sam Gobson at 38,461,0
+[21:40]Started Server - 0.0.0.0:2480
+[21:40]Loaded Database Handler.
+[21:40]Logger Writing To File [ OK ]
+[21:40]Database: Integrity [ OK ]
+[21:40]Player Loading [ OK ]
+[21:40]Spawned a Sam Gobson at 294,201,0
+[21:42]User Connected (127.0.0.1:57055)
+[21:42]Recieved from (127.0.0.1:57055)'[ACN]admin,admin'
+[21:42]User requires account details, checking authentication.
+[21:42]Recieved from (127.0.0.1:57055)'[LOD]0'
+[21:42]Load User Request.
+[21:42]Recieved from (127.0.0.1:57055)'[MAP]NeedMapData'
+[21:42]Recieved from (127.0.0.1:57055)'[RDY]'
+[21:42]Spawned a Administrator at 360,147,0
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move up'
+[21:42]Command recieved : move up
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move down'
+[21:42]Command recieved : move down
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move dowbn'
+[21:42]Command recieved : move dowbn
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:42]Command recieved : move right
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move right '
+[21:42]Command recieved : move right 
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:42]Command recieved : move right
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:42]Command recieved : move right
+[21:42]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:42]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]scan'
+[21:43]Command recieved : scan
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move right'
+[21:43]Command recieved : move right
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move down'
+[21:43]Command recieved : move down
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move down'
+[21:43]Command recieved : move down
+[21:43]Recieved from (127.0.0.1:57055)'[CMD]move down'
+[21:43]Command recieved : move down
+[21:43]Administrator disconnected from the server. Reason ClientClosing
+[11:44]Started Server - 0.0.0.0:2480
+[11:44]Loaded Database Handler.
+[11:44]Logger Writing To File [ OK ]
+[11:44]Database: Integrity [ OK ]
+[11:44]Player Loading [ OK ]
+[11:44]Spawned a Sam Gobson at 228,190,0
+[11:45]Started Server - 0.0.0.0:2480
+[11:45]Loaded Database Handler.
+[11:45]Logger Writing To File [ OK ]
+[11:45]Database: Integrity [ OK ]
+[11:45]Player Loading [ OK ]
+[11:45]Spawned a Sam Gobson at 266,78,0
+[14:58]Closing Server : From Console
+[17:43]Started Server - 0.0.0.0:2480
+[17:43]Loaded Database Handler.
+[17:43]Logger Writing To File [ OK ]
+[17:43]Database: Integrity [ OK ]
+[17:43]Player Loading [ OK ]
+[17:43]Spawned a Sam Gobson at 401,56,0
+[18:28]Started Server - 0.0.0.0:2480
+[18:28]Loaded Database Handler.
+[18:28]Logger Writing To File [ OK ]
+[18:28]Database: Integrity [ OK ]
+[18:28]Player Loading [ OK ]
+[18:28]Spawned a SamDrone at 382,145,0
+[18:29]Started Server - 0.0.0.0:2480
+[18:29]Loaded Database Handler.
+[18:29]Logger Writing To File [ OK ]
+[18:29]Database: Integrity [ OK ]
+[18:29]Player Loading [ OK ]
+[18:29]Spawned a SamDrone at 143,148,0
+[18:29]Started Server - 0.0.0.0:2480
+[18:29]Loaded Database Handler.
+[18:29]Logger Writing To File [ OK ]
+[18:29]Database: Integrity [ OK ]
+[18:29]Player Loading [ OK ]
+[18:29]Spawned a SamDrone at 221,65,0
+[18:31]Started Server - 0.0.0.0:2480
+[18:31]Loaded Database Handler.
+[18:31]Logger Writing To File [ OK ]
+[18:31]Database: Integrity [ OK ]
+[18:31]Player Loading [ OK ]
+[18:31]Spawned a SamDrone at 416,341,0
+[18:33]Started Server - 0.0.0.0:2480
+[18:33]Loaded Database Handler.
+[18:33]Logger Writing To File [ OK ]
+[18:33]Database: Integrity [ OK ]
+[18:33]Player Loading [ OK ]
+[18:33]Spawned a SamDrone at 447,391,0
+[18:38]Started Server - 0.0.0.0:2480
+[18:38]Loaded Database Handler.
+[18:38]Logger Writing To File [ OK ]
+[18:38]Database: Integrity [ OK ]
+[18:38]Player Loading [ OK ]
+[18:38]Spawned a SamDrone at 398,187,0
+[19:24]Started Server - 0.0.0.0:2480
+[19:24]Loaded Database Handler.
+[19:24]Logger Writing To File [ OK ]
+[19:24]Database: Integrity [ OK ]
+[19:24]Player Loading [ OK ]
+[19:24]Spawned a SamDrone at 0,0,0
+[19:35]Started Server - 0.0.0.0:2480
+[19:35]Loaded Database Handler.
+[19:35]Logger Writing To File [ OK ]
+[19:35]Database: Integrity [ OK ]
+[19:35]Player Loading [ OK ]
+[19:35]Spawned a SamDrone at 0,0,0
+[19:39]User Connected (127.0.0.1:33244)
+[19:39]Recieved from (127.0.0.1:33244)'[ACN]admin,admin'
+[19:39]User requires account details, checking authentication.
+[19:39]Recieved from (127.0.0.1:33244)'[LOD]0'
+[19:39]Load User Request.
+[19:39]Recieved from (127.0.0.1:33244)'[MAP]NeedMapData'
+[19:39]Recieved from (127.0.0.1:33244)'[RDY]'
+[19:39]Spawned a Administrator at 0,0,0
+[19:41]Administrator disconnected from the server. Reason ClientClosing
+[19:41]User Connected (127.0.0.1:33257)
+[19:41]Recieved from (127.0.0.1:33257)'[ACN]admin,admin'
+[19:41]User requires account details, checking authentication.
+[19:41]Recieved from (127.0.0.1:33257)'[LOD]0'
+[19:41]Load User Request.
+[19:41]Recieved from (127.0.0.1:33257)'[MAP]NeedMapData'
+[19:41]Recieved from (127.0.0.1:33257)'[RDY]'
+[19:41]Spawned a Administrator at 0,0,0
+[19:45]Started Server - 0.0.0.0:2480
+[19:45]Loaded Database Handler.
+[19:45]Logger Writing To File [ OK ]
+[19:45]Database: Integrity [ OK ]
+[19:45]Player Loading [ OK ]
+[19:45]Spawned a SamDrone at 0,0,0
+[19:45]User Connected (127.0.0.1:33280)
+[19:45]Recieved from (127.0.0.1:33280)'[ACN]admin,admin'
+[19:45]User requires account details, checking authentication.
+[19:46]User Connected (127.0.0.1:33282)
+[19:46]Recieved from (127.0.0.1:33282)'[ACN]admin,admin'
+[19:46]User requires account details, checking authentication.
+[19:46]User Connected (127.0.0.1:33283)
+[19:46]Recieved from (127.0.0.1:33283)'[ACN]admin,admin'
+[19:46]User requires account details, checking authentication.
+[19:46]Started Server - 0.0.0.0:2480
+[19:46]Loaded Database Handler.
+[19:46]Logger Writing To File [ OK ]
+[19:46]Database: Integrity [ OK ]
+[19:46]Player Loading [ OK ]
+[19:46]Spawned a SamDrone at 0,0,0
+[19:46]User Connected (127.0.0.1:33285)
+[19:46]Recieved from (127.0.0.1:33285)'[ACN]admin,admin'
+[19:46]User requires account details, checking authentication.
+[19:47]Started Server - 0.0.0.0:2480
+[19:47]Loaded Database Handler.
+[19:47]Logger Writing To File [ OK ]
+[19:47]Database: Integrity [ OK ]
+[19:47]Player Loading [ OK ]
+[19:47]Player Loading [ OK ]
+[19:47]User Connected (127.0.0.1:33288)
+[19:47]Recieved from (127.0.0.1:33288)'[ACN]admin,admin'
+[19:47]User requires account details, checking authentication.
+[19:49]Started Server - 0.0.0.0:2480
+[19:49]Loaded Database Handler.
+[19:49]Logger Writing To File [ OK ]
+[19:49]Database: Integrity [ OK ]
+[19:49]Player Loading [ OK ]
+[19:49]Spawned a SamDrone at 0,0,0
+[19:49]User Connected (127.0.0.1:33292)
+[19:49]Recieved from (127.0.0.1:33292)'[ACN]admin,admi '
+[19:49]User requires account details, checking authentication.
+[19:51]Started Server - 0.0.0.0:2480
+[19:51]Loaded Database Handler.
+[19:51]Logger Writing To File [ OK ]
+[19:51]Database: Integrity [ OK ]
+[19:51]Player Loading [ OK ]
+[19:51]Spawned a SamDrone at 0,0,0
+[19:52]User Connected (127.0.0.1:33301)
+[19:52]Recieved from (127.0.0.1:33301)'[ACN]admin,admin'
+[19:52]User requires account details, checking authentication.
+[19:53]Started Server - 0.0.0.0:2480
+[19:53]Loaded Database Handler.
+[19:53]Logger Writing To File [ OK ]
+[19:53]Database: Integrity [ OK ]
+[19:53]Player Loading [ OK ]
+[19:53]Spawned a SamDrone at 0,0,0
+[19:53]User Connected (127.0.0.1:33304)
+[19:53]Recieved from (127.0.0.1:33304)'[ACN]admin,admin'
+[19:54]User requires account details, checking authentication.
+[19:55]User Connected (127.0.0.1:33306)
+[19:55]Recieved from (127.0.0.1:33306)'[ACN]admin,admin'
+[19:55]User requires account details, checking authentication.
+[19:56]Recieved from (127.0.0.1:33306)'[LOD]0'
+[19:56]Load User Request.
+[19:56]Recieved from (127.0.0.1:33306)'[MAP]NeedMapData'
+[19:56]Recieved from (127.0.0.1:33306)'[RDY]'
+[19:56]Spawned a Administrator at 0,0,0
+[19:57]Started Server - 0.0.0.0:2480
+[19:57]Loaded Database Handler.
+[19:57]Logger Writing To File [ OK ]
+[19:57]Database: Integrity [ OK ]
+[19:57]Player Loading [ OK ]
+[19:57]Spawned a SamDrone at 0,0,0
+[19:57]User Connected (127.0.0.1:33314)
+[19:57]Recieved from (127.0.0.1:33314)'[ACN]admin,admin'
+[19:57]User requires account details, checking authentication.
+[19:58]User Connected (127.0.0.1:33318)
+[19:58]Recieved from (127.0.0.1:33318)'[ACN]admin,admin'
+[19:58]User requires account details, checking authentication.
+[19:58]Recieved from (127.0.0.1:33318)'[LOD]0'
+[19:58]Load User Request.
+[19:58]Recieved from (127.0.0.1:33318)'[MAP]NeedMapData'
+[19:58]Recieved from (127.0.0.1:33318)'[RDY]'
+[20:00]Started Server - 0.0.0.0:2480
+[20:00]Loaded Database Handler.
+[20:00]Logger Writing To File [ OK ]
+[20:00]Database: Integrity [ OK ]
+[20:00]Player Loading [ OK ]
+[20:00]Spawned a SamDrone at 0,0,0
+[20:00]User Connected (127.0.0.1:33321)
+[20:00]Recieved from (127.0.0.1:33321)'[ACN]admin,admin'
+[20:00]User requires account details, checking authentication.
+[20:00]Recieved from (127.0.0.1:33321)'[LOD]0'
+[20:00]Load User Request.
+[20:00]Recieved from (127.0.0.1:33321)'[MAP]NeedMapData'
+[20:00]Recieved from (127.0.0.1:33321)'[CMD]dfgdf'
+[20:00]Command recieved : dfgdf
+[20:00]Player Command Unrecognised
+[20:00]Recieved from (127.0.0.1:33321)'[CMD]scan'
+[20:00]Command recieved : scan
+[20:01]Started Server - 0.0.0.0:2480
+[20:01]Loaded Database Handler.
+[20:01]Logger Writing To File [ OK ]
+[20:01]Database: Integrity [ OK ]
+[20:01]Player Loading [ OK ]
+[20:01]Spawned a SamDrone at 0,0,0
+[20:01]User Connected (127.0.0.1:33324)
+[20:01]User Connected (127.0.0.1:33325)
+[20:01]Recieved from (127.0.0.1:33325)'[ACN]admin,admin'
+[20:01]User requires account details, checking authentication.
+[20:01]Recieved from (127.0.0.1:33325)'[LOD]0'
+[20:01]Load User Request.
+[20:01]Recieved from (127.0.0.1:33325)'[MAP]NeedMapData'
+[20:01]Recieved from (127.0.0.1:33325)'[RDY]'
+[20:01]Spawned a Administrator at 0,0,0
+[20:02]Started Server - 0.0.0.0:2480
+[20:02]Loaded Database Handler.
+[20:02]Logger Writing To File [ OK ]
+[20:02]Database: Integrity [ OK ]
+[20:02]Player Loading [ OK ]
+[20:02]Spawned a SamDrone at 0,0,0
+[20:02]User Connected (127.0.0.1:33329)
+[20:02]Recieved from (127.0.0.1:33329)'[ACN]admin,admin'
+[20:02]User requires account details, checking authentication.
+[20:02]Recieved from (127.0.0.1:33329)'[LOD]0'
+[20:02]Load User Request.
+[20:02]Recieved from (127.0.0.1:33329)'[MAP]NeedMapData'
+[20:02]Recieved from (127.0.0.1:33329)'[RDY]'
+[20:03]Started Server - 0.0.0.0:2480
+[20:03]Loaded Database Handler.
+[20:03]Logger Writing To File [ OK ]
+[20:03]Database: Integrity [ OK ]
+[20:03]Player Loading [ OK ]
+[20:03]Spawned a SamDrone at 58,95,0
+[20:03]User Connected (127.0.0.1:33331)
+[20:03]Recieved from (127.0.0.1:33331)'[ACN]admin,admin'
+[20:03]User requires account details, checking authentication.
+[20:03]Recieved from (127.0.0.1:33331)'[LOD]0'
+[20:03]Load User Request.
+[20:03]Recieved from (127.0.0.1:33331)'[MAP]NeedMapData'
+[20:03]Administrator disconnected from the server. Reason ClientClosing
+[20:03]User Connected (127.0.0.1:33332)
+[20:03]Recieved from (127.0.0.1:33332)'[ACN]admin,admin'
+[20:03]User requires account details, checking authentication.
+[20:03]Recieved from (127.0.0.1:33332)'[LOD]0'
+[20:03]Load User Request.
+[20:03]Recieved from (127.0.0.1:33332)'[MAP]NeedMapData'
+[20:03]Recieved from (127.0.0.1:33332)'[RDY]'
+[20:03]Spawned a Administrator at 288,295,0
+[20:10]Closing Server : From Console
+[20:10]Administrator disconnected from the server. Reason ServerShutdown

@@ -50,6 +50,7 @@ function DefinePacket(msg)
 		case "MAP":
 			if(mapdata == null) //Must be a new connection. 
 				webSocket.send("[RDY]"); // The players got everything.
+			
 			lastmap = mapdata;
 			mapdata = arguments;
 			Update();

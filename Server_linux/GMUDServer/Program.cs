@@ -24,6 +24,7 @@ namespace GMUDServer
 		static Thread T_Logger;
         public static MainServer server;
         public static DatabaseHandler database;
+		public static string MapFile = "default.map";
         static void Main (string[] args)
 		{
 			IPAddress IPUsed = IPAddress.Parse ("0.0.0.0"); //Set the right ip address.
@@ -175,6 +176,15 @@ namespace GMUDServer
 
     class MiscMethods
     {
+		public static T[] GrabPortionOfArray<T>(ref T[] array, int start, int end)
+		{
+			T[] endresult = new T[end - start];
+			for (int i = start; i < end; i++) {
+				endresult[i - start] = array[i];
+			}
+			return endresult;
+		}
+
 		public static string StringArrayToString (string[] array)
 		{
 			string output = "";

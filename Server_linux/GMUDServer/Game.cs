@@ -11,7 +11,6 @@ namespace GMUDServer
 		public string address;
         public bool admin;
         public bool banned;
-
         public WebSocketSession session;
         public Player()
         {
@@ -100,258 +99,41 @@ namespace GMUDServer
 		public Game ()
 		{
 			//Init
-			map.Generate();
-			map.Save(Environment.CurrentDirectory + "/" + "default.map");
+			map.Generate ();
+			map.Save (Environment.CurrentDirectory + "/" + Program.MapFile);
+
+			//
+			//if (!System.IO.File.Exists (Environment.CurrentDirectory + "/" + Program.MapFile)) {
+			//	map.Generate ();
+			//} else 
+			//	map.Load(Environment.CurrentDirectory + "/" + Program.MapFile);
 			entityHandler = new EntityHandler();
+			entityHandler.parent = this;
 		}
 
         public void ExecuteGameCommand()
         {
 
         }
+
+		public void StartGame()
+		{
+			SamGobson sam1 = new SamGobson(new Cord(0,0,0));
+			sam1.name = "SamDrone";
+			sam1.health = 100;
+			for (int i = 0; i < 5; i++) {
+				entityHandler.AddEnt(sam1);
+			}
+
+		}
     }
-
-	class Map
-	{
-		char[,,] worldmap;
-		public List<Room> rooms = new List<Room>();
-		List<Cord> doors = new List<Cord>();
-		public Map (int width, int height, int depth)
-		{
-			 worldmap = new char[width,height,depth];
-		}
-
-		public void SetTile(Cord pos, char type)
-		{
-			worldmap[pos.x,pos.y,pos.z] = type;
-		}
-
-		public bool TileIsOnEdge (Cord pos)
-		{
-			if (pos.x == 0 || pos.x == worldmap.GetLength(0) - 1 || pos.y == 0 || pos.y == worldmap.GetLength(1) - 1)
-				return true;
-			return false;
-		}
-
-		public int IsTouching (Cord pos, char type)
-		{
-			int touches = 0;
-			if (worldmap [pos.x - 1, pos.y, pos.z] == type) {
-				touches++;
-			} // Left
-
-			if (worldmap [pos.x + 1, pos.y, pos.z] == type) {
-				touches++;
-			} // Right
-
-			if (worldmap [pos.x, pos.y + 1, pos.z] == type) {
-				touches++;
-			} // Down
-
-			if (worldmap [pos.x, pos.y - 1, pos.z] == type) {
-				touches++;
-			} // Up
-
-			return touches;
-		}
-
-		public int FindTileByDir (Cord pos, int direction, char type, int maxreach = 200)
-		{
-			for (int i = 0; i < maxreach; i++) {
-				switch (direction) {
-				case 0:
-					try {
-						if(worldmap[pos.x,pos.y - i,pos.z] == type)
-							return i;
-					} catch (Exception ex) {
-						return -1;
-					}
-					break;
-				case 1:
-					try {
-						if(worldmap[pos.x + i,pos.y,pos.z] == type)
-							return i;
-					} catch (Exception ex) {
-						return -1;
-					}
-					break;
-				case 2:
-					try {
-						if(worldmap[pos.x,pos.y + i,pos.z] == type)
-							return i;
-					} catch (Exception ex) {
-						return -1;
-					}
-					break;
-				case 3:
-					try {
-						if(worldmap[pos.x - i,pos.y,pos.z] == type)
-							return i;
-					} catch (Exception ex) {
-						return -1;
-					}
-					break;
-				default:
-					return -1;
-					break;
-				}
-			}
-
-			return -1;
-		}
-
-		public void Generate ()
-		{
-			Random rand = new Random ();
-			for (int z = 0; z < worldmap.GetLength(2); z++) {
-				for (int x = 0; x < worldmap.GetLength(0); x++) {
-					for (int y = 0; y < worldmap.GetLength(1); y++) {
-						worldmap [x, y, z] = '#';
-					}
-					
-				}
-
-				//Create rooms
-				for (int actions = 0; actions < rand.Next(150,300); actions++) {
-					int width = rand.Next (1, 15), height = rand.Next (1, 10);
-					int cx = 0, cy = 0;
-					while(cx - width < 25 || cx + width > 486 || cy - height < 25 || cy + height > 486)
-					{
-						cx = rand.Next(0,511);
-						cy = rand.Next(0,511);
-					}
-					int direction = rand.Next (0, 4);
-					rooms.Add(CreateRoom(new Cord(cx,cy,z),width,height));
-				}
-				foreach(Room room in rooms)
-					{
-						if(room.height < 3 || room.width < 3) //Room too small to be usable.
-							continue;
-
-						List<Cord> walls = new List<Cord>();
-						for (int _x = room.x - room.width - 1; _x < room.x + room.width + 1; _x++) {
-							walls.Add(new Cord(_x,room.y - room.width,z));
-							walls.Add(new Cord(_x,room.y + room.width,z));
-						}
-						
-						for (int _y = room.y - room.height - 1; _y < room.y + room.height + 1; _y++) {
-							walls.Add(new Cord(room.x -room.width,_y,z));
-							walls.Add(new Cord(room.x + room.width,_y,z));
-						}
-						
-						Cord doorpos = walls[rand.Next(0,walls.Count() - 1)];
-						doors.Add(doorpos);
-						while(IsTouching(doorpos,'.') > 2 || IsTouching(doorpos,'#') > 3) //A door should never touch more than 2 of the floor and no more than 3 of the walls.
-						{
-							doorpos = walls[rand.Next(0,walls.Count() - 1)];
-						}
-						worldmap[doorpos.x,doorpos.y,doorpos.z] = 'D';
-					}
-					//Save(System.Environment.CurrentDirectory + "/" + "nopaths.map");
-					foreach(Cord door in doors)
-					{
-						if(worldmap[door.x,door.y,door.z] != 'D')
-							continue;
-						//Get forward direction.
-						int dir = 2; //0=up
-						if(worldmap[door.x + 1,door.y,door.z] == '.')
-							dir = 3;
-						else if(worldmap[door.x,door.y + 1,door.z] == '.')
-							dir = 0;
-						else if(worldmap[door.x - 1,door.y,door.z] == '.')
-					        dir = 1;
-						
-					   	
-					int distance = FindTileByDir(door,dir,'.',1000);
-					if(distance == -1)
-					{
-						worldmap[door.x,door.y,door.z] = '#';
-					}
-					else
-					{
-						switch(dir){
-							case 0:
-								for (int i = 1; i < distance; i++) {
-								worldmap[door.x - 1,door.y - i,door.z] = '#';
-								worldmap[door.x,door.y - i,door.z] = '.';
-								worldmap[door.x + 1,door.y - i,door.z] = '#';
-							    }
-								break;
-							case 1:
-								for (int i = 1; i < distance; i++) {
-								worldmap[door.x + i,door.y - 1,door.z] = '#';
-								worldmap[door.x + i,door.y,door.z] = '.';
-								worldmap[door.x + i,door.y + 1,door.z] = '#';
-							    }
-								break;
-							case 2:
-								for (int i = 1; i < distance; i++) {
-								worldmap[door.x - 1,door.y + i,door.z] = '#';
-								worldmap[door.x,door.y + i,door.z] = '.';
-								worldmap[door.x + 1,door.y + i,door.z] = '#';
-							    }
-								break;
-							case 3: //Left
-								for (int i = 1; i < distance; i++) {
-								worldmap[door.x - i,door.y - 1,door.z] = '#';
-								worldmap[door.x - i,door.y,door.z] = '.';
-								worldmap[door.x - i,door.y + 1,door.z] = '#';
-							    }
-								break;
-						}
-					}   
-					}
-			}
-		}
-		private Room CreateRoom (Cord cord,int width, int height)
-		{
-					//Floor
-					for (int _y = -height; _y < height; _y++) {
-						for (int _x = -width; _x < width; _x++) {
-							worldmap [cord.x + _x, cord.y + _y, cord.z] = '.';
-						}
-					}
-			Room room = new Room();
-			room.x = cord.x;
-			room.y = cord.y;
-			room.z = cord.z;
-			room.width = width;
-			room.height = height;
-			return room;
-		}
-
-		public string[] ToStringArray()
-		{
-			List<string> lines = new List<string>();
-			for (int z = 0; z < worldmap.GetLength(2); z++) {
-				for (int y = 0; y < worldmap.GetLength(1); y++) {
-					string line = "";
-					for (int x = 0; x < worldmap.GetLength(0); x++) {
-						line += worldmap[x,y,z];
-					}
-					lines.Add(line);
-				}
-				lines.Add("BREAK");
-			}
-
-			return lines.ToArray();
-		}
-
-		public void Save (string filepath)
-		{
-			System.IO.File.WriteAllLines(filepath,ToStringArray());
-
-		}
-	}
-
-	class Room
-	{
-		public int width,height,x,y,z = 0;
-	}
 
 	class EntityHandler
 	{
 		private List<Entity> Ents = new List<Entity>();
+		private List<Entity> entstoadd = new List<Entity>();
+		private List<Entity> entstoremove = new List<Entity>();
+		public Game parent;
 		public List<Entity> ents {
 			get {
 				return Ents;
@@ -359,12 +141,11 @@ namespace GMUDServer
 
 		}
 
-		List<Entity> entstoadd = new List<Entity>();
-		List<Entity> entstoremove = new List<Entity>();
 
 		public void AddEnt(Entity ent)
 		{
 			entstoadd.Add(ent);
+			ent.parent = this;
 		}
 
 		public void RemoveEnt(Entity ent)
@@ -398,7 +179,7 @@ namespace GMUDServer
 					Ents[i].Spawn(10);
 				}
 			}
-			System.Threading.Thread.Sleep(25);
+			System.Threading.Thread.Sleep(Consts.EH_TIMEOUT);
 		}
 
 		public int Distance(Entity e_from, Entity e_to)
@@ -450,6 +231,7 @@ namespace GMUDServer
 		public char letter;
 		public bool isinCombat;
 		public bool waitingToSpawn = true;
+		public EntityHandler parent;
 		public Entity ()
 		{
 			position = new Cord(0,0,0);
@@ -469,12 +251,9 @@ namespace GMUDServer
 		{
 			this.health = health;
 			Spawned = true;
-			if (pos == null) {
+			if (pos == null || pos == new Cord(0,0,0)) {
 				Room room = Program.server.MainGame.map.rooms [rand.Next (0, Program.server.MainGame.map.rooms.Count - 1)]; //Get a random spawn room.
-				position = new Cord(0,0,0);
-				position.x = room.x;
-				position.y = room.y;
-				position.z = room.z;
+				position = new Cord(room.getCenter().x,room.getCenter().y,room.getCenter().z);
 			}
 			else
 				position = pos;
@@ -548,6 +327,14 @@ namespace GMUDServer
 		public override string ToString ()
 		{
 			return x + "," + y + "," + z;
+		}
+
+		public static int Distance(Cord c1, Cord c2)
+		{
+			int width = Math.Max(c1.x,c2.x) - Math.Min(c1.x,c2.x);
+			int height = Math.Max(c1.y,c2.y) - Math.Min(c1.y,c2.y);
+
+			return (int)Math.Sqrt(Math.Pow(width,2) + Math.Pow(height,2));
 		}
 	}
 

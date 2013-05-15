@@ -1,7 +1,7 @@
 #webgl-area
 {
 	width:100%;
-	background: green;
+	background: black;
 	height: 100%;
 }
 
@@ -47,9 +47,9 @@ body
 	background: gray;
 	border: solid 1px black;
 	top:33%;
-	width:25%;
+	width:50%;
 	height:25%;
-	left:35%;
+	left:25%;
 	padding: 5px;
 	font-size: 14px;
 }
